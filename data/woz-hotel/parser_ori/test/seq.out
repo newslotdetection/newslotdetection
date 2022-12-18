@@ -1,0 +1,2910 @@
+O O O O O O O O B-calendric_unit
+O O B-people O O O O O O
+O O O O O B-cardinal_numbers O O O
+O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O
+O O O O O O B-building_subparts O O O O O O O O O O O
+O O O O O O O O B-people O O O O O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O O O O O
+O O O O O O O O O O B-calendric_unit O
+O O B-artifact-contacting-text-verification O O O O O O O O O
+O O O B-people O O O O O O O O
+O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O O O O O O B-calendric_unit O O O O O O O
+O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-residence O O O O O
+O O O O O O O O B-people O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O
+O O O O O O O O O O O O O O O O O O O O B-residence O O O
+O O O O O O O O O O O O B-calendric_unit O
+O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O B-people O O O O O O O O
+O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O B-calendric_unit O
+O O O O B-cardinal_numbers O O O O O O
+O O B-people O O O O O O O
+O O O O O B-cardinal_numbers O O O O
+O O O O O O B-buildings O O O O O O O
+O O O O O O O O O B-part_whole O O O O
+O O O O O O O O O O O B-political_locales O O
+O O O O O O O O O O O O O O B-calendric_unit
+O O O B-cardinal_numbers O O O O O O O O O O O
+O O O O O O O B-people O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O
+O O O O O O O O B-locative_relation-part_orientational O O
+O O O O O O O O O O O B-placing O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O O O O O B-expensiveness O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-stars O O O O O O O O O O
+O O O O B-expensiveness O O O
+O O O O O B-cardinal_numbers O O
+O O O O O O O O O O B-speak_on_topic-statement-topic O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-placing O
+O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O B-locative_relation-part_orientational O O O O O O O
+O O O O O O O O O O O O B-cardinal_numbers O
+O O O O O B-expensiveness O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-inclusion O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-placing O
+O O O O O O B-locale O O O O O O O O O O O O O O O O
+O O O O O O O O B-residence O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-expensiveness O O O O
+O O O O O O O O O O O O O O B-stars O O O O O O O O
+O O B-calendric_unit O O O O O O O O O O O O
+O O O O O O O O O O O O O B-inclusion O
+O O O O O O B-residence O O O O O O O O
+O O O O O O O O O B-part_inner_outer O O O
+O O O O O O O O O O O B-political_locales O
+O O O O B-stars O O O O O O O O
+O O O O O O O B-expensiveness O O
+O O O O O O O O B-cardinal_numbers O
+O O O O O O B-locale O O O O O O O O O O O O O
+O O O O O O O O B-residence O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-stars O O O
+O O O O B-buildings O O
+O O O O O O O B-buildings O O
+O O O O O B-stars O O O O
+O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O O O O B-direction O O
+O O O O O O B-locale O
+O O B-cardinal_numbers O O O O O
+O O O O O O O O O O B-calendric_unit
+O O O O B-cardinal_numbers O O O O O O
+O O O O B-locative_relation-part_orientational O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O O
+O O O O O O O O O O O O O O O O B-artifact-contacting-text-verification O O O O
+O O O O O O O O O O O O O O O O O O O B-calendric_unit
+O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O
+O O O O O O O O O O O O O O O B-residence O O O O
+O O O O O O O O O B-people O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-nights O O O
+O O O O O O B-speak_on_topic-statement-topic O
+O O O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O O O O O
+O O O O O O O O O O B-calendric_unit O O O O O O
+O O O O O O O O O O O O B-residence O O O O
+O O O O O O O O O O O O O O B-cardinal_numbers O O
+O O O O O B-buildings O O O O
+O O O O O O O O B-buildings O
+O O O O O O B-calendric_unit
+O O O B-artifact-contacting-text-verification O O O
+O O O O O O O O O O O O B-calendric_unit O
+O O O O O B-people O O O O O O O O
+O O O O O O O O B-cardinal_numbers O O O O O
+O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O O O O B-part_inner_outer O O O O O
+O O O O O O O B-buildings O O O O O O O O
+O O O O O O O O O O O O B-political_locales O O O
+O O O O O O O B-locative_relation-part_orientational O
+O O B-being_obligated-needing-possession-required_event O O O O O
+O O O O O O O O O O O O O O O B-commerce_scenario O O
+O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O O O O O O O O O O O O O O O O O B-placing O O O O O O O O O O
+O O O O O O B-locale O O O O O O O O O O O O O O O O O O O O O O
+O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-residence O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-locale O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-expensiveness O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-stars O O
+O O O O O O O O O O O O O B-buildings O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O O O O O O O O O O B-expensiveness O O O O O
+O B-buildings O O O O O
+O O O O O O B-locative_relation-part_orientational
+O O O O O O O O O O O O B-inclusion O O
+O O O O O O O O O O O O O O B-placing
+O O O O B-part_inner_outer O O O O O O O O O O
+O O O O O O O B-expensiveness O O O O O O O
+O O O O O O O O O O B-buildings O O O O
+O O O O O O O O O O O O O B-expensiveness O
+O O O O O O O O B-stars O O O O O O
+O O O O O O O O O O O O O O O O O O B-locale O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-placing O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-commerce_scenario O
+O O O O O O O O O O O O O O O O O O O O O B-direction O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-political_locales O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-stars O O O O O O O O O
+O O O O O O O O O O O O O B-calendric_unit O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O O O
+O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-people O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O O
+O O O O B-temporal_subregion O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-calendric_unit O
+O B-buildings O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-expensiveness O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-performers_and_roles O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-people O O O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-expensiveness O O O O O O
+O O O O O O O O O O O O O O B-inclusion O O O
+O O O O O O O O O O O O O O O O B-placing O
+O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O
+O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O
+O O O O O O O O O O B-residence O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-stars O O
+O O O O O O O O O O B-part_inner_outer O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-calendric_unit O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O
+O O O O O O O B-buildings O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-expensiveness O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O
+O O O O O B-information O O O O O O O O
+O O O O O O O O B-buildings O O O O O
+O O O O O B-stars O O O O
+O O O O O B-building_subparts O O O O O O O O O O
+O O O O O O O O O B-people O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-part_inner_outer O O O O O O O O O O O O O
+O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-artifact-contacting-text-verification O O O O O O
+O O O O O B-cardinal_numbers O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-placing O
+O O O O O O B-locative_relation-part_orientational O O O O O O O O
+O O O O O O O B-part_whole O O O O O O O
+O O O O O O O O O B-political_locales O O O O O
+O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O B-calendric_unit O O O O O O O O
+O O O O O O O O O O O O O O O O O B-cardinal_numbers O O O
+O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O
+O O O O O B-expensiveness O O
+O O O O O O B-buildings O
+O O O O O O O B-locale O O O
+O O O O O O O O O B-residence O
+O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O
+O O O O O B-people O O O O O O O O O O O O O O O
+O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O
+O O O O O O O O O O O O O B-calendric_unit O
+O O O B-people O O O O O O O O O O O
+O O O O O O B-cardinal_numbers O O O O O O O O
+O O O O O O O O O O O O O O O O O B-calendric_unit O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-artifact-contacting-text-verification O O O O
+O O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O
+O O O B-nights O O
+O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O O O O B-buildings O O O O O O O O O O O O O O O O O
+O O O O O O O O B-people O O O O O O O O O O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O
+O O O O O O O O B-stars O O O O O O O O O O
+B-locative_relation-part_orientational O O O O O
+O B-part_whole O O O O
+O O O B-political_locales O O
+O O O O O O O O O O O B-calendric_unit O
+O O O O O B-people O O O O O O O
+O O O O O O O O B-cardinal_numbers O O O O
+O O O O O O O O B-expensiveness O O O O O O O O O O O O O O
+O O O O O O O O O O B-commerce_scenario O O O O O O O O O O O O
+O O O O O B-buildings O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-commerce_scenario O O O O O O O O O O O
+O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O O O
+O O O O O O O O O O O O O O O B-people O O O O O O O
+O O O O O O O O O O O O O O O O O O B-cardinal_numbers O O O O
+O O O O O O O O O O B-expensiveness O O O O O O
+O O O O O O O O O O O B-buildings O O O O O
+O O O O O O O O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O O O O O O O B-calendric_unit O O O O O O
+O O O O O O O O O O O O O O B-residence O O O O
+O O O O O O B-people O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O O
+O O O O O O O B-people O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O O O O O O O
+O O O O O O B-people O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O B-inclusion O O
+O O O B-inclusion O O O O O O O
+O O O O O B-locale O O O O O O O O O
+O O O O O O O O O O B-locative_relation-part_orientational O O O O
+O O O O O O O B-residence O O O O O O O
+O O O O O O O O O B-placing O
+O O B-part_inner_outer O O O O O O O O
+O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O B-expensiveness O O O O O O O O O O
+O O O O O O O O O O O O B-locale O O O O O O O O O
+O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-residence O O O O O O O
+O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O
+O O O O O O O O O O O O O O O O O O B-part_whole O O O
+O O O O O O O O O O B-placing O
+O O O O B-locale O O O O O O O
+O O O O O O B-residence O O O O O
+O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O B-inclusion O O O O O O O O O
+O O O O O O O O O B-buildings O O O O O O O O O O O
+O O O O O O O B-stars O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-quantified_mass-quantity O O
+O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O
+O O O O B-cardinal_numbers O O O O O O O O O O O
+O O O O O O O O O O O O B-economy-foreign_or_domestic_country-storing-text_creation-type O
+O O O O O O O O B-stars O O O O O
+O O B-buildings O O O
+O O O O O O O O O O O O O B-calendric_unit O
+O O O O B-building_subparts O O O O O O O O O O
+O O O O O O B-people O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O O B-placing O O O O O O
+O O O O O O O O O B-buildings O O O O O O O O O
+O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O
+O O O O O O O B-economy-foreign_or_domestic_country-storing-text_creation-type O O O O O O O O O O O
+O O O O O O O O O O O B-expensiveness O O O O O O O
+O O O B-people O O O O O O O O
+O O O O O O O O O O O O B-calendric_unit
+O O O B-artifact-contacting-text-verification O O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O
+O O O O O O B-people O O O O O O
+O O O O O O B-locative_relation-part_orientational O O O O O
+O O O O O O O B-part_whole O O O O
+O O O O O O O O O B-political_locales O O
+O O O O O O B-buildings O O O O
+O O O O O O O O B-direction O O
+O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O
+O O O O O O O O O O O O O O O O B-buildings O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-offering O O O
+O O O O O O O O B-expensiveness O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-inclusion O O O O
+O O O O O B-locale O O O O O O O O O O O
+O O O O O O O O O O B-locative_relation-part_orientational O O O O O O
+O O O O O O O B-residence O O O O O O O O O
+O O O O O O O O O O O O O B-expensiveness O O O
+O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O O O
+O O O O O O O B-buildings O O O O O O O O O O O O O O O
+O O B-nights O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-people O O O O O O O O O O O O O
+O O O O O O O O O B-buildings O O O O
+O O O O O O O O O O O B-residence O O
+O O O O O O O B-stars O O O O O O
+O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O B-people O O O O O O O O
+O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O B-inclusion O O O O O O O
+O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O
+O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O O O O O O O B-calendric_unit
+O O O B-buildings O O O O O O O O O
+O O O O O B-cardinal_numbers O O O O O O O
+O O O O O O O O O O B-stars O O O
+O O O O O B-buildings O O O O O O O
+O O O O O O O O O O O B-expensiveness O
+O O O O O O O O B-direction O O O O
+O O O O O B-buildings O
+O O O B-economy-foreign_or_domestic_country-storing-text_creation-type O O O
+O O O O O O O O O O O O B-residence
+O O O O O O O O O O B-being_obligated-needing-possession-required_event O O
+O O O O B-buildings O O O O O O
+O O O O O O O B-stars O O O
+O O O O O O O B-calendric_unit O O O O O O O
+O O O O O O O O O O O B-choosing O O O
+O O O O B-cardinal_numbers O O O O O O O O O O
+O O O O O O O O O O O O B-cardinal_numbers O O
+O O O O O O B-stars O O O
+O O O B-inclusion O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-calendric_unit O O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O
+O O O O O O O B-buildings O O O O
+O O O O O O O O O B-residence O O
+O O O O O B-stars O O O O O O
+O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-people O
+O O O O O O B-expensiveness O O
+O O O O O O O B-buildings O
+O O O B-residence O O O O O O O O O
+O O O O O B-calendric_unit O O O O O O O
+O O O O O O O O O O O O O B-locative_relation-part_orientational
+O O O O O O O B-residence O O O O O O
+O O O O O O B-placing O
+O O O O O B-expensiveness O O
+O B-cardinal_numbers O O O O O O
+O O O O O O B-residence O O O O O O O O O O O
+O O O O O O O O O B-quantified_mass-quantity O O O O O O O O
+O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O
+O O O O O O O O O O O O O O O B-aggregate-social_event O O
+O O O O O O O B-buildings O O O O O O O O O O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O
+O O O O O O B-economy-foreign_or_domestic_country-storing-text_creation-type O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-people O O O O O O O
+O O O O O O O O O O O O O O O O O B-cardinal_numbers O O O O
+O O O O O O B-quantified_mass-quantity O O O O O O O O O O
+O O O O O O O B-expensiveness O O O O O
+O O O O O O O O B-commerce_scenario O O O O
+O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O
+O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-placing O
+O O O O O O O O O B-locale O O O O O O
+O O O O O O O O O O O O O B-expensiveness O O
+O O O O O B-speak_on_topic-statement-topic O O
+O O O O O O O O O O O O O B-calendric_unit O
+O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O B-people O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O O O O O O O B-placing O
+O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O
+O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O B-artifact-contacting-text-verification O O O O O O O
+O O O O O O O B-stars O O O
+O O O O O O O O O B-calendric_unit O O O O O O O
+O O O O O B-buildings O O O O O O O O O O O
+O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O
+O O O O O O O O O O O B-people O O O O O
+O O O O O O O O O O O O O O B-cardinal_numbers O O
+O O O B-people O O O O O O O O
+O O O O O O B-cardinal_numbers O O O O O
+O B-calendric_unit O O O O O O O
+O O O B-people O O O O O
+O O O O O O B-cardinal_numbers O O
+O O O O O O O O O O O B-expensiveness O
+O O O O O O B-artifact-contacting-text-verification O O O O O O
+O O O O O O O O B-cardinal_numbers O O O O
+O O O O O B-calendric_unit O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O O B-nights O O
+O O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O
+O O O O O O B-cardinal_numbers O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit O O O
+O O O O O O O B-buildings O O O O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O O O O O O
+O O O O O O O O O O O O B-people O O O O O O
+O O O O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-residence O O O O O O O
+O O B-buildings O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-people O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O O O B-calendric_unit O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-building_subparts O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-people O O O O O O O O O
+O O O O O O O O O O O O O O O O B-expensiveness
+O O O O O B-locale O O O O O O O O O O O
+O O O O O O O B-residence O O O O O O O O O
+O O O O O O O O O O O O O B-stars O O O
+O O O O O O O B-people O O O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O O O
+O O O O O O O O O O O O O B-locale O O O O O O O O O O O O O O
+O O O O O O O B-choosing O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-residence O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-direction O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-stars O O O
+O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O B-people O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O B-locale O O O
+O O O O O O O O O O O B-residence O
+O O O O O O O B-stars O O O O O
+O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O
+O O O O O O O O O O B-quantified_mass-quantity O O O O
+B-buildings O O O O O O O O O O O O O O
+O O O O O O O O O B-artifact-contacting-text-verification O O O O O
+O O O O O O O O O O O O B-cardinal_numbers O O
+O O O O O O O O O O O O O O O O O B-calendric_unit O
+O O O B-residence O O O O O O O O O O O O O O O
+O O O O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit O
+O O B-inclusion O O O O O O O O O O O O O O
+O O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-placing O
+O O O O O O O O O O O O O O O O O O B-buildings O O O O O O O O O O O O
+O O O O O O O O B-locale O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O B-locale O O O O O O O
+O O O O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O O B-residence O O O O O
+O O O O O B-calendric_unit O
+O O O O O O O O O O O O O O O O O B-inclusion O O
+O O O O O O O O O B-stars O O O O O O O O O O
+O O O O O B-buildings O O O O O O O O O O O O O O
+O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-commerce_scenario O O
+O O O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O O O O O O O O B-part_whole O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-information O O O O
+O O O O O O O O B-buildings O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-buildings O O O O O O O O O O O
+O O O O O O O B-locative_relation-part_orientational O O O
+O O O O O O B-buildings O O O
+O O O O O O O O B-buildings O
+O O O O O O O O O B-quantified_mass-quantity O O
+O O O O O O O O B-artifact-contacting-text-verification O O O
+O O O O O O O B-calendric_unit O
+B-people O O O O O O O O
+O O O B-cardinal_numbers O O O O O
+O O O O O O B-buildings O O O O O O
+O O O O O O O O O O O B-buildings O
+O O O O O O O O B-buildings O O O O O O O O O O O
+O O O O O O O O O O B-inclusion O O O O O O O O O
+O O O O O O B-stars O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-stars O O O
+O O O O O O O O O O O O O O O O B-information O O O
+O O O O O O O B-buildings O O O O O O O O O O O O
+O O O O O O O O O B-political_locales O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-cardinal_numbers O
+O O O O O O O O O O O B-quantified_mass-quantity O O O
+O O O O O O O O O B-locative_relation-part_orientational O
+O O B-being_obligated-needing-possession-required_event O O O O O O O O
+O O O O B-artifact-contacting-text-verification O O O O O O
+O O O O O O O O B-commerce_scenario O O
+O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O
+O O O O O O O O O O O O B-quantified_mass-quantity O O O
+O O O O O O O O O O O O O O B-activity_start-process_start O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-calendric_unit O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O O
+O O O O O O O O B-people O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-aggregate-social_event O O O O
+O O O O O O B-buildings O O O O O O O
+O O O O O O O O O O O O B-buildings O
+O O O O B-calendric_unit
+O O O O B-nights O O O
+O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit O O O O O O O
+O O O O O O O O O O O O O O O O O B-people O O O O O
+O O O O B-placing O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-calendric_unit O O O O O O O
+O O O B-expensiveness O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-building_subparts O O O O O O O O O
+O O O O O O O O O O O O O O O O B-people O O O O O
+O O O O O O O O O O O B-part_inner_outer O O O O O
+O O O O O O O O O O O O O B-offering O O O
+O O O O O O B-locale O O O O O O O O O O
+O O O O O O O O B-residence O O O O O O O O
+O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O B-locale O O O O
+O O O O O O O O O O O O O O B-cardinal_numbers O O
+O O O O B-stars O O O O O O O O O O O O
+O O O O B-speak_on_topic-statement-topic O O O
+O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O O O O O O O O O O B-speak_on_topic-statement-topic O O O O O O O O O O
+O O O O O O O O O O B-commerce_scenario O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O O O O O O O O O O O O
+O B-cardinal_numbers O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O B-people O O O O O O O
+O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O O O O B-calendric_unit O
+O O O B-buildings O O O O O O O O O O O O
+O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O B-commerce_scenario O O
+O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+B-cardinal_numbers O O O O O O
+O O O O O O O O O O O O O O B-calendric_unit O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O
+O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O
+O O O O O B-locative_relation-part_orientational O O
+O O O O O O O O B-buildings O
+O O O O O O O B-expensiveness O
+O O O O B-locale O O O O O O O O
+O O O O O O O O O O O B-buildings O
+O O O O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O B-direction O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-stars O O O O O O O O O O O
+O O O O O O O B-artifact-contacting-text-verification O O O O
+O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O O O O O O O
+O O O O B-buildings O O O O O O O O O O O
+O O O O B-buildings O
+O O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O O B-buildings O O O O O O O O O
+O O O O O O O O O B-people O O O O O O O
+O O O O O O O O O O O O B-cardinal_numbers O O O O
+O O O O O O O O O O B-buildings
+O O O B-being_obligated-needing-possession-required_event O O O O O O O
+O O O O O B-residence O O O O O
+O O O O O O O B-calendric_unit O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O O O
+O O O O O B-building_subparts O O O O O O O O O O
+O O O O O O O O O O O O O B-people O O
+O O O O O O O O B-cardinal_numbers O
+O O O O O O B-stars O O O
+O O O O O O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O
+O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O
+O O B-artifact-contacting-text-verification O O O O O O O O O O
+O O O O O B-people O O O O O O O
+O O O O O O O O B-cardinal_numbers O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-part_whole O
+O O O O O O O O O O O O O O B-buildings O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-offering O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-direction O O
+O O O O O O O O O O O O O O O O O B-expensiveness O O O O O O O O O
+O O O O O O O O O O O O B-stars O O O O O O O O O O O O O O
+O O O O O B-people O O O O O O O O
+O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O B-aggregate-social_event O
+O O O O O O B-buildings O O O O
+O O O O O O O O B-expensiveness O O
+O O O O B-stars O O O O O O
+O O O O O O O B-residence O O
+O O O O B-buildings O O O O
+O O O O O O B-stars O O
+O O O O O B-locale O O O O O O O O O O O O O O O
+O O O O O O O B-residence O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O
+O O O O O O O O O O O O O O O O O B-part_whole O O O
+O O O O O O O O O O O O O O O O O O O B-political_locales O
+O O O O O O O O O O O B-stars O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-aggregate-social_event O O
+O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-buildings O O O O O O O O
+O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-economy-foreign_or_domestic_country-storing-text_creation-type O O O O O O O
+O O O O O O B-calendric_unit O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O
+O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O
+O O O O O O O O B-people O O O O O O O O O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O
+O O O O O O O O O O O B-residence O O O
+O O O O O O O O O O O O O B-calendric_unit O
+O O O B-residence O O O O O O O O O O O
+O O B-calendric_unit O O O O O O O O
+O O O O B-people O O O O O O
+O O O O O O O O O O O O O O O B-expensiveness O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-placing O
+O O O O O O B-locale O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-buildings O O O O O O O O O
+O O O O O O O O B-residence O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O B-expensiveness O O O O O
+O O O O O O B-buildings O O O O
+O O O O O O O O O B-locative_relation-part_orientational O
+O O O O B-expensiveness O O O O O O O O
+O B-placing O O O O O O O O O O O
+O O O O O O O O O O O O B-locative_relation-part_orientational
+B-expensiveness O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-calendric_unit O
+O O O O B-locale O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-cardinal_numbers O O O O
+O O O O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O
+O O O O O O O O O B-buildings O O O O O
+O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O
+O O O B-locale O O O O O O
+O O O O O B-residence O O O O
+O O O O O O O B-stars O O
+O O O O O O O O O O O B-calendric_unit O
+O O O O O B-people O O O O O O O
+O O O O O O O O B-cardinal_numbers O O O O
+O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-quantified_mass-quantity O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-buildings O O O O O
+O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-locale O
+O O O O O O O O O O O O O O O O O O B-stars O O O O O O O
+O O O B-buildings O
+O B-locale O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-building_subparts O O O O O O O O
+O O O O O O O O O O O O O O B-people O O O O O
+O O O O O O O O O O B-part_inner_outer O O O
+O O O O O B-locale O O O O O O O O
+O O O O O O O B-residence O O O O O O
+O O O O O O O O O O O O O O O O O B-information O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-buildings O
+O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-commerce_scenario O O O O
+O O O O O O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O
+O O O O O O O B-locale O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-locative_relation-part_orientational
+O O O O O O O B-stars O O O O
+O O O O O O O O O O O O O B-calendric_unit O
+O O O O B-artifact-contacting-text-verification O O O O O O O O O O
+O O O O O O O B-people O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O
+O O O B-inclusion O O
+O O O O B-placing O
+O B-buildings O O O O
+O O O O O O O B-aggregate-social_event O O O O
+O O O O O O O O O B-cardinal_numbers O O
+O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-locale O O O O
+O O O O O B-cardinal_numbers O O O O O O O O O O O O O O O O
+B-locative_relation-part_orientational O O O O O
+O B-part_whole O O O O
+O O O B-political_locales O O
+O O O O O O O O O O O O O O B-placing O O O O
+O O O O O O O O B-buildings O O O O O O O O O O
+O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O
+O O O O O O O O O O O B-expensiveness O O O O O O O
+O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O B-building_subparts O O O O O O O O O O
+O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O B-buildings O O O
+O B-economy-foreign_or_domestic_country-storing-text_creation-type O O O O O
+O O O O O O O B-expensiveness O O O
+O O O O O O O O B-buildings O O
+O O O O O O O O O O O O B-residence O O O
+O O O O O B-locale O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-buildings O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-commerce_scenario O
+O O O O O O O O O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range
+O O O O O O O B-residence O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-performers_and_roles O O O O O O O O O O
+O O O B-locale O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-buildings O O O O
+O O O O O B-residence O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-stars O O
+O O O O O O O O O O B-buildings O O O O O O O O O
+O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-placing O
+O O O O O O B-expensiveness O O O O O O O O O
+O O O O O O O O O B-stars O O O O O O
+O O O O O O O O O O O O O B-calendric_unit O
+O O O O O B-people O O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O O O O O O O O O B-inclusion O O
+O O O O O B-locale O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-buildings O O O O O O O O O O O
+O O O O O O O B-residence O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-performers_and_roles O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-expensiveness O
+O O O O O O O O O O O O O O O B-stars O O
+O O O O O O O B-expensiveness O O O O O O O
+O O O O O O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O O O O O O O B-quantified_mass-quantity O O O O O O O
+O O O O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O
+O O O O O O O O O O O O O O B-commerce_scenario O O O O O
+O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O
+O O O B-stars O O O
+O O O O O B-locale O O O O O
+O O O O O O O O O B-expensiveness O
+O O O O B-speak_on_topic-statement-topic O O O O O
+O O O O O O O O B-buildings O
+O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-buildings O O O O O
+O O O O O O B-locale O O O O O O O O O O O
+O O O O O O O O O O O O O O B-stars O O O
+O O O O B-commerce_scenario O O
+O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O O O O O O O O O O O O O O O B-placing O O O
+O O B-commerce_scenario O O O O O O O O O O O O O O O O O
+B-locale O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-expensiveness O O O O
+O O O O O B-direction O O O O
+O O O O O O B-locative_relation-part_orientational O O O
+O O O O O O O O B-political_locales O
+O O O O O O O O O O O O O O B-people O O
+O O O O O O B-people O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O
+O O B-direction O O O
+O O B-locative_relation-part_orientational O O O O O O
+O O O B-part_whole O O O O O
+O O O O O B-political_locales O O O
+O O O O B-buildings O O O O
+O B-commerce_scenario O O O O O O O O O O
+O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O O
+O O O O O O B-stars O O O O O
+O O O O O O O O O O O O O O O O O B-residence O O O
+O O O O O O O O O O O O O O O O O O O B-calendric_unit O
+O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O
+O O O B-cardinal_numbers O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-people O O O O O O O O O O O
+O O O O O O O O O O B-calendric_unit O
+O O O O B-people O O O O O O O
+O O O O O O O B-cardinal_numbers O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-placing O
+O O O O O O O O O O O O O O O O O O O O O O O B-residence O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-stars O O O O
+O O O O O O O O B-calendric_unit O O
+O O O B-part_inner_outer O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-buildings O O O O O
+O O O O O B-political_locales O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-cardinal_numbers O O O O O O O O O
+O O O O O O O O O O O O B-people O O O
+O O O O O O O O O B-part_inner_outer O O O O O O O O
+O O O O B-locale O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-commerce_scenario O O
+O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O
+O O O O O O B-residence O O O O O O O O O O O
+O O O O O O O O O O O B-political_locales O O O O O O
+O O O O O O O O O O B-offering O O
+O O O O O O O O B-buildings O O O O
+O O O O O O O O O O O B-expensiveness O
+O O O O O O B-stars O O O O O O
+O O O O O B-buildings O O O O O O O
+O O O O O O O O B-locative_relation-part_orientational O O O O
+O O O O O O O O O B-locative_relation-part_orientational O O O
+O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-buildings O O O O
+O B-expensiveness O O O O O O O O O O O O O O O O O O O
+O O O O O B-inclusion O O O O O O O O O O O O O O O
+O O O B-expensiveness O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-artifact-contacting-text-verification O O O O O O O
+O O O O O O O O B-economy-foreign_or_domestic_country-storing-text_creation-type O O O
+O O O B-cardinal_numbers O O O O O O O O
+O O O O O B-expensiveness O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-part_whole O O O O O O O O O
+O O O O O O B-locale O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-direction O O O O O O O O O O
+O O O O O O O O B-residence O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-political_locales O O O O O O O
+O O O O O O O O B-performers_and_roles O O O O
+O O O O O O O O O O O O O O O O O B-calendric_unit O
+O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O
+O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O O B-building_subparts O O O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O O O O
+O O O O O O B-buildings O O O O O
+O O O O O O O O O B-locative_relation-part_orientational O O
+O B-being_obligated-needing-possession-required_event O O O O O O O O O O
+O O O O O O O O O O O O B-calendric_unit O
+O O O B-artifact-contacting-text-verification O O O O O O O O O O
+O O O O O O B-cardinal_numbers O O O O O O O
+O O O B-locale O O O O O O O O O O
+O O O O O B-residence O O O O O O O O
+O O O O O O O O O O O O B-expensiveness O
+O O O O O O O O O B-stars O O O O
+O O O B-expensiveness O O
+O O O O B-cardinal_numbers O
+O B-expensiveness O O O O O
+O O O O O B-being_obligated-needing-possession-required_event O
+O O B-buildings O O O O
+O O O O O O O O O O O O O B-quantified_mass-quantity O O
+O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O B-locative_relation-part_orientational O O O O
+O O O O O B-political_locales O
+O O O B-information O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-placing O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-speak_on_topic-statement-topic O O O O
+O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O O O O O O O O O O O O O O O O O O B-artifact-contacting-text-verification O O
+O O O O O O O O O O O B-expensiveness O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O
+O B-buildings O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-people O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O
+O O O O B-locale O O O O O O O O O O O O
+O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O
+O O O O O O O O O O O O O B-expensiveness O O O
+O O O O O O O O O O O O O O B-commerce_scenario O O
+O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O O O O O B-residence O O O O O O O O O O
+O O O O O O O O O O O B-part_inner_outer O O O O O O O O O O O O O
+O O O O O O B-locale O O O O O O O O O O O O O O O O O O
+O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-residence O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-locale O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O O O O O O O B-stars O O O O O O
+O O O O O O O O O O O B-calendric_unit O
+O O O O B-people O O O O O O O O
+O O O O O O O B-cardinal_numbers O O O O O
+O O O O B-information O O O O O O
+O O O O O O O B-buildings O O O
+O O O O O O O O O O O O O B-calendric_unit O
+O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O B-people O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O B-placing O O O O O O O O
+O O O O O O B-offering O O O O O O O O O O
+O O O O O O O B-expensiveness O O O O O O O O O
+O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O O O B-locale O O O
+O O O O O O O O O O B-residence O
+O O B-expensiveness O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-buildings O O
+O O O O O O O O B-performers_and_roles O O O O O O O O O O O O O
+O O O O O O O B-stars O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-inclusion O O O
+O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O
+O O B-locale O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O B-stars O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O O O
+O O O O O O O O O O O O O O O O B-people O O O O O O O O O O O O
+O O O O O O O O O O O O B-calendric_unit O
+O O O B-people O O O O O O O O O O
+O O O O O O O B-cardinal_numbers O O O O O O
+O O O O B-residence O O O O O O O O O O
+O O O O O O O O O O O O B-quantified_mass-quantity O O
+B-people O O O O O O O O O O O O O O
+O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O O O O O O
+O O B-commerce_scenario O O O O O O O O O O
+O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O O
+O O O O O O O O O B-stars O O O
+O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O B-stars O O O O O O O O O
+O B-commerce_scenario O O O O O O O O O
+O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O
+O O O O O O B-being_obligated-needing-possession-required_event O O O O
+O O O O O O O O O B-speak_on_topic-statement-topic O
+O O O O O B-speak_on_topic-statement-topic O O O
+O O O O O O O O O O O O O O O O O O B-calendric_unit O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O O B-cardinal_numbers O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-nights O O O O O O O O O O O O O O O O O O O O
+O O O B-artifact-contacting-text-verification O O O O O
+O O O O O O B-aggregate-social_event O
+O O O O B-inclusion O O O
+O B-stars O O O O O O
+O B-buildings O O O O O O
+O O O O O O O B-quantified_mass-quantity O
+O O O O O O B-artifact-contacting-text-verification O O
+O O O O O B-locale O O O O O
+O O O O O O O O B-expensiveness O O
+O O O B-stars O O O O O O O
+O O O O O B-inclusion O O O O O O O O O
+O O O O O O O B-placing O O O O O O O
+O O O O O O O O O O O O B-locative_relation-part_orientational O O
+O O O O O O B-expensiveness O O O O O O O O
+O O O O O O O O O O O O O O B-calendric_unit O O O O
+O B-inclusion O O O O O O O O O O O O O O O O O
+O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O O O O O
+O O O O O O O O O O O O O O O O B-people O O
+O O O O O O O O O O O O O B-part_inner_outer O O O O
+O O O O O O O O O O O O O O O B-residence O O
+O O O O O O O O O O O O B-placing O
+O O O B-locale O O O O O O O O O O
+O O O O O O B-locative_relation-part_orientational O O O O O O O
+O O O O O O O B-locative_relation-part_orientational O O O O O O
+O O O O O O O O O B-political_locales O O O O
+O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O B-information O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-locale O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-commerce_scenario O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O
+O O O O O O O O O O O O O O O O B-residence O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-stars O O
+O O O O O O O O O O O O B-buildings O O O
+O O O O O O O O B-choosing O O O O O O O
+O O O O O B-locale O O O O O O O O O O O O
+O O O O O O O O O O O O O B-commerce_scenario O O O O
+O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O
+O O O O O O O B-residence O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-stars O
+O O O O B-buildings O O O O
+O O O O O O O O O B-nights O O O O O O O O O
+O O O O O O O O O O O O O O O O B-people O O
+O O B-choosing O O O O
+O O O O O B-locative_relation-part_orientational O
+O O O O O O B-locale O O O O O O O O
+O O O O O O O O O O O O B-locative_relation-part_orientational O O
+O O O O O O O O B-residence O O O O O O
+O O O O O B-expensiveness O O
+O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+B-people O O O O O O O
+O O O O O O O O O B-commerce_scenario O
+O O O B-stars O O O O O O O
+O O O O O O O O O O O O O O O O O B-buildings O O O O O
+O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-vehicle O O O O O O O O O
+O O O O O O B-quantified_mass-quantity O O O O O
+O O O O O B-artifact-contacting-text-verification O O O O O O
+O O O O O O O O O O B-buildings O
+O O O O O O O O O O O O O O O O O O O O B-speak_on_topic-statement-topic O O O O O O O O O O
+O O O O O O B-building_subparts O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-locale O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-political_locales O O O O O
+O O O O O B-expensiveness O O O O O O O O
+O O O O O O B-locale O O O O O O O
+O O O O O O O O B-residence O O O O O
+O O O O O O O O O O B-inclusion O O O
+O O O O O O O O O O O B-expensiveness O O
+O O O O O B-stars O O O O O O O O
+O O O O B-artifact-contacting-text-verification O O O O O O
+O O O O O O O O B-commerce_scenario O O
+O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O O O O O O O O O O O O O O O O O O O O O O B-aggregate-social_event O
+O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-building_subparts O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O
+O O O O O O O O O O O O O B-placing O
+O O O O O O O O O B-locative_relation-part_orientational O O O O O
+O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O
+O O O O O O O O O O O O B-expensiveness O O
+O O O B-expensiveness O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-calendric_unit O
+O O O O B-buildings O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O
+O O O O O O O O B-calendric_unit O O O O
+O O O O O B-people O O O O O O O
+O B-existence O O O O O O O O O
+O O O O O O B-locale O O O O
+O O B-direction O O O O O O O O
+O O O O O O O O B-expensiveness O O
+O O O O O O O O O B-commerce_scenario O
+O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range
+O O O B-part_whole O O O O O O O
+O O O O O B-political_locales O O O O O
+O O O O O O O O O B-residence O O O O O O O O
+O O O O O O O O O O O B-people O O O O O O
+O O O O O O B-information O O O O O O O
+O O O O O O O O O O B-buildings O O O
+O O O O O O B-calendric_unit O O O O O O O
+O O O O O O O O B-people O O O O O
+O O O O O O O O B-locale O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-buildings
+B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O O
+O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O O O O O O B-locale O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-people O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-calendric_unit O
+O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O O O O O O O O O O O
+O O O O O O B-building_subparts O O O O O O O O O O O
+O O O O O O O O B-people O O O O O O O O O
+O O O O O O O O O B-building_subparts O O O O O O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O O O O O O O
+O O O O O O B-expensiveness O O O O O O
+O O O O O O O B-buildings O O O O O
+O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O B-locale O O O O O O O O O O O
+O O O O O O O O O O O O B-commerce_scenario O O O O O
+O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O
+O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O
+O O O O O O O O B-residence O O O O O O O O O
+O O O O O O O O O O O O O O O O B-placing O
+O O O O O O O O B-buildings O O O O O O O O O
+O O O O O O O O O O O O B-commerce_scenario O O O O O
+O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O
+O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O B-stars O O O O O O O O O O O
+O O O O O B-buildings O O O O O O O
+O O O O O O O O O O O O O O O B-vehicle O
+O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-calendric_unit O O O O
+O O O O O B-cardinal_numbers O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-locale O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-residence O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-direction O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-stars O O O O O
+O O O O O O O O B-part_whole O O O
+O O O O O O O O O O B-political_locales O
+O O O O O O O O O O O O O O O O O O O O O B-part_inner_outer O O O O O O O O O O O
+O O O O O O B-locale O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-calendric_unit O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-political_locales O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-performers_and_roles O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-stars O O O
+O O O O O O O O O O B-inclusion O O O
+O O O O O O O O B-part_inner_outer O O O O O
+O O O B-locale O O O O O O O O O O
+O O O O O B-residence O O O O O O O O
+O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O O B-buildings O
+O O O O O O O O B-artifact-contacting-text-verification O O O O O O
+O O O O O O O O O O B-building_subparts O O O O
+O O O O O B-stars O O
+O O O O O O B-placing O O O O O O
+O O O O O B-expensiveness O O O O O O O
+O O O O O O O O B-people O O O O O O O O O
+O O O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O O O O O B-cardinal_numbers O O O O O O O
+O O O O O B-locale O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-buildings O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-commerce_scenario O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O O O O O O B-residence O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-performers_and_roles O O O O O O O O O O O
+O O O O O O O O O O B-part_inner_outer O O O O O O O O
+O O O O O B-locale O O O O O O O O O O O O O
+O O O O O O O B-residence O O O O O O O O O O O
+O O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O
+O O O O O O O O O O O O O O O B-expensiveness O O O
+O O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O B-buildings O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-direction O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-commerce_scenario O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O
+O O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-political_locales O O O O O O O O O O O
+O O O O O O O O B-stars O O O O
+O O O O O O O O O O B-people O O
+O O O O O O B-commerce_scenario O O O
+O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O
+O O O O O O B-speak_on_topic-statement-topic O O
+O O O O O O O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O O O O
+O O O O O O O O O O O O B-buildings O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-buildings O
+O O O O O O O O O B-part_inner_outer O
+O O O O O O O O O O O B-artifact-contacting-text-verification O O O O
+O O O O O O O O O O O O O B-calendric_unit O O
+O O O O O O O O B-buildings O O O O O O O
+O O O O O O O O O O O O O O B-buildings O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O O O O O O O O O O O O O O B-placing O O O O O O O O
+O O O O O O B-buildings O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-artifact-contacting-text-verification O O O
+O O O O O O B-calendric_unit O O O O
+O O O O B-performers_and_roles O O O O O
+O O O O O O O B-buildings O O
+O O O O B-speak_on_topic-statement-topic O O O
+O O O O O O B-buildings O O O
+O O O O B-artifact-contacting-text-verification O O O O O
+O O O O O O B-residence O O O O O O O O O O O O
+O O O O O O O O B-calendric_unit O O O O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O O O O O
+O O O O O B-buildings O
+O O O O O O B-buildings
+O O O B-stars O O O
+O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O
+O O O O B-cardinal_numbers O O O O O O O O O
+O O O O O O O B-people O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O
+O O O O B-speak_on_topic-statement-topic O
+O B-part_inner_outer O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-inclusion O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-nights O O
+O O O O O O O B-buildings O O O O O O O O O O O
+O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O
+O O O O O B-stars O O O O O O O O O O O O O
+O O O O O O O O B-residence O O O
+O O O O O O B-people O O O O O
+O O O O O O O O O O B-cardinal_numbers O
+O O O O O O O O O B-activity_start-process_start O O O
+O O O O O O O O O O O B-calendric_unit O
+O O O O B-people O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-inclusion O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-placing O O O O O O O
+O O O O O B-locale O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-residence O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-expensiveness O O O O O O O O
+O O O O O O O O O O O O O O O O B-stars O O O O O O O O O O O O
+O O O O O O O O O O O O O B-buildings O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-expensiveness O O O O O O O O
+O O O O O O O O O O B-residence O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O O O
+O O O O O O O O O O O O O O O O O O O O O B-stars O O O O O O O
+O O O O O O O B-stars O O O
+O O O O O O O O O O O B-expensiveness O O
+O O O O O O O B-part_inner_outer O O O O O O
+O O O O O O O O O O O O B-buildings O
+O O O O O B-locale O O O O O O O O O O
+O O O O O O O O O O B-locative_relation-part_orientational O O O O O
+O O O O O O O B-residence O O O O O O O O
+O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O O O O O O O B-buildings O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-buildings O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-performers_and_roles O O O
+O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-calendric_unit O O O O
+O O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O O O O B-inclusion O O O
+O O O O O O O O O O O O O O O O B-placing O
+O O O O O B-locale O O O O O O O O O O O O
+O O O O O O O O O O O B-commerce_scenario O O O O O O
+O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O
+O O O O O O O B-residence O O O O O O O O O O
+O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O O B-buildings O O O O O O
+O O O O O O O O O O O B-speak_on_topic-statement-topic O
+O O B-performers_and_roles O O O O O O O O O O
+O O O O O O O B-calendric_unit O O O
+O O O O O O O O B-buildings O O
+O O O O O O O O O B-buildings O
+O O O O B-expensiveness O O
+O O O O O B-commerce_scenario O
+O O O O O O B-delimitation_of_diversity-diversity-natural_features-range
+O O O O O O O O O O O O O O O B-placing O O O O
+O B-buildings O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-commerce_scenario O O O O O O O O O O
+O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O
+O O O O O O O O O O O O O O B-expensiveness O O O O O
+O O O O O O O O O O O O O O O O O B-stars O O
+O O O O O B-locale O O O O O O O
+O O O O O O O O O O B-direction O O
+O O O O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O O O O O O B-buildings O O O O
+O O O O O O O O O O O O O O B-direction O
+O O O O O O B-locale O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-buildings O O O O
+O O O O O O O O B-residence O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O B-stars O O O O O O
+O O O O O O O O O B-locative_relation-part_orientational O O
+O O O O B-locale O O O O O O O O O O O O
+O O O O O O O O O B-buildings O O O O O O O
+O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O
+O O O O O O B-residence O O O O O O O O O O
+O O O O O O O O O O O O O O B-locative_relation-part_orientational O O
+O O O O O O O O O O O O O O O B-locale O
+O O O O O O O O O O O O O O O O O O O B-inclusion O O O
+O O O O O O O O O O O O O O O O O O O O O B-placing O
+O O O O O O O B-buildings O O O O O O O O O O O O O O O
+O O O O O O O O O O B-direction O O O O O O O O O O O O
+O O O O O O O O O O O B-part_whole O O O O O O O O O O O
+O O O O O O O O O O O O O B-political_locales O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O B-calendric_unit O
+O O O O O O O O O O O O O O O O O B-calendric_unit O
+O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O
+O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O O O O B-people O O O O O O O O
+O O O O O O O B-expensiveness O
+O O O O O O O B-locative_relation-part_orientational O O O O
+O O O O O O O O B-locative_relation-part_orientational O O O
+O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O
+O O O O O O O O B-buildings O O O O O O O
+O O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O
+O O O O O O O O O O O O B-locale O O O
+O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O
+O O O O O O O O O O O O B-expensiveness O O O O O O O O O O
+O O O O B-stars O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-buildings O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-stars O O O O O O O O
+O O O O O O O O O O O O O O O O O B-placing O
+O O O O O O O O O O O B-buildings O O O O O O O
+O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O B-locale O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O O
+O O O O O O O O B-residence O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O B-buildings O O O O O O O O O O
+O O O O O O O B-locative_relation-part_orientational O O O O O O O
+O O O O O O O O O B-activity_start-process_start O O O
+O O O O O B-building_subparts O O O O O O O
+O O O O O O O B-cardinal_numbers O O O O O
+O O O O O B-locale O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-buildings O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-buildings O
+O O O O O O B-buildings O O O O
+O O O O B-locale O O O O O O
+O O O O O O O O O O O O O O B-expensiveness O O O O
+O O O O O O O O O O O O O O O O O B-buildings O
+O O O O O O B-locale O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-stars O O O
+O O O O O O O O O O O O B-expensiveness O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-locale O O O O
+O O O O O O O O O B-stars O O O O O O O O O O O O O O
+O O O O O O O O O O O B-building_subparts O O O O O O O O O O
+O O O O O O O O O O O O O O O B-people O O O O O O
+O O O O O O B-information O O O O O O O
+O O O O O O O O O B-buildings O O O O
+O O O O O O O O O O O O B-buildings O
+O O O O O O O B-buildings O O O O O O
+O O O O O O O O O O B-direction O O O
+O O O O O O O O O O O B-locative_relation-part_orientational O O
+O O O O O O O O O O O O O B-political_locales
+O O O O B-buildings O O O O O O O O O O
+O O O O O O B-buildings O O O O O O O
+O O O O O O O O O B-direction O O O O
+O O O O O O O O O O B-part_whole O O O
+O O O O O O O O O O O O B-political_locales O
+O O O O O B-commerce_scenario O O O O O
+O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O
+O O O O O O O O O B-buildings O
+O O O O O O B-buildings O
+O O O O B-cardinal_numbers O O O O O O O
+O B-economy-foreign_or_domestic_country-storing-text_creation-type O O O O O O
+O O O O O O B-vehicle O
+O O O B-existence O O O O
+O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O B-cardinal_numbers O O O O O O O O
+O O O O O O O O B-placing O
+O O O O O B-buildings O O O O
+O O O O O O O B-expensiveness O O
+O O O B-stars O O O O O O
+O O O O O B-locale O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-buildings O O O O O O O O O O O O O O O O
+O O O O O O O B-residence O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-performers_and_roles O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-part_whole O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-political_locales O
+B-people O O O O O O O
+O O O B-cardinal_numbers O O O O
+O O O O O O B-expensiveness O O O O O O
+O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O
+O O O B-cardinal_numbers O O O O O O O O O
+O O O O O O O O O O O O O O B-calendric_unit O O O O
+O O O O O O O O O O O B-artifact-contacting-text-verification O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O O O O O O
+O O O O B-building_subparts O O O O O O O O O
+O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O B-commerce_scenario O O O O O O O O O O O O O O O O O
+O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O O O O O O B-stars O O O O O O
+O O O O O B-buildings O O O O O O
+O O O O O O O O B-locative_relation-part_orientational O O O
+O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O
+O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-people O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O
+O O O O O O O O O O B-placing O O O O O O O
+O O O O O B-locale O O O O O O O O O O O O
+O O O O O O O B-residence O O O O O O O O O O
+O O O O O O O O O B-expensiveness O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-calendric_unit O
+O B-locale O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-calendric_unit O O O O
+O O O O O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O
+O O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-direction O O O O O O O O O O O
+O O O O O O O O O O O O O O B-part_whole O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-political_locales O O O O O O O O
+O O O O O B-buildings O
+O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O B-cardinal_numbers O O O O O O O O
+O O O O O B-buildings O O O O O O O O O O O
+O O O O O O O B-quantified_mass-quantity O
+O O O O O O B-artifact-contacting-text-verification O O
+B-people O O O O O O
+O O O O B-cardinal_numbers O O
+O O O O O O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O O B-people O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O B-buildings O O O O O
+O O O O O O O O B-locative_relation-part_orientational O O
+O O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O O O B-buildings O
+O O O B-information O O O O O O
+O O O B-buildings O O O O O
+O O O O O B-locale O O O
+O O O O B-economy-foreign_or_domestic_country-storing-text_creation-type O O O O
+O O O O O O O B-residence O
+O O O O O O O O O O O O O O B-calendric_unit O O O O O O O O
+O O B-buildings O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O
+O O O O O O O O O O O O B-building_subparts O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-people O O O O O O
+O O O O O O O O O O O B-buildings O O O O O O O O O
+O O O O O O O O O O O O O O O B-commerce_scenario O O O O O
+O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O
+O O O O O O O O O O B-economy-foreign_or_domestic_country-storing-text_creation-type O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O B-stars O O O O O O O O O O O O O
+O O O O O B-buildings O O O O O
+O O O O O O O O B-buildings O O
+O O O O O O O O O O O O O O O B-expensiveness O O O O O O O O O O
+O O O O O B-locale O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-buildings O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-commerce_scenario O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O
+O O O O O O O B-residence O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-economy-foreign_or_domestic_country-storing-text_creation-type O O
+O O O O O O B-locale O O O O O O O O O O O O
+O O O O O O O O B-residence O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-direction O
+O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O
+O O O O O O B-locale O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-political_locales O O O O O O O O O O O O O O O O O O
+O O O O O O O B-calendric_unit O O
+O O O B-being_obligated-needing-possession-required_event O O O O O O
+O O O O B-nights O O O O O
+O O O O O O B-locale O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-buildings O O O O O O O O O O O O
+O O O O O O O O B-residence O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-part_whole O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-political_locales O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O B-people O O O O O O O
+O O O O O O O O B-cardinal_numbers O O O O
+O O O O O O B-people O O O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-speak_on_topic-statement-topic O
+O O O O O O O B-performers_and_roles O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O
+O O O O O O O O O O O O O O B-inclusion O O
+O O O O O O O B-locale O O O O O O O O O
+O O O O O O O O O B-residence O O O O O O O
+O O O O O O O O O O O B-stars O O O O O
+O O O O O O O O O B-calendric_unit O O O O
+O O O O O B-artifact-contacting-text-verification O O O O O O O O
+O O O O O O O O O O O B-people O O
+O O O O O B-buildings O O O O O O O
+O O O O O O O O B-direction O O O O
+O O O O O O O O O O B-expensiveness O O
+O O O O O B-building_subparts O O O O O O O O O O O O O O O O O O
+O O B-nights O O O O O
+O O O O B-quantified_mass-quantity O O
+O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O O B-cardinal_numbers O O O O O
+O O O O B-buildings O O O O O O O O O O O O O O
+O O O O O O B-political_locales O O O O O O O O O O O O
+O O O O O O O B-buildings O O O
+O O O O O B-stars O O O O O
+O O O O O O O O O O B-part_inner_outer O
+O O O O B-information O O O O O O O O O O O O O O O O O
+O O O O O O O O B-part_inner_outer O O O O O O O O O O O O O
+O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O O
+O O O O O O O O O O O O O B-buildings O O O O O O O O
+O O O O O O O B-political_locales O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O O O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O
+O O O O O O O O O B-vehicle O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O
+O O O O O O O O B-part_inner_outer O O O
+O O B-being_obligated-needing-possession-required_event O O O O O O O O O
+O O O O O O O O O O B-political_locales O
+O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O B-artifact-contacting-text-verification O O O O O
+O O O O B-cardinal_numbers O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O
+O O O O O O O O B-direction O O O O O O
+O O O O O O O O O O O O B-stars O O
+O O O O O O O O B-expensiveness O O O O O O O O O O O O O
+O O O O O O O O O B-locale O O O O O O O O O O O O
+O O O O O O O O O O O B-residence O O O O O O O O O O
+O O O O O O O O O O O O O O B-direction O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-choosing O O
+O O O O B-buildings O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-artifact-contacting-text-verification O O O O
+O O O O O O O O O O O B-vehicle O O O O O O O O O O O O
+O O O O O O O O O B-expensiveness O O O O O O O O O
+O O O O O O O O O O B-commerce_scenario O O O O O O O O
+O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O
+O O O O O O O O O O O O O O B-performers_and_roles O O O O
+O O O O O O O O O O O O O O O O O O O B-information O O O O O O
+O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-buildings O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-buildings O O O O O O O O O O O O O O O
+O O O O O B-buildings O O O O O O O O
+O O O O O O B-buildings O
+O O O O O O O O O O O O O O O O B-placing O O
+O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O
+O O O O O O O O O O O O O O O B-expensiveness O O O
+O O O O O O O O O O O B-stars O O O O O O O
+O O O O O O O O O O B-buildings O O O O O O O O
+O O O O O O O O O O O O O B-expensiveness O O O O O
+O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O O O O O B-calendric_unit O
+O O O B-people O O O O O O O O
+O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O B-expensiveness O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-placing O O O O O
+O O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O O O
+O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-expensiveness O O O O O O
+B-existence O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-vehicle O
+O O O O B-buildings O O O O O O O O O O
+O O O O O O B-stars O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O B-placing O O O O O
+O O O O O O B-expensiveness O O O O O O
+O O O O B-cardinal_numbers O O O O O O O O
+O O O O O O O O O O B-stars O O
+O O O O O O O O O O O B-part_inner_outer O
+O O O O O O B-locale O O O O O O
+O O O O O O O O B-residence O O O O
+O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O O O B-locative_relation-part_orientational O O O O O
+O O O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O
+O O O O O O O O O O O B-calendric_unit O O O
+O O O O O B-people O O O O O O O O O
+O O O O O O O O B-cardinal_numbers O O O O O O
+O O O O O O B-buildings O O O O O O O O O O O O O
+O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O O O O O B-cardinal_numbers O O O O
+O O O O O O O O B-political_locales O O O O O O O
+O O O O O O O O O O O O O O B-artifact-contacting-text-verification O
+O O O O O O O O O O O O B-placing O
+O O O O O O O O O B-locale O O O O
+O O O O B-residence O O O O O O O O O
+O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O O O B-buildings O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-commerce_scenario O O O O O O O O O O O O O O O
+O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O O O O O O O
+O O O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit O O O O O O
+O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O O
+O O O O B-building_subparts O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-residence O O O O
+O O O O O O O O B-people O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O O O B-people O O O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O O O
+O O O O O O O O O O O B-quantified_mass-quantity O O O
+O O O O O O O O O O B-artifact-contacting-text-verification O O O O
+O O O O O B-locale O O O O O O O O O
+O O O O B-being_obligated-needing-possession-required_event O O O
+O O O O O O O B-buildings O O O O O O O O O
+O O O O O B-expensiveness O O O O
+O O O O O O B-locale O O O
+O O O O O O O O B-residence O
+O O O O O O O O O O O O O O O O O O O B-placing O O O O
+O O O O O O B-locale O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-expensiveness O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-stars O O
+O O O O O O B-locale O O O O O O O O O
+O O O O O O O O O O O O O O B-buildings O
+O O O O O O O O B-residence O O O O O O O
+O O O O O O O O O O O O B-stars O O O
+O B-locale O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-economy-foreign_or_domestic_country-storing-text_creation-type O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-performers_and_roles O O O
+O O O O O O O O O O O O O O O O O O O O O B-cardinal_numbers O
+O O O B-locale O O O O O O O O O O O O O
+O O O O O B-residence O O O O O O O O O O O
+O O O O O O O O O O O O O O B-artifact-contacting-text-verification O O
+O O O O O O O O O O O O O O O B-cardinal_numbers O
+O O O O O O O O O O O O O O O B-activity_start-process_start O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-people O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O
+O O O B-information O O O O O O
+O O O O O O B-buildings O O O
+O O O O O O O O O O O O O O O O B-placing O O O O O O O O O O
+O O O O O O O O O O B-buildings O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-direction O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-expensiveness O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-people O O
+O O O O O O O O B-direction O
+O O O O O O O O B-speak_on_topic-statement-topic O O
+O B-being_obligated-needing-possession-required_event O O O O O O O O O
+O O O O O O B-information O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-expensiveness O O O O O O
+O O O O O O O O O O O O O O O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O
+O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-buildings O O O O O O O
+O O O O O O O O O O O O O O O O B-commerce_scenario O O
+O O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O B-locale O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-economy-foreign_or_domestic_country-storing-text_creation-type O O O O O O
+O O O O O O O O O O B-part_inner_outer O O O
+O O O O O B-locale O O O O O O O O
+O O O O O O O B-residence O O O O O O
+O O O O O O O O O O O O B-political_locales O
+O O O B-artifact-contacting-text-verification O O O O O O O O O O
+O O O O O O B-cardinal_numbers O O O O O O O
+O O O O O O O O O B-people O O O O
+O O O O O O B-buildings O
+O O O O B-expensiveness O O O O O O O O
+O O O O O O O O O B-expensiveness O O O
+O O O O O B-stars O O O O O O O
+O O O O B-locale O O O O
+O O O O O O B-stars O O
+O O O B-aggregate-social_event O O O O O O O O O
+O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O B-expensiveness O O O
+O O O O O O O O O O O O O O O O O O O B-buildings O
+O O O O O O O O O O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-residence O
+O O O O O O O O O B-buildings O O O O O O O O O O O O O
+O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O
+O O B-calendric_unit O O O O O O O
+O O O O B-cardinal_numbers O O O O O
+O O O O O O O B-people O O
+O O O O O O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-calendric_unit O
+O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-people O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-cardinal_numbers O O O O O O
+O O O O B-part_inner_outer
+O O O O O B-commerce_scenario O O O O O O O
+O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O
+O O O O O O O O O O O B-calendric_unit O O O O
+O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O O B-nights O O O O O O O
+O O O O O O O O O O O O O B-people O O
+O O O O O O O O O O O O O O O O B-placing O
+O O O O O O O O B-performers_and_roles O O O O O O O O O
+O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O B-speak_on_topic-statement-topic O O O O
+O O O O O O O B-commerce_scenario O O
+O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O O O O O O O B-expensiveness O O
+O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O O O O O O O O O B-placing O
+O O O O O O O B-part_inner_outer O O O O
+O O O O B-locale O O O O O O O
+O O O O O O O O O B-expensiveness O O
+O O O O O O O O O B-being_obligated-needing-possession-required_event O O O
+O O O O O B-cardinal_numbers O O O O O O O
+O O O O O O O O O O O O B-expensiveness O
+O B-locale O O O O O O O O O O O O
+O O O O O O O O B-buildings O O O O
+O O O O B-being_obligated-needing-possession-required_event O O O O O O O O
+O O O O O O O O O O B-expensiveness O O
+O O O O O O B-stars O O O O O O
+O O O O O O B-performers_and_roles O O O
+O O O O O O O O B-cardinal_numbers O
+O O O O O O O O O O O O O B-placing O
+O O O O B-buildings O O O O O O O O O O
+O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O
+O O O O O O O O B-locative_relation-part_orientational O O O O O O
+O O O O O O O O O O B-expensiveness O O O O
+O O O O O O B-locale O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-expensiveness O O O O
+O O O O O O O O O O O O O O O O O O B-buildings O
+O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O
+O O O O O O O O B-residence O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-stars O O O
+O O O O B-vehicle O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-aggregate-social_event O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-people O O
+O O O O O O O O O B-placing O
+B-commerce_scenario O O O O O O O O O O
+O O O O O O O O B-expensiveness O O
+O O O O O O O B-placing O
+O O O B-buildings O O O O O
+O O O O O O B-expensiveness O O
+O O O O O O O B-locative_relation-part_orientational O
+O O O B-expensiveness O O O O O
+O O O O O O O O O O O B-performers_and_roles O O O O O O O O O O O
+O O O B-nights O O
+O O O O O O O B-calendric_unit O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-aggregate-social_event O
+O O O O B-cardinal_numbers O O O O O O O O O O O O O
+O O O O O O O O O O O O B-people O O O O O
+O O O O O O O O O O O O O O O B-placing O O O O
+O O O O O O O O O B-buildings O O O O O O O O O O
+O O O O O O O O O O O B-residence O O O O O O O O
+O O O O O O O O O O O O O O B-expensiveness O O O O O
+O O O O O O O B-stars O O O O O O O O O O O O
+O O O O B-quantified_mass-quantity O O O O O
+O O O O O O O O B-buildings O
+O O O O O O O O O O O O O O O O O O O O O O O B-part_inner_outer O
+O O O O O B-buildings O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-residence O O O O O O O O O O O O O O O O O
+O B-locale O O O O
+O O O O O O B-stars O O
+O O O O O O O O O O O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O
+O O O O O O O B-stars O O O O O O O O O
+O O O O O O B-locative_relation-part_orientational O
+O O O O O O O O O O B-locative_relation-part_orientational O
+O O O B-expensiveness O O O O O O O O
+O O O O O O O O O O B-buildings O O
+O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O O O O O
+O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O O O O O O O O O O O O O O O O O O O B-placing O O O O O O O O
+O O O O O O O B-locale O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-residence O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-political_locales O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-expensiveness O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-stars O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-residence O O O
+O B-inclusion O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-building_subparts O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O B-expensiveness O O O O O O O
+O O O O O B-buildings O O O O O O
+O O O B-buildings O O O O O O O
+O O O O O O B-direction O O O O
+O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O O O O O O O O O O O O B-inclusion O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-placing O
+O O O O O O O O B-locale O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-residence O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O O O
+O O O O O O O B-residence O O O
+O O O B-stars O O O O O O O
+O O O O O O B-performers_and_roles O O O O
+O O O O O O O B-buildings O O
+O O O O O O O O O O O B-calendric_unit O
+O O O B-artifact-contacting-text-verification O O O O O O O O O
+O O O O O B-people O O O O O O O
+O O O O O O O O B-cardinal_numbers O O O O
+O O O O O B-quantified_mass-quantity O O O O O O O O O O O O
+O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-artifact-contacting-text-verification O O O O
+O O O O B-people O O O O O O O O
+O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O B-calendric_unit O
+O O O O O B-people O O O O O O O
+O O O O O O O O B-cardinal_numbers O O O O
+O O O O O O O O O B-calendric_unit O O O O
+O O O O O O O O O O O B-cardinal_numbers O O
+O O O O O O O O O O O O O O O O O B-placing O
+O O O O O O O O O O O O O O B-buildings O O O O
+O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O B-stars O O O O O O
+O O O O O B-cardinal_numbers O O O
+O O O O O O O O O O O O O O O O B-calendric_unit O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O O O
+O O O O B-cardinal_numbers O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-people O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O O O O
+O O O O O O O B-people O O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O
+O O O O O O B-buildings O O O O O O
+O O O O O O O O O B-part_inner_outer O O O
+O O O O B-stars O O O O O O O O
+O O O O O O O O O B-locative_relation-part_orientational O O O O O O
+O O O O O O O O O O O O B-locative_relation-part_orientational O O O
+O O O O B-expensiveness O O O O O O O O
+O O O O O O O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O
+O O O O O B-stars O O O O O O O
+O O O B-buildings O O O O
+O O O O O B-direction O O
+O O O O O O O O B-calendric_unit O O O O O O O O O
+O O O O O O O O O O O O O O O O B-aggregate-social_event O
+O O O O B-people O O O O O O O O O O O O O
+O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-buildings O O O
+O O O O O B-buildings O O
+O O O O B-placing O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-quantified_mass-quantity O O
+O O O O O O O O O O O O O O B-artifact-contacting-text-verification O O O
+O O O B-expensiveness O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-residence O O
+O O O O O O O O O O O B-calendric_unit O O O O O O
+O O O O O B-cardinal_numbers O O O O O O O O O O O O
+O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O
+O O O O O O O O O B-commerce_scenario O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O
+O O O O O O O O O O O O O O B-calendric_unit O O
+O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O
+O O O O O O B-building_subparts O O O O O O O O O O
+O O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O B-speak_on_topic-statement-topic O O O O
+O O O O O O O B-direction O O
+O O O O O O O O B-locale O
+O O O B-commerce_scenario O O
+O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O O O O O O B-expensiveness O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-buildings O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O
+O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O
+O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O
+O O O O O O O B-buildings O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-buildings O
+O O O O O B-expensiveness O O
+O O O O O O B-buildings O
+O O O O O O O O O O O O B-speak_on_topic-statement-topic O O O O O O O
+O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O
+O O O O O O B-performers_and_roles O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-placing O
+O O O O O B-locale O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-buildings O O O O O O O O O O
+O O O O O O O B-residence O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O O O O O O O B-speak_on_topic-statement-topic O O O O
+O O O O O O O O O O O O O O O B-commerce_scenario O O O O O O O
+O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O
+O O O O O B-cardinal_numbers O O O O O O O O O O O O O O O O O
+O O O O O O O B-calendric_unit O O O O O O O O O O O O O O O O
+O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-residence O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-artifact-contacting-text-verification O O O O O O
+O O O O O O O O O O O O O O O O O O O B-building_subparts O O O O
+O O O O O O O O O O O O O O O O O O O O O B-people O O
+O O O O O O O O O O O O O O O O O O B-cardinal_numbers O O O O
+O O O O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O B-expensiveness O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-residence O O O O O O O O O O O
+O O O O O O O B-buildings O
+O O O O O O O O O O O O O O O O O O B-calendric_unit
+O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-cardinal_numbers O O O O O O
+O O O O O O O O O O O O O O O O O O O B-calendric_unit O O
+O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O
+O O O O O O O O O O O B-building_subparts O O O O O O O O O O
+O O O O O O O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O B-commerce_scenario O O O O O O
+O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O
+O O O O O O O B-speak_on_topic-statement-topic O O O O O O O O O O O
+O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O
+O O O B-performers_and_roles O O O
+O O O O O B-cardinal_numbers O
+O O O B-locale O O O O O O
+O O O O O O O O B-expensiveness O
+O O O O O B-residence O O O O
+O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O
+O O O O O O O O O O O O B-calendric_unit O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-residence O O O O O O O O O
+O O O O O O O O O O O O O B-commerce_scenario O O O O O O O O O O O
+O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O O O
+O O O O O O O B-performers_and_roles O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-direction O
+O O O O B-quantified_mass-quantity O O O O O
+O O O B-artifact-contacting-text-verification O O O O O O
+O O O O O O O O B-buildings O
+O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O O
+O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O O
+O O O O O B-people O O O O O O O O O O O O O O O O
+O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O
+O O O O B-people O O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O
+O O O O O O O O O O O O O O O O O B-buildings O O O O
+O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O
+O O O O O O O O O B-buildings O O O O O O O O O O O O
+O O O O B-speak_on_topic-statement-topic O O O O
+O O O O O O O B-buildings O
+O O O B-commerce_scenario O O O O O O O O O O O O
+O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O O O O
+O O O O O O O O O O O O B-expensiveness O O O
+O O O O O O O O O O B-quantified_mass-quantity O
+O O O O O O O O O B-artifact-contacting-text-verification O O
+O O O O O O O O O B-placing O
+O O O O O O B-buildings O O O O
+O O O O O O O O B-expensiveness O O
+O O O O B-stars O O O O O O
+O O O O O O O O O O O B-quantified_mass-quantity O O O O O O O O O O O O O O O O
+O O O O O O O B-calendric_unit O
+O O O O O O O B-locale O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O
+O O O O O O O O O O O O O B-expensiveness O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-locale O O O O O
+O O O O O O O O O B-calendric_unit O
+O O O B-residence O O O O O O O
+O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O O O O B-inclusion O O O
+O O O O O O B-part_inner_outer O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O B-residence O O O O O
+O O O O O O B-cardinal_numbers O O O O
+O O O O B-placing O O O O O O O O O O O O
+O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O O
+O O O O O O O O O O O O O O O O O O O B-artifact-contacting-text-verification O O O O
+O O O O O O O B-building_subparts O O O O O O O O O O O O O O O O
+O O O O O B-buildings O O O O O O O O O O
+O O O O O O O O O O O B-direction O O O O
+O O O O O O O B-residence O O O O O O O O
+O O O O O O O O O O O O B-part_whole O O O
+O O O O O O O O O O O O O O B-political_locales O
+O O O O O O O O O O O O O O B-inclusion O O
+O O O O O O O B-buildings O O O O O O O O O
+O O O O O B-stars O O O O O O O O O O O
+O O O O O O B-locale O O O O O O O O
+O O O O O O O O O O O O B-expensiveness O O
+O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O
+O O O O O O O O B-residence O O O O O O
+O O O O O B-buildings O O O O O O
+O O O O O O O O B-direction O O O
+O O O B-stars O O O O O O O O
+O O O B-buildings O O
+O O O O B-economy-foreign_or_domestic_country-storing-text_creation-type O
+O O O O O O O O O O O O O O O O O O O O O O O O B-placing O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-speak_on_topic-statement-topic O O
+O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-buildings O O O O O O O O O O O
+O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-performers_and_roles O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O O O O O
+O O O O O O O O O O B-locale O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O
+O O O O O O O O O O O O B-residence O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-expensiveness O O O O
+O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O B-locative_relation-part_orientational O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-locale O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-buildings O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-commerce_scenario O
+O O O O O O O O O O O O B-residence O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-locale O O O O O O O O
+O O O O O O O B-quantified_mass-quantity O O O O
+O O O O O O O O O O O O O O O O B-placing O O
+O O O B-buildings O O O O O O O O O O O O O O O
+O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O
+O O O O O O O O O B-part_whole O O O O O O O O O
+O O O O O O O O O O O O B-political_locales O O O O O O
+O O O O O O O O O O O O O O O B-expensiveness O O O
+O O O O O O O O O B-buildings O O
+O O O O O O B-locale O O O O O O O O
+O O O O O O O O O B-direction O O O O O
+O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-residence O O O O
+O O O O O O O B-people O O O O O O O O O O O O O
+O O O O B-buildings O O O O O O O O O
+O O O O O O O O O O B-expensiveness O O O
+O O O O O O B-stars O O O O O O O
+O O O O O O B-information O O O O O O O O O O O
+O O O O O O O O O B-buildings O O O O O O O O
+O O O O O O O O O O O O O O B-buildings O O O
+O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O
+O O O B-building_subparts O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O
+O O O O O O B-cardinal_numbers O O O O O O O O O O O O O O O O
+O O O O O O O O O B-speak_on_topic-statement-topic O O O O
+O O O O O O O O B-locative_relation-part_orientational O O O O O
+O O O O B-cardinal_numbers O O O O O O O O O
+O O B-locative_relation-part_orientational O O O O
+O O O O O B-political_locales O
+O O O O O O O O O B-calendric_unit O
+O O O B-residence O O O O O O O
+O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-placing O O
+O O O O O O O O O O O O O O O O O O B-part_inner_outer O O O O O O
+O O O O O O O O O O B-locale O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-residence O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O O
+O O O O B-placing O
+O O O B-expensiveness O O
+O O O O O O O B-residence O O O O O O
+O O O O O B-cardinal_numbers O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O
+O O O O B-expensiveness O O
+O O O O O B-locale O
+O O O O O O O B-buildings O
+O O O B-artifact-contacting-text-verification O O O O O
+O O O O O O O O O O O O O O O O O O O O B-placing O O O
+O O B-buildings O O O O O O O O O O O O O O O O O O O O O
+O O O O O B-locative_relation-part_orientational O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-economy-foreign_or_domestic_country-storing-text_creation-type O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-expensiveness O O O O
+O O O O O O O O B-stars O O O O O O O O O O O O O O O
+O O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O O O O O O O O O O O O
+O O O O O O O B-commerce_scenario O O O O O O O O O O O O O O O O
+O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O
+O O O O O O O O O O B-placing O
+O O O B-buildings O O O O O O O O
+O O O O O O B-locative_relation-part_orientational O O O O O
+O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O O O O B-calendric_unit O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-placing O
+O O O O O O O B-buildings O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O B-cardinal_numbers O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-people O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-choosing O
+O O O O O O O O O O O B-calendric_unit O O O O O
+O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O
+O O O O O O B-cardinal_numbers O O O O O O O O O O
+O O O O O O O O B-cardinal_numbers O O O O O O O O
+O O O O O O O B-commerce_scenario O O O
+O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O
+O O O O O O O B-choosing O O O O
+O O O O O O O B-speak_on_topic-statement-topic O O O O O
+O O O O O O O O O O O B-cardinal_numbers O
+O O O O B-buildings O O O O O O O O O O O O O O O O O O O O O
+O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-stars O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-people O O
+O O O O B-locale O O O O O O O O O
+O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O
+O O O O O O B-residence O O O O O O O
+O O O O O O O O B-stars O O O O O
+O O O O O O O O O O O O O O O O O O B-placing O O O O O O O O O O O O
+O O O O O O O O O O O O B-part_inner_outer O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-political_locales O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-stars O O O
+O O O O O O O O O O O O B-cardinal_numbers O O O O O O O
+O O O O O O O O O O O O O O O B-people O O O O
+O O O O O O B-inclusion O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O O O O O O O B-people O O O O O O O O O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O
+O O O O O B-information O O O O O
+O O O O O O O O O B-buildings O
+O O O O B-buildings O O O O O O
+O O O O O O O B-commerce_scenario O O O
+O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O
+O O O O O B-economy-foreign_or_domestic_country-storing-text_creation-type O O O O O
+O O O O B-alternatives-possibilities O O O O O O O O O O O O O O O
+O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O
+O O O O O O O O O B-building_subparts O O O O O O O O O O
+O O O O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O
+O O O O O O B-stars O O O O O
+O O O O O O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O O O O
+O O O O O O O O O O O B-buildings O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-buildings O
+O O O O O B-locale O O O O O O
+O O O O O O O B-residence O O O O
+O O O O O O O O O O B-direction O
+O O O O O O O O O O O B-locative_relation-part_orientational
+O O O O O O O O O O O O O O O O O O O B-placing O
+O O O O O O O B-buildings O O O O O O O O O O O O O
+O O O O O O O O O O B-expensiveness O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O B-locale O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-stars O O O
+O O O O O B-cardinal_numbers O O
+O O O O O O O B-speak_on_topic-statement-topic O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-placing O
+O O O O O O O O O O B-quantified_mass-quantity O O O O O O O O O O
+O O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O B-buildings O
+O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O B-artifact-contacting-text-verification O O O O O O O O O O
+O O O O O O O B-cardinal_numbers O O O O O O O O
+O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O B-people O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O O B-buildings O O O O
+O O O O O O O O O O O O O O O B-locative_relation-part_orientational O
+O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O
+O O O B-stars O O
+O O O O O O O O O O B-placing O
+O O O B-buildings O O O O O O O O
+O O O O O O B-direction O O O O O
+O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O O O O B-expensiveness O O O O O O
+O O O O O O O O O O O O O O O O O O B-inclusion O O O
+O O O O O O O O O O O O O O O O O O O O B-placing O
+O O O O B-buildings O O O O O O O O O O O O O O O O O
+O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O B-artifact-contacting-text-verification O O O O O O O O O O
+O O O O O O O B-people O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-placing O
+O B-part_whole O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O B-political_locales O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O B-locale O O O O O O O O O O O O
+O O O O O O O O O O B-buildings O O O O O O O
+O O O O O O O O O O O O O O O O B-commerce_scenario O
+O O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range
+O O O O O O O B-residence O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O O O O O
+O O O O O O O O O O O O B-calendric_unit O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O O O O O B-people O O O O O O O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O
+O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-people O O O O O O
+O O O O B-performers_and_roles O O O O
+O O O O O O B-cardinal_numbers O O
+O O O O O O O O B-buildings O O O O O O O O O
+O O O O O O O O O O O O B-commerce_scenario O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-placing O
+O O O O O O O B-locale O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-commerce_scenario O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O O O O O O
+O O O O O O O O O B-residence O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-expensiveness O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-inclusion O O O
+O O O O O O O O O O O O O O O O O O O O B-stars O O O O O O O
+O O O O O O O O O O B-placing O
+O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O O B-residence O O O O O O O
+O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O O O O O O O O B-people O O
+O O O O O O O O B-expensiveness O O
+O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O
+O O O O O O O O B-people O O O O O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O O O O O
+O O O O O O O O O O O B-speak_on_topic-statement-topic O
+O O O O O O B-quantified_mass-quantity O O O O O O
+O O O O O B-artifact-contacting-text-verification O O O O O O O
+O B-calendric_unit O O O O O O O O O O O
+O O O O O O O B-buildings O O O O O O O
+O O O O O B-artifact-contacting-text-verification O O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-cardinal_numbers O
+O O O O B-artifact-contacting-text-verification O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-performers_and_roles O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-economy-foreign_or_domestic_country-storing-text_creation-type O O O
+O O O O O O O O B-vehicle O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-buildings O O O O
+O O O O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O O O O O O O O O O B-artifact-contacting-text-verification O O O O O O
+O O O O O O O B-buildings O
+O B-buildings O O O O
+O O B-economy-foreign_or_domestic_country-storing-text_creation-type O O O
+O O O O B-buildings O O O O O
+O O O O O O O B-locative_relation-part_orientational O O
+O O O B-buildings O O O O O O O O O O O
+O O O O O O O O O O B-locative_relation-part_orientational O O O O
+O O O O O O O O O O O B-locative_relation-part_orientational O O O
+O O O O O O O O O O O O O B-political_locales O
+O O O O O O B-stars O O O O O O O O
+O O O O O B-expensiveness O O
+O O O B-locative_relation-part_orientational O O O O
+O O O O O O O O O O O O O O O O O O O B-part_inner_outer O O O O O
+O O O O O O B-locale O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-commerce_scenario O O O O O O O O O O O O O
+O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O O O O O
+O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-residence O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-political_locales O O O
+O O O O B-existence O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O
+O O O O O O O B-buildings O O O O O O O O O O O O O O
+O O O O O B-stars O O
+O O O O O O O O O B-locale O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-direction O O O O
+O O O O O O O O O O O B-residence O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O
+O O O O O O O O O O O O O O O O O O O B-political_locales O
+O O O B-calendric_unit O O O O O O
+O O O O B-people O O O O O
+O O O B-locale O O O O O O O O O
+O O O O O O O O B-locative_relation-part_orientational O O O O
+O O O O O O O O O B-part_whole O O O
+O O O O O O O O O O O B-political_locales O
+O O O O O O O O O O O B-calendric_unit O O O O O O
+O O O O O O O O O O O O O B-residence O O O O
+O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O
+O O O O O O O B-people O O O O O O O O O O
+O O O O O O O O O O O O O O O B-cardinal_numbers O O
+O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-part_whole O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-political_locales O O O O O O O
+O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O
+O B-performers_and_roles O O O
+O O O O B-artifact-contacting-text-verification O O O O O O O O O O
+O O O O O O O B-people O O O O O O O
+O O O O O B-expensiveness O O
+O O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O O O B-nights O O O O O O O O O O O O
+O O O O O O O B-people O O O O O O O O O
+O O O O O O O O O O O B-buildings O O O O O O O O O O O O O O
+O O O O O B-locale O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-stars O O
+O O O O O O O O O O O O O O O O O O O O O O B-aggregate-social_event O
+O O O O O O O B-building_subparts O O O O O O O O O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-people O O O O O
+O O O O O O O O O B-people O O
+O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O
+O O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O
+O O O B-expensiveness O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-placing O
+O O O O B-locale O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-buildings O O O O O O O O
+O O O O O O B-residence O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O B-expensiveness O O O O O O O O O
+O O O O O O O O O O O O B-part_inner_outer O O
+O O O O O O B-locale O O O O O O O O
+O O O O O O O O B-residence O O O O O O
+O O O O O O O O O O O B-political_locales O O O
+O O O O O O O O O B-buildings O O O O O O O
+O O O O O O O O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O O O O O O B-stars O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O O
+O O O O O O B-building_subparts O O O O O O O O O O O O O O O O O
+B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-people O O O O O O O O O O
+O O O O O O O O O O B-quantified_mass-quantity O
+O O B-artifact-contacting-text-verification O O O O O O O O O
+O O O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O
+O O O O O O O O O O O B-calendric_unit O
+O O O O B-buildings O O O O O O O O
+O O O O O O B-cardinal_numbers O O O O O O
+O O O O O O O O B-locale O O O O O O O O O O O O O O
+O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O
+O O O O O O O O O O O O B-part_whole O O O O O O O O O O
+O O O O O O O O O O O O O O B-political_locales O O O O O O O O
+O O O O O O O O O O O O O O O O O B-expensiveness O O O O O
+O O O O O O O O O O O O O O O O O O B-building_subparts O O O O
+O O O O O O O O O O O O O O O O O O O O B-residence O O
+O O O O O O O O O B-buildings O O O O O O O O
+O O O O O O O O O O B-building_subparts O O O O O O O
+O O O O O O O O O O O O B-political_locales O O O O O
+O O B-existence O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-people O O O O O O O O
+O O O O O O B-locale O O O O O O
+O O O O O O O O O O O B-locative_relation-part_orientational O
+O O B-being_obligated-needing-possession-required_event O O O O O O O O O O
+O O O O O O O O B-residence O O O O
+O O O O O O O O O B-placing O
+O O O B-expensiveness O O O O O O O
+O O O O O O B-buildings O O O O
+O O O O O O O O B-expensiveness O O
+O O O O B-stars O O O O O O
+O O O O O O O O O O B-inclusion O O O O O O O O O
+O O O O O O B-locale O O O O O O O O O O O O O
+O O O O O O O O B-residence O O O O O O O O O O O
+O O O O O O O O O O O B-expensiveness O O O O O O O O
+O O O B-residence O O O O O O O O O O
+O O O O O O O O O O B-inclusion O O O
+O O O O O O O O O O O O B-placing O
+O O O O O O O B-commerce_scenario O O O O O O
+O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O
+O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O O O O O O B-information O O O
+O O O O O O O O B-residence O O O O O O O O O O O O
+O O O O O O O O O O O O B-expensiveness O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-placing O O O O
+O O O O O O O O O O O O O B-locale O O O O O O O O O
+O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O
+O O O O O O O B-residence O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-stars O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-residence O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-people O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-cardinal_numbers O O
+O O O B-aggregate-social_event O O O O O O O O O O
+O O O O O O O O O O B-stars O O O
+O O O O B-placing O
+O O O B-expensiveness O O
+O O O O B-direction O O O
+O O O O O O O O O B-buildings O O O O
+O O O O O O O O O O O B-stars O O
+O O O O O O O O O O O B-calendric_unit
+O O O B-artifact-contacting-text-verification O O O O O O O O
+O O O O O O B-people O O O O O
+O O O O O O O O B-cardinal_numbers O O O
+O O O O O O O O O O O O O O O O O O B-locale O O O O
+O O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O B-stars O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-expensiveness O
+O O O O O O O O O O O O O O O O O O O O O B-placing O O O O
+O O O O O O O O O B-locale O O O O O O O O O O O O O O O O
+O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-residence O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-expensiveness O O O O O
+O O O O O O O B-people O O O
+O O O O O O O O B-cardinal_numbers O O
+O O O O O O O O B-buildings O O O O
+O O O O O B-buildings O O O O O O O O O
+O O O B-stars O O O O O O O O O O O
+O O O B-expensiveness O O O O O O
+O O O O B-buildings O O O O O
+O O O O O O O B-stars O O
+O B-locale O O O O O O O O O O O O O O O O
+O O O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O B-buildings O
+O O B-being_obligated-needing-possession-required_event O O O O O O O O O O
+O O O O B-artifact-contacting-text-verification O O O O O O O O
+O O O O O O B-building_subparts O O O O O O
+O O O O O O O O O B-stars O O O
+O O O O O O B-information O O O O O O O O O O O O O
+O O O O O O O O O O B-buildings O O O O O O O O O
+O O O O O O O O O O O O O O O O B-stars O O O
+O O O O O O O O O O O B-placing O
+O O O B-commerce_scenario O O O O O O O O O
+O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O
+O O O O O O O O O O B-expensiveness O O
+O O O O O O O B-calendric_unit O O O O
+O O O O B-people O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O
+O O O O O O O O O O O B-calendric_unit O
+O O O O O O O O B-cardinal_numbers O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-placing O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-aggregate-social_event O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-locale O O O O O O O
+O O O O O O O O O O O B-building_subparts O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-expensiveness O
+O O O O O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O
+O O O O O O O O B-calendric_unit O
+O O O O O O B-artifact-contacting-text-verification O O O
+O O O O B-residence O O O O O
+O O O O O B-placing O O O O O O O O O O O
+O O B-buildings O O O O O O O O O O O O O O
+O O O O B-expensiveness O O O O O O O O O O O O
+O O O O O O O O O O O O O B-stars O O O
+O O O B-residence O O O O O O O
+O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O B-quantified_mass-quantity O
+O B-people O O O O O O O O O O O
+O O O O O O B-buildings O O O O O
+O O O O B-being_obligated-needing-possession-required_event O O O O O O O
+O O O O O O O O O O O O B-cardinal_numbers O
+O O O O O O O O O O B-stars O O O
+O O O O O O O O B-buildings O
+O O O O O O O O O O B-calendric_unit O O O O O O O O O
+O O O O B-building_subparts O O O O O O O O O O O O O O O
+O O O O O O O B-cardinal_numbers O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-calendric_unit O
+O B-cardinal_numbers O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-people O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-cardinal_numbers O O O O
+O O O O B-choosing O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-residence O O O
+O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-building_subparts O O O O O O O O O O O O O O
+O O O B-cardinal_numbers O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-people O O O O O O O O O O O O
+O O O O B-buildings O O O O O O O O O
+O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O B-people O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O
+O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-building_subparts O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-residence O O O O
+O O O O O O O O O O O B-people O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-calendric_unit O O O O O O O O O O O
+O O O O O B-buildings O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-building_subparts O O O O O O O O O O O O O O O O
+O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-buildings O O O O O O
+O O O O O O O B-building_subparts O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-political_locales O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-commerce_scenario O O
+O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O O O O O O O B-performers_and_roles O O O O O O O O O
+O O O O O B-being_obligated-needing-possession-required_event O O O O O
+O O O O O O O B-stars O O O
+O O O O O O O O O O O O O O B-calendric_unit O
+O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O B-locale O O O O O O O O O O O O O O O O
+O O O O O O O O O B-residence O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O O O O O O B-stars O O O O O O
+O O O B-direction O O O O O
+O O O O O O O B-expensiveness O
+O O O O O O O O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O B-expensiveness O O O O O O O O O O
+O O O O O O O O O O O O B-cardinal_numbers O O O O
+O O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O B-buildings O O O O O O O O O O
+O O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O B-speak_on_topic-statement-topic O O O O O O O O O O
+O O O O O O O O O O O B-buildings O O O
+O O O O O O B-placing O O O O O O
+O O O O O B-expensiveness O O O O O O O
+O O O O O O O O O B-stars O O O
+O O O O O O O O B-direction O O
+O O O O O O O O O B-locale O
+O O O O O O O O O O O O O O O O O O B-calendric_unit O
+O B-locale O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O B-locative_relation-part_orientational O O
+O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O O O O O O O O B-buildings O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-commerce_scenario O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-stars O O O O
+O O O O O O O O O B-locale O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-buildings O
+O O O O O O O O O O O B-residence O O O O O O O O
+O O O O O O O O B-placing O O O O O O O O O O O
+O O O O O B-buildings O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-commerce_scenario O O
+O O O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O O O O O O B-expensiveness O O O O O O O O O O O O
+O O O O O O B-locative_relation-part_orientational O O
+O B-expensiveness O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-buildings O O O
+O O O O O O O O O O B-locale O O O O O O O
+O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O B-cardinal_numbers O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-calendric_unit O O O O O O O O O
+O O O O O O O O O O O O O O O O B-residence O O O O
+O O O O O O B-building_subparts O O O O O O O O O O O O O O
+O O O O O O O O B-people O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-cardinal_numbers O O
+O O O O O O O O O O O O B-speak_on_topic-statement-topic O O O O O O O O
+O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-locale O O O O O O
+O O O O O O O O O O O O O O O O B-political_locales O O O O
+O O O O O B-building_subparts O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-expensiveness O O O O O O O O
+O O B-being_obligated-needing-possession-required_event O O O O
+O O O O O B-quantified_mass-quantity O
+O O O O O O O O O O O O B-speak_on_topic-statement-topic O O O O O
+O O O O O O O O O O O O O O O O B-aggregate-social_event O
+O O O O O O B-speak_on_topic-statement-topic O O O O O O O O
+O O O O O O O O O O O O B-buildings O O
+O O O O O O O O O B-performers_and_roles O O O O O
+O O O B-placing O
+O O B-expensiveness O O
+O O O O O O O B-expensiveness O O O
+O O O O B-buildings O O O O O O
+O O O O O O O O B-commerce_scenario O O
+O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O O O O O O O O O O O O O B-locale O
+O O O B-calendric_unit O
+O O O O O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O O B-stars O O O O O O
+O O O O O O B-locale O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-direction O O O O
+O O O O O O O O B-residence O O O O O O O O O O O
+O O O O O O O O O O O B-expensiveness O O O O O O O O
+O O O O O O O O O O O O O O O O B-part_whole O O O
+O O O O O O O O O O O O O O O O O O B-political_locales O
+O O O O O O O O O O O O O O O O O B-speak_on_topic-statement-topic O O O O
+O O O O B-buildings O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O O O O O O O O O O O O O O O O O O B-artifact-contacting-text-verification O O
+O O O O B-buildings O O
+O O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O O O O O O O
+O O O O O O O B-buildings O O O O O O O O O O O
+O O O O O O O O O O B-buildings O O O O O O O O
+O O O O O B-locale O O O O O O O O O O
+O O O O O O O O O O B-expensiveness O O O O O
+O O O O O O O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O O B-residence O O O O O O O O
+O O O O O O O B-part_inner_outer O
+O O B-artifact-contacting-text-verification O O O O O O
+O O O O O O O O O O O B-inclusion O O O O O O O O
+O O O O O O O O O O O O O O O O B-placing O O O
+O O O O O O O O O O B-buildings O O O O O O O O O
+O O O O O O O O O O O O B-expensiveness O O O O O O O
+O O O O O B-building_subparts O O O O O O O
+O O O B-being_obligated-needing-possession-required_event O O O O O O O O O
+O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O B-buildings O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-commerce_scenario O O O O O O O O O O O O O O
+O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O O O O O O
+O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-cardinal_numbers O
+O O O O O B-stars O O O
+B-people O O O O O O O O
+O O O B-cardinal_numbers O O O O O
+O O O O O B-cardinal_numbers O O O O O
+O O O B-expensiveness O O
+O O O O O O B-direction O O O O
+O O O O O O O O B-expensiveness O O
+O O O B-cardinal_numbers O O O O O O O
+O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O
+O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O B-placing O O O O O O O O O O O O
+O O O O O O O O O O O O B-quantified_mass-quantity O O O O
+O O B-offering O O O O O O O O O O O O O O
+O O O O O O O O O O O B-artifact-contacting-text-verification O O O O O
+O O O B-expensiveness O O O O O O O O O O O O O
+O O O O O O B-locale O O O O O O O O O O O O
+O O O O O O O O B-residence O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O O O O O O O O O O O O O O O B-placing O
+O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O B-calendric_unit O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-residence O
+O O O O O O B-building_subparts O O O O O O O O O O O O
+O O O O O O O O O O O O O B-people O O O O O
+O O O O O O B-quantified_mass-quantity O O
+O O O O O O O O O O O O O O B-residence O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-cardinal_numbers O O O O O O
+O O O O O O O O O O B-expensiveness O O O
+O O O O O O O B-buildings O O O O O O
+O O O O O O O O O O O B-commerce_scenario O O
+O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O O O O B-stars O O O O O O O O
+O O O O O O O O O O O O O O O O B-placing O
+O O O O O B-locale O O O O O O O O O O O O
+O O O O O O O B-residence O O O O O O O O O O
+O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O
+O O O O O O O O O O O B-part_whole O O O O O O
+O O O O O O O O O O O O O B-political_locales O O O O
+O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O B-buildings O O O O O
+O O O O O B-being_obligated-needing-possession-required_event O O O O O O O
+O O O O O O O O O O O O B-placing O O
+O O O O O O O B-locale O O O O O O O
+O O O O O O O O O O O B-expensiveness O O O
+O O O O O O O O O B-calendric_unit O O O O O O O O
+O O O O O O B-cardinal_numbers O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-people O O
+O O O O O O O O O O B-offering O O O
+O O O O B-locale O O O O O O O O O
+O O O O O O O O O O O B-expensiveness O O
+O O O O O O B-stars O O O O O O O
+O O O O O O B-cardinal_numbers O O O O
+O O B-people O O O O O O O O
+O O O O O O O O O O O O O O O O O B-expensiveness O O O O O O O O O O
+O O O O O O O O O O O O O O B-speak_on_topic-statement-topic O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-placing O O O O
+O O O O O O O O O O O O B-quantified_mass-quantity O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-choosing O
+O O O O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-buildings O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-expensiveness O O O O O O O
+O O O O O B-buildings O O O O
+O O O O B-expensiveness O O O O O
+O O O O O O O O B-political_locales O
+O O O O O O O O O O O O O O O O B-calendric_unit O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O O B-buildings O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O O
+O O O O O B-placing O O
+B-expensiveness O O O O O O O
+O O O O B-expensiveness O O O
+O O O O O O B-buildings O O
+O B-locale O O O O O O O
+O O O B-political_locales O O O O O
+O O O O O B-locale O O O O O O O O O O O O O
+O O O O O O O B-residence O O O O O O O O O O O
+O O O O O O O O O O B-expensiveness O O O O O O O O
+O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O
+O O O O O O O O O O O O O O O B-part_whole O O O
+O O O O O O O O O O O O O O O O O B-political_locales O
+O O O O O O O O O O O B-locale O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-commerce_scenario O O O O O O O
+O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O B-stars O O O O O O O O O O O O O
+O O O O O O O O B-expensiveness O O O O O
+O O O O O O O O O O O O B-placing O
+O O O O O B-buildings O O O O O O O O
+O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O B-direction O O O O
+O O O O O O O B-residence O O O O O O O O
+O O O O O O O O O O O O B-part_whole O O O
+O O O O O O O O O O O O O O B-political_locales O
+O O O O O O O O O B-commerce_scenario O O O O O
+O O O O O O O B-locative_relation-part_orientational O O O O O O O
+O O O O B-cardinal_numbers O O O O O O O O O O
+O O O O O O B-commerce_scenario O O
+O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O B-cardinal_numbers O O O O O O
+O O O O O O O O O O B-calendric_unit O O O
+O O O O O O O B-cardinal_numbers O O O O O O
+O O O O O B-cardinal_numbers O O
+O O O O O O O O O O O O B-placing O
+O O O B-buildings O O O O O O O O O O
+O B-economy-foreign_or_domestic_country-storing-text_creation-type O O O O O O O O O O O O
+O O O O O O O O O O O B-expensiveness O O
+B-people O O O O O O O
+O O O B-cardinal_numbers O O O O
+O O O O O B-locale O O O O O O O O O O O O O O O O O O O O
+O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O
+O O O B-people O O O
+O O O O O O B-calendric_unit O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-inclusion O
+O O O O O O O O B-calendric_unit O O O O O O O O O O
+O O O O O O O O O O O B-residence O O O O O O O
+O O O O B-residence O O O O O O O O O O O O O O
+O O O B-calendric_unit O O O O O O O O O O O O
+O O O O B-quantified_mass-quantity O O O O O O O O O
+O O O B-artifact-contacting-text-verification O O O O O O O O O O
+O O O O O O O O O O B-political_locales O O O
+O O O O O O O O O B-buildings O O O
+O O O O B-quantified_mass-quantity O
+O O O O O O O O O O O O O O B-residence O O O
+O O O O O B-cardinal_numbers O O O O O O O O O O O O
+O O O O O O B-people O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O B-buildings O O O O O
+O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O
+O O O O B-building_subparts O O O O O O O O O O O O O O O O
+O O O O O O O B-people O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O B-inclusion O O O
+O O O O O O O B-part_inner_outer O O O O O O O
+O O O O O O O O B-locale O O O O O O
+O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O B-buildings O O O O O O O O O O O
+O O O O O O O O O O O B-direction O O O O O O O O
+O O O O O O O O O O O O O O B-political_locales O O O O O
+O O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O
+O O O O O B-buildings O O O O O O O
+O O O O O O O O B-locative_relation-part_orientational O O O O
+O O O O O O O O O B-part_whole O O O
+O O O O O O O O O O O B-political_locales O
+O O O O O O O O O O B-part_inner_outer O O
+O O O O O O O B-buildings O O O O O
+O O O O O O O O O O O O B-political_locales
+O O O O O B-stars O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-placing O O
+O O O O O O O O O O O O O O O O O O O O B-buildings O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-part_whole O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-political_locales O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O O
+O O O O O O O O O O B-calendric_unit O
+O O O O O O O O O O O O O B-calendric_unit O O O O
+O O O O O O O B-buildings O O O O O O O O O O
+O O O B-building_subparts O O O O O O O O O O O O O O
+O O O O O O O O O O B-people O O O O O O O
+O O O O O O O O O O O O O O O O B-speak_on_topic-statement-topic O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-placing O
+O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-offering O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O O O
+O O O O O O B-people O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O B-speak_on_topic-statement-topic O O O O O O O O O
+O O O O O O O O O O O B-quantified_mass-quantity O O O O O
+O O O O B-commerce_scenario O O O O O O O O O O O O
+O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O O O O
+O O O O O O O O O O B-artifact-contacting-text-verification O O O O O O
+O O O O O O O O O O O O O O O B-locale O
+O O O O O O O O O O B-placing O
+O O O O O O O O B-offering O O O
+O O O O O O O O O B-expensiveness O O
+O O O O O O B-speak_on_topic-statement-topic O
+O O O O O O O O O B-locale O O O O O O
+O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O B-stars O O O O O O O O
+O O O O O O O O O O O O O O O O B-placing
+O O O O O O O O O O O O O O B-offering O O
+O O O O O O O O B-buildings O O O O O O O O
+O O O O O O O O O O O B-direction O O O O O
+O O O O O O O O O O O O O O O B-expensiveness O
+O O O O O O O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O O O O B-people O O O O O O O O O O O O
+O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O
+O O O O O O O B-cardinal_numbers O O
+O O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O O O O B-buildings O O O
+O O O O O O O B-economy-foreign_or_domestic_country-storing-text_creation-type O O O O O
+O O O O O O O O O O O O O O O B-expensiveness O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-placing
+O O O O O B-locale O O O O O O O O O O O O O O O O
+O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O O O
+O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-expensiveness O
+O O O O O B-expensiveness O O O O O O
+O O O O O O O O O O B-buildings O
+O O O O O O B-building_subparts O O O O O
+O O O O B-expensiveness O O O O O O O O O
+O O O O O O O O O O O O B-placing O
+O B-buildings O O O O O O O O O O O O
+O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O
+O O O O O O O O O O O B-expensiveness O O
+O O O O B-cardinal_numbers O O O O O O O O
+O O O O O O B-buildings O O O O
+O O O B-stars O O O O O O O
+O O O O O O O O O O O O B-inclusion O O O
+O O O O B-locale O O O O O O O O O O O
+O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O B-stars O O O O O O O
+O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O
+O O O O O O B-locale O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-expensiveness O
+O O O O O O O O B-residence O O O O O O O O O O O
+O O O O O O O O O O O O O O B-stars O O O O O
+O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O B-building_subparts O O O O O O O O O O
+O O O O O O O B-cardinal_numbers O O O O O O O O
+O O O B-cardinal_numbers O O O O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O O O O B-buildings O O O O O O O
+O O O O O O O O O O O O B-buildings O O O O
+O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O O O B-buildings O O O O O O O O O O O O
+O O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O
+O O O O O O O O O O O O O B-locale O O O O O O O O
+O O O O O B-locale O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-commerce_scenario O O O O O O O O O
+O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O
+O O O O O O O B-residence O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-performers_and_roles O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-cardinal_numbers O
+O O O O O O O O O B-calendric_unit O
+O O B-people O O O O O O O O
+O O O O O B-cardinal_numbers O O O O O
+O O O O O O O B-buildings O O O O
+O O O O O B-economy-foreign_or_domestic_country-storing-text_creation-type O O O O O O
+O O O B-cardinal_numbers O O O
+O O O B-expensiveness O O O O O O O O O O O O O O
+O O O O O O B-buildings O O O O O O O O O O O
+O O O O O O O O O B-expensiveness O O O O O O O O
+O O O O O O O O O O O O O B-locale O O O O
+O O O O B-stars O O O O O O O O O O O O O
+O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O O B-cardinal_numbers O O O O O O O O
+O O O O O O O O O O O B-people O O O O O
+O O O O O O O O O O B-expensiveness O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O B-expensiveness O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O
+O O O B-buildings O O O O O O
+O O O O O O O O B-locale O
+O O O O O O B-locale O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-expensiveness O O O
+O O O O O O O O O O O O O O O O O O O O B-commerce_scenario O O
+O O O O O O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-residence O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-stars O O O O O O O O O O
+O O O O O B-buildings O O O O O
+O O O O O O O O B-direction O O
+O O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O O O O O B-quantified_mass-quantity O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O B-cardinal_numbers O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-buildings O O O O O O
+O O O O O O O O O O O B-economy-foreign_or_domestic_country-storing-text_creation-type O O O O O
+O O O B-buildings O O O O
+O O O O O O B-direction O
+O O O O O O O O O O O O O O O B-placing O
+O O O O O O O O O B-expensiveness O O O O O O O
+O O O O O O O O O O B-locale O O O O O O
+O O O O O O O O O O O O O O B-expensiveness O O
+O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O O O
+O O O O B-buildings O O O O O O O
+O O O O O B-residence O O O O O O O O O O O O O
+O O O O O O O O O O O B-calendric_unit O O O O O O O
+O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O
+O O O B-people O O O O O O O O O O O O O O O
+O O O O O O O B-cardinal_numbers O O O O O O O O O O O
+O O O O O O O B-buildings O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-direction O O
+O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O
+O O O O O B-stars O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-calendric_unit O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-locale O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-inclusion O O
+O O O O O O O O O B-expensiveness O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-stars O O O O O O
+O O O O O O O O O O B-speak_on_topic-statement-topic O
+O O O O O O O O O O O O O O O O O O B-inclusion O O O O O
+O O O O O O O O O O O O O O O O O O O O B-placing O O O
+O O O O B-locale O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-buildings O O O O O O O
+O O O O O O B-residence O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-expensiveness O O O O
+O O O O O O O O O O O O O O B-stars O O O O O O O O O
+O O O O O O O O O O O O B-calendric_unit O O O O O O O
+O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O
+O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O
+O O O O O O O O O B-people O O O O O O O O O O
+O O O O O O O O O O O O O O B-inclusion O O O
+O O O O O O O O O O O O O O O O B-placing O
+O O O O B-locale O O O O O O O O O O O O O
+O O O O O O O O O B-direction O O O O O O O O
+O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O
+O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O
+O O O O O O O O O O O O B-political_locales O O O O O
+O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O B-information O O O O O
+O O O O O O O O B-buildings O O
+O O O O O O O O O O O O O O O O B-calendric_unit O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-residence O O O
+O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-building_subparts O O O O O O O O O O O O O O O O
+O O O O O B-buildings
+O O O B-stars O O
+O O O O O O O O O O B-placing O O O O O O O O
+O O O O B-buildings O O O O O O O O O O O O O O
+O O O O O O O B-direction O O O O O O O O O O O
+O O O O O O O O O B-expensiveness O O O O O O O O O
+O O O O O O O O O O O B-part_inner_outer O
+O O O O O O B-locale O O O O O O
+O O O O O O O O B-residence O O O O
+O O O O O O O O O O O O B-calendric_unit O
+O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O B-people O O O O O O O O
+O O O O O O O B-direction O O O O
+O O O O O O O O B-part_whole O O O
+O O O O O O O O O O B-political_locales O
+O B-existence O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-part_inner_outer O O O O
+O O O O O O O O O O B-buildings O O O O O O O
+O O O O O O O O O O O O O O O B-stars O O
+O O O O O B-locative_relation-part_orientational O O O O
+O O B-cardinal_numbers O O O O O O O
+O O O O O O O O O B-inclusion O O O O O O O O
+O O O O O O O O O O O B-placing O O O O O O
+O O O O O O O B-buildings O O O O O O O O O O
+O O O O O O O O O O B-expensiveness O O O O O O O
+O O O O O O O O O O O B-calendric_unit O O O O O O O O O O O O
+O O B-building_subparts O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O
+O O O O B-people O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O O O O
+O O O O O B-artifact-contacting-text-verification O O O
+O O O O O B-people O O O O O O O O
+O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O O O O
+O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-placing O
+O O O B-locale O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O B-stars O O O O O O O O O O O O O O O O O
+O O O B-locale O O O O O O O
+O O O O O O O O B-locative_relation-part_orientational O O
+O O O O O B-residence O O O O O
+O O O O O O O O O O O B-calendric_unit O
+O O O O O B-people O O O O O O O
+O O O O O O O O B-cardinal_numbers O O O O
+O O O O B-temporal_subregion O O O O O O O O O O O O O O O O O O O
+O O O O O O B-residence O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-people O O
+O O O O O O O B-expensiveness O O O O O O
+O O O O O O O O B-locale O O O O O
+O O O O O O O O O O B-residence O O O
+O O O O O O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O B-buildings O O O O O O O O
+O O O O O O O O O O O B-locative_relation-part_orientational O O O O O
+O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O
+O O O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O
+O O O O O B-buildings O O O O
+O O O O O O O O B-direction O
+O O O O O O B-locale O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-buildings O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-commerce_scenario O
+O O O O O O O O B-residence O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-stars O O O O O O O
+O O O O O O O B-buildings O O O O O O O O O O
+O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O
+O O O O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O O O O O O O O O O O B-buildings O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-artifact-contacting-text-verification O O
+O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O
+O O O O O O B-stars O O O
+O O O O O O O O O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O
+O O O O O O O O O O O O O O O O O O O O B-artifact-contacting-text-verification O O O O O O
+O O O O O O O O O O B-choosing O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-buildings O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O
+O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O
+O O O O O O O B-artifact-contacting-text-verification O O O O O O O O
+O O O O O O O O O B-building_subparts O O O O O O
+O O O O O B-buildings O O O O
+O O O O O O O O B-locative_relation-part_orientational O
+O O O B-commerce_scenario O O O O
+O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O
+O O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O O O O
+O O O O B-nights O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-people O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-building_subparts O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O O O O
+O O O B-people O O O O O
+O O O O O O B-expensiveness O O
+O O O B-cardinal_numbers O O O O O
+O O O O O O B-buildings O O O
+O O O O O O O O O B-buildings
+O O O O O O O O O O O O O O O O B-calendric_unit O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O O O O
+O O O O O O O O O O B-buildings O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-people O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O
+O O O O B-buildings O O O O O
+O O O O O B-economy-foreign_or_domestic_country-storing-text_creation-type O O O O
+O O O O O O O O O O O O O O O O B-placing O
+O O O O O O O O O O O O O O B-offering O O O
+O O O O O O O O O O O O B-buildings O O O O O
+O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O B-stars O O O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit O
+O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O
+O O O O O O O O O O B-building_subparts O O O O O O
+O O O O O O O O O O O O B-cardinal_numbers O O O O
+O O O O O O O O O B-quantified_mass-quantity O O O O O O O O O O
+O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O O
+O O O O O O O O O O O O O B-locale O O O O O O
+O O O O O O O O O O O O O O O B-political_locales O O O O
+O O O O O O O O O B-stars O O
+O O O O O B-placing O
+O O B-buildings O O O O
+O O O O B-expensiveness O O
+O B-buildings O O O O O O O O O O O O O O O O O O
+O O O O O O B-expensiveness O O O O O O O O O O O O O
+O O O O O O O B-commerce_scenario O O O O O O O O O O O O
+O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O O O O
+O O O O O O O O O O O O O B-performers_and_roles O O O O O O
+O O O O O O O O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O O O O O O O O O B-quantified_mass-quantity O
+O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O O O
+O O O O O O O O O B-artifact-contacting-text-verification O O O O O O O O O O
+O O O O O O O O O O O O B-building_subparts O O O O O O O
+O O O O O O O O B-artifact-contacting-text-verification O O O O O O O
+O O O O O O O O O O O O O B-cardinal_numbers O O
+O O O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O
+O O O O O O O B-residence O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-placing O O O O
+O O O O O O O B-locative_relation-part_orientational O O O O O O O O O O O O O
+O O O O O O O O O O O O B-expensiveness O O O O O O O O
+O O O O O O O O O O O O O O O B-expensiveness O O O O O
+O O O O O O O O O B-stars O O O O O O O O O O O
+O O O O O O O O O O O B-placing O
+O O O O O O O O B-part_inner_outer O O O O
+O O O O O O O O O O B-expensiveness O O
+O O O O O O O O O O B-buildings O O
+O O O O O O B-building_subparts O O O O O O
+O O O O O O O O O O O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O
+O O O O O O O O O O O O O O O B-buildings O O O O O
+O O O O O O O O O O O O O O O O O O O B-buildings O
+O O B-placing O O O
+O O O B-expensiveness O O
+O O O O B-placing O O
+O O O B-expensiveness O O O
+O O O O O O O O O B-buildings O O O O
+O O O O O O O O O O O O B-locative_relation-part_orientational O
+O O O O O O O B-being_obligated-needing-possession-required_event O O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit O O O O O O O O
+O O O O O B-buildings O O O O O O O O O O O O O O O O O O
+O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O O O O
+O O O O O O O O B-buildings O O O O O O O O O O
+O O O O O O O O O O O O O O B-expensiveness O O O O
+O O O O O O B-stars O O O O O O O O O O O O
+O O O O O O O O O O O B-offering O O
+O O O O O O O O O O O O B-expensiveness O
+O B-locale O O O O O O O O O O O O
+O O O B-being_obligated-needing-possession-required_event O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-buildings O O O O O O
+O O O O O O O O O O O O O O O O O O O B-commerce_scenario O O
+O O O O O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O
+O O O O O O O O O O O O O B-direction O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-expensiveness O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-delimitation_of_diversity-diversity-natural_features-range O O O O O O O O O O O O
+O O O O B-accuracy-actually_occurring_entity-aesthetics-closure-fullness-idiosyncrasy-likelihood-proper_reference-similarity-stimulus_focus-usefulness O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-stars O O

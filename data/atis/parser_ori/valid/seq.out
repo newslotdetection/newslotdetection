@@ -1,0 +1,3134 @@
+O O O O O O O O O O B-toloc.city_name
+O O O O O O O O B-fromloc.city_name O O
+O O O O B-fromloc.city_name O O O O O O
+O O O O O O B-motion O O O O
+O O O O O O O B-toloc.city_name
+O O O B-architectural_part O O O O
+O O O O O B-fromloc.city_name O O
+O O O O O O O B-fromloc.city_name O O O O O O
+O O O B-information O O O O O O O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O B-architectural_part O O O O O O O O
+O O O O O O O O O B-toloc.city_name O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O B-fromloc.city_name O O O O O O O O
+O O O O O B-toloc.city_name O O O O O O
+O B-architectural_part O O O O O O O O O O
+O O O O O O O O B-experiencer_focus O O O
+O O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O B-locative_relation O
+O O O O O O O O O O O B-calendric_unit-ent_date O O O O O O O
+O O O O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O
+O O O B-architectural_part O O O O O O O O O O O O O O O
+O O O O O O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O B-political_locales-text_creation O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O O O O O O B-locative_relation O
+O O O O O O O B-toloc.city_name O
+O O B-calendric_unit-ent_date O O O O O O
+O O O B-architectural_part O O O O O
+O O O O O B-fromloc.city_name O O O
+O O O O O O O O B-ent_time
+O O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O B-architectural_part O O O O O O O O O O O O
+O O O O O B-departing-social_connection O O O O O O O O O
+O O O O O O O O O O B-fromloc.city_name O O O O
+O O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O O
+O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O B-fromloc.city_name O O O O O O O O O O O O O
+O O O O O O O B-toloc.city_name O O O O O O O O O O O
+O O O B-architectural_part O O O O O O O O O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O O O O O
+O O O O O O O O O O O O O O O O B-quantified_mass-quantity O O
+O O O O O O O O O O O B-measure_duration O O O O O O O
+O O O O O O O O O B-calendric_unit-ent_date O O O O O O O O O
+O O O O O O O O O O O O B-fromloc.city_name O O O O O O
+O O O O B-fromloc.city_name
+O O B-locative_relation O O
+O O O B-calendric_unit-ent_date O
+O O O O O O B-ent_norp-origin O O
+O O B-fromloc.city_name O O O O O O
+O O O B-motion O O O O O
+O O O O B-architectural_part O O O O O
+O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O B-ent_time
+O O O O O O O O B-toloc.city_name O
+O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O
+O O O O O O O O O O B-fromloc.city_name O O O O O
+O O O B-architectural_part O O O O O O O O O O O O
+O O O O O O O B-toloc.city_name O O O O O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date O O
+O O O O O O O O O O O O B-ent_time O O O
+O O O O O O O O O O O O B-fromloc.city_name O
+O O O O O O O O O O B-fromloc.city_name O O O
+O O O O B-architectural_part O O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O B-departing-social_connection O O O O O O O O
+O O O O O O O B-motion O O O O O O
+O B-measure_duration O O O O O O O O O O O O
+O O O O O O O O O B-toloc.city_name O O O O
+O O B-architectural_part O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O B-toloc.city_name O O O O O O O O O O O O
+O O O O O O O O O O O O O B-ammunition-shapes O O O O O O
+O O O O O B-political_locales-text_creation O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-means-roadways-travel O O O O O
+O O O O O O O O O O O O O O O B-clothing_parts O O O O
+O O O O O O O O O O O O O O O O B-fromloc.city_name O O O
+O O O O B-fromloc.city_name O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O O B-fromloc.city_name O O O O O O O O O O O
+O O O B-architectural_part O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O O O O O O O O B-fromloc.city_name O
+O O O O O O B-fromloc.city_name O O O O O O O O O
+O O O O O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O B-fromloc.city_name O O O O O O O O O O O
+O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O B-architectural_part O O O O O O O O O O O O O
+O O O O O B-toloc.city_name O O O O O O O O O
+O O O O O O O O B-experiencer_focus O O O O O O
+O O O O O O O B-cardinal_numbers O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O
+O O B-political_locales-text_creation O O O O O O O
+O O O O O B-experiencer_focus O O O O
+O O O O O O O B-motion O O
+O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O B-fromloc.city_name
+O O O O O O O O O O B-calendric_unit-ent_date
+O O O O B-fromloc.city_name O O O O O O
+O O B-architectural_part O O O O O O O O
+O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O O
+O O O O O O B-natural_features O O O O
+O O O O O O O B-natural_features O O O
+O O O O O O O O B-political_locales-text_creation O O
+O O O O O O B-toloc.city_name O O O O O O O O O
+O O B-calendric_unit-ent_date O O O O O O O O O O O O O
+O O O O O O O O O O O B-fromloc.city_name O O O O
+O O O O B-means-roadways-travel O O O O O O O O O O O
+O O O O O O O O O B-experiencer_focus O O O O O O
+O O O O O O O O O O O O O O O B-toloc.city_name O O O O
+O O O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O B-calendric_unit-ent_date O O O O O O O O O O O O O O O O O
+O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O O O O O O O O B-relative_time-temporal_collocation-temporal_subregion O O O
+O O O B-cardinal_numbers O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O B-becoming O O O O O O O O O
+O O O O B-departing-social_connection O O O O O O O O O O
+O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O
+O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O B-architectural_part O O O O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O B-toloc.city_name O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O O O O O O
+O O O B-fromloc.city_name O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-departing-social_connection O O O O O
+O O O O O O B-architectural_part O O O O O O O O O O O
+O O O O O O O O O O O B-toloc.city_name O O O O O O
+O O O O B-cardinal_numbers O O O O O O O O O O O O O
+O O O O O B-means-roadways-travel O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O O O O O B-ent_time O
+O O O O O O O O O B-ent_time O O O
+O O O O O O B-clothing_parts O O O O O O
+O O O O O O O O O O O B-toloc.city_name O
+O O O O B-ammunition-shapes O O O O O O O O
+O O O O O B-means-roadways-travel O O O O O O O
+O O O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O B-fromloc.city_name O O O O O O O O O
+O O B-architectural_part O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-means-roadways-travel O O O O O O
+O O O O O O O O O O O O O O B-departing-social_connection O O O
+O O O O B-calendric_unit-ent_date O O O O O O O O O O O O O
+O O O O O O O O O O B-toloc.city_name O O O O O O O
+O O O O O B-motion O O O O O O O O O O O O
+O O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O
+O O O O O O O O O O O O O B-type O O O O
+O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-ent_time O
+O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O O B-toloc.city_name
+O O O O B-ammunition-shapes O O O O O O
+O O O O O B-means-roadways-travel O O O O O
+O O O O O O B-architectural_part O O O O
+O O O O O O O O O O B-fromloc.city_name
+O O O B-architectural_part O O O O O O O
+O O O O O B-fromloc.city_name O O O O O
+O O O O B-locative_relation O O O O O O
+O O O O O O O O O B-fromloc.city_name O
+O O O O O O O O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O O O O
+O O O O O O B-architectural_part O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-ent_time O
+O O O O O O O O O O B-political_locales-text_creation O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-calendric_unit-ent_date O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date O O
+B-locative_relation O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O B-fromloc.city_name O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O O O O O O O
+B-fromloc.city_name O O O O O O O O O
+O O O B-fromloc.city_name O O O O O O
+O O O O O O O O B-fromloc.city_name O
+O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O
+O O O O O B-cardinal_numbers O O O O
+O O O O O O B-toloc.city_name O O O O
+O O O O O O O O O O B-fromloc.city_name
+O O O O B-fromloc.city_name O O O O O O
+B-ammunition-shapes O O O O O O O O O O
+O O B-architectural_part O O O O O O O O
+O B-means-roadways-travel O O O O O O O O O
+O O O O O O O B-ent_time O O O
+O O O O O O O O O B-calendric_unit-ent_date O
+O O O B-calendric_unit-ent_date O O O O O O O O O
+O O O O O O O O O O O O B-toloc.city_name
+O O O O O O O O O O B-fromloc.city_name O O
+O B-fromloc.city_name O O O O O O O O O O O
+O O O O B-experiencer_focus O O O O O O O O
+O O O O O O O O B-vehicle O O O O
+O O O O O O B-experiencer_focus O O O O O O
+O O O O B-toloc.city_name O O
+O O O O O O B-fromloc.city_name
+O O B-fromloc.city_name O O O O
+O O O O O O O O B-toloc.city_name O O O O O
+O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O
+O O O O B-motion O O O O O O O O O
+O O O O O O O B-toloc.city_name O O O
+O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O B-ent_norp-origin O
+O O O O O O O O O O B-fromloc.city_name
+O O B-architectural_part O O O O O O O O
+O O O O O O O O O O O B-toloc.city_name O O O O
+O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O
+O B-means-roadways-travel O O O O O O O O O O O O O O
+O O O O O O O B-architectural_part O O O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O B-ammunition-shapes O O O O O O O O O O
+O O O O O O B-means-roadways-travel O O O O O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O O O B-ent_time O
+O O B-toloc.city_name O O
+O O O O B-calendric_unit-ent_date
+O O O B-calendric_unit-ent_date O
+B-fromloc.city_name O O O O
+O O O O O O O O O O O O O O B-toloc.city_name
+O O O O B-ammunition-shapes O O O O O O O O O O
+O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O
+O O O O O O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O
+O O O O O B-means-roadways-travel O O O O O O O O O
+O O O O O O O O O B-calendric_unit-ent_date O O O O O
+O O O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O O B-toloc.city_name O O O O
+O O O O B-experiencer_focus O O O O O O O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O O
+O B-experiencer_focus O O O O O O O O O O O O O
+O O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O O O O O B-cardinal_numbers O
+O O O O O O O O O O O O O O B-measure_duration
+O O O O O O B-motion O O O O O O O O
+O O O O O O B-fromloc.city_name
+O O O B-fromloc.city_name O O O
+B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O
+O B-type O O O O O
+O O O O O B-toloc.city_name O
+O O O B-fromloc.city_name O O O O O O O O
+O B-architectural_part O O O O O O O O O O
+O O O O O B-toloc.city_name O O O O O O
+O O O O O O O O B-calendric_unit-ent_date O O O
+O O O O O O O O O O B-calendric_unit-ent_date O
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O O O
+O O O O O O O O B-toloc.city_name
+O O O B-architectural_part O O O O O
+O O O O O O B-fromloc.city_name O O
+O O O O O B-architectural_part O O O O
+O O O O O O O O O B-fromloc.city_name
+O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O B-architectural_part O O O O O O O O O
+O O O O O O O O O B-toloc.city_name O O O O O
+O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O
+O O O O O O O O O O O O O B-fromloc.city_name O
+O O O O O O O O B-toloc.city_name O O O O
+O O O B-grinding-ground_up O O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O O
+O B-type O O O O O O O O O O O
+O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O
+O O O O O O O O O O O B-ent_time O
+O O O O O O O B-fromloc.city_name O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O
+O O O O B-architectural_part O O O O O
+O O O O O O O O O B-toloc.city_name
+O B-fromloc.city_name O O O O O O
+O O O O O B-fromloc.city_name O O
+O O O O O O O B-calendric_unit-ent_date
+O O O O B-fromloc.city_name O O O
+O O O O O O B-fromloc.city_name O O
+O O O O O O O O B-toloc.city_name
+O O O B-vehicle O O O O O
+O B-type O O O O O O O
+O O O B-architectural_part O O O O
+O O O O O O O B-toloc.city_name
+O O O O O B-fromloc.city_name O O
+O O O O O O O B-political_locales-text_creation O O O O
+O O O O O O B-fromloc.city_name O O O O O
+O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O
+O O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O B-fromloc.city_name O O O O
+O O O O O B-fromloc.city_name O O O O O O O
+O O O B-architectural_part O O O O O O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O B-relative_time-temporal_collocation-temporal_subregion O O
+O O O O O O O O B-fromloc.city_name O O O O O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O O O O O O O O O O
+O O O B-architectural_part O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-political_locales-text_creation O O O O O O
+O O O O O O O O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O B-toloc.city_name O O O O O O O O O O O O O O O
+O O O B-fromloc.city_name O O O O O
+O O O O O O O O B-calendric_unit-ent_date
+O B-architectural_part O O O O O O O
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O
+O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O
+O O O O O B-toloc.city_name O O O
+O O O B-fromloc.city_name O O
+O O O O O B-toloc.city_name
+O O O O B-calendric_unit-ent_date O O O O
+O O O O O O O B-vehicle O
+O O O B-fromloc.city_name O O O O O
+O O O O O O O O B-measure_duration
+O O O O O O O B-fromloc.city_name O O
+O O O O B-calendric_unit-ent_date O O O O O
+O O O O O O B-departing-social_connection O O O
+O O O O O B-architectural_part O O O O
+O O O O O O O O O B-fromloc.city_name
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O
+O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O O O
+O O O O O O O O O O O O O B-toloc.city_name O O O O
+O O O O O B-architectural_part O O O O O O O O O O O O
+O B-experiencer_focus O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-fromloc.city_name O O O O O O
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O O O O O
+O O O O O O O B-calendric_unit-ent_date O O O O O O O O O O
+O O O O O O O O O O B-natural_features O O O O O O O
+O O O O O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O O O O O O O O O O B-ent_time O O
+O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O B-calendric_unit-ent_date O O O
+O B-architectural_part O O O O O O O O O O O
+O O O O O O O B-toloc.city_name O O O O O
+O O O O O O O O O O O B-locative_relation O
+O O O O O O O O O O O O B-calendric_unit-ent_date
+O O B-fromloc.city_name O O O O
+O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O
+O O O O O O B-fromloc.city_name
+O O O O O O O B-fromloc.city_name O O O O
+O O O O O B-architectural_part O O O O O O
+O B-experiencer_focus O O O O O O O O O O
+O O O O O O O O O B-toloc.city_name O O
+O O O O O O O O O O B-natural_features O
+O O O O O O O O O O O B-political_locales-text_creation
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O
+O O O O B-grinding-ground_up O O O O O O O O O
+O O O O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O B-experiencer_focus O O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O B-experiencer_focus O O O O O O O O O O O
+O O O O O O O O O O O O B-ent_time O
+O O O B-fromloc.city_name O O
+O O O O O B-fromloc.city_name
+O O B-grinding-ground_up O O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O O O O O O O O
+O O O O O O O O B-toloc.city_name O O O O O O O O O O
+O O O O B-architectural_part O O O O O O O O O O O O O O
+O O O O O O B-toloc.city_name O O O O O O O O O O O O
+O O O O O O O O O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O
+O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O B-fromloc.city_name O O
+O O O B-fromloc.city_name O O O O O O
+O O O O O B-calendric_unit-ent_date O O O O
+O B-architectural_part O O O O O O O O
+O O O O B-calendric_unit-ent_date O O O O O
+O O O O O O O O O B-toloc.city_name
+O O O O O O O B-toloc.city_name O O O O O
+O O O B-architectural_part O O O O O O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O B-calendric_unit-ent_date O O
+O O O O O O O O O B-ent_time O O O
+O O O O O O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O
+O O O O B-architectural_part O O O O O O O O O O O
+O B-experiencer_focus O O O O O O O O O O O O O O
+O O O O O O O B-political_locales-text_creation O O O O O O O O
+O O O O O O O O O O B-fromloc.city_name O O O O O
+O O O B-cardinal_numbers O O O O O O O O O O O O
+O O O O O O O O O B-toloc.city_name O O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O O O B-locative_relation O
+O O O O O O O O B-toloc.city_name
+O O O O B-architectural_part O O O O
+O O O O O O B-fromloc.city_name O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O
+O O O O O O B-toloc.city_name O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O O O B-fromloc.city_name O O O O O O O O O O O O O O O O O O O O
+O O B-architectural_part O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-calendric_unit-ent_date O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O B-fromloc.city_name O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O O O
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O
+O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O O O O O B-architectural_part O O
+O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O B-natural_features O O O O O O
+O O O O O O O O B-political_locales-text_creation O O O O O
+O B-fromloc.city_name O O O O
+O O O B-natural_features O O
+O O O O B-natural_features O
+O O O O O B-political_locales-text_creation
+O O O O O O O B-toloc.city_name O O O O
+O O O O O O O O O B-calendric_unit-ent_date O O
+O O O B-architectural_part O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O O O O O O B-ent_time
+O O O O O O O O B-relative_time-temporal_collocation-temporal_subregion O O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O
+O O O O B-experiencer_focus O O O O
+O O O O O O O O B-fromloc.city_name
+O O O O O O O B-cardinal_numbers O
+O O O O O B-fromloc.city_name O O O
+O O O B-architectural_part O O O O O O O O O
+O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O O B-toloc.city_name O O O O
+O O O O O O B-fromloc.city_name O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O B-means-roadways-travel O O
+O O O O O B-toloc.city_name
+O B-architectural_part O O O O
+O O O B-fromloc.city_name O O
+O O O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O O O B-fromloc.city_name O O O O O O
+O O B-fromloc.city_name O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-fromloc.city_name O O
+O O O B-architectural_part O O O O O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O O O O O
+O O O O B-ent_cardinal O O O O O O O O O O O
+O O O O O O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O B-toloc.city_name O O O O O O O
+O O O O O B-fromloc.city_name O O
+O O O B-architectural_part O O O O
+O O O O O O O B-toloc.city_name
+O O O O O O O O O O O B-toloc.city_name
+O O O O O O O O O B-fromloc.city_name O O
+O O O O O O B-architectural_part O O O O O
+O O O O O B-fromloc.city_name O O O O O O
+O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O B-becoming O O O O
+O O O O O B-fromloc.city_name O O O
+O O O O O O O O B-toloc.city_name
+O O O B-architectural_part O O O O O
+O O O O O O B-political_locales-text_creation O O
+O O O O O B-toloc.city_name O O O
+O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay
+B-architectural_part O O O O O O O O
+O O O O O O O B-cardinal_numbers O
+O O O B-fromloc.city_name O O O O O
+O O B-fromloc.city_name O O O O O O
+O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O B-toloc.city_name
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O
+O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O
+O O O O O O O O B-toloc.city_name
+O O O O B-architectural_part O O O O
+O O O O O O B-fromloc.city_name O O
+O O O B-fromloc.city_name O O O O O
+O O O O O O O O B-fromloc.city_name
+O O B-grinding-ground_up O O O O O O
+O O O O O B-fromloc.city_name O O O
+O O O O O O B-fromloc.city_name O O O O O
+O O B-architectural_part O O O O O O O O O
+O O O O B-calendric_unit-ent_date O O O O O O O
+O O O O O O O O B-toloc.city_name O O O
+O O O O O O O O O O B-ent_time O
+O O O O O O O O B-toloc.city_name O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O O O O O O O O B-departing-social_connection O O O
+O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O B-ammunition-shapes O O O O O O O O O O O O O
+O O O O O O O O O O O O B-fromloc.city_name O O O O
+O O O O B-means-roadways-travel O O O O O O O O O O O O
+O O O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O B-architectural_part O O O O
+O O O O O O O O O O O O B-toloc.city_name
+O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O
+O O O O O O O B-type O O O O O
+O O O O B-ent_cardinal O O O O O O O O
+O O O O O B-means-roadways-travel O O O O O O O
+O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O B-fromloc.city_name O O O O O O O
+O O O O B-architectural_part O O O O O O O O O
+O O O O O O O O B-toloc.city_name O O O O O
+O O B-ent_norp-origin O O O O O O O O O
+O O O O O O O O B-toloc.city_name O O O
+O O O O O O O O O O B-architectural_part O
+O O O B-architectural_part O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O
+O O O O B-ent_cardinal O O O O O O O
+O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O O
+O O O O O O O O O O O O B-fromloc.city_name
+O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O
+O O O O O O O B-architectural_part O O O O O
+O O O B-calendric_unit-ent_date O O O O O O O O O
+O O O O O O B-type O O O O O O
+O O O O O O O O O O O B-fromloc.city_name O
+O O O O O O O B-architectural_part O O O O O O O
+O O O O O O O O O O O O O O B-toloc.city_name
+O O O O O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O O B-fromloc.city_name O O O O
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O O O O O O B-calendric_unit-ent_date O O
+O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O B-toloc.city_name O O O O O
+O O O O B-becoming O O O O O O O O O
+O O O O O O O O O O B-nights O O O
+O O O O O O O B-toloc.city_name
+O O O B-architectural_part O O O O
+O O O O O B-fromloc.city_name O O
+O O O O B-fromloc.city_name O O O O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O
+O O B-architectural_part O O O O O O O O O O O
+O O O O O O O O O O B-departing-social_connection O O O
+O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O B-toloc.city_name O O O O O O O
+O O O O O O O O O O O O B-ent_time O
+O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O O O O B-departing-social_connection O O O
+O O O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O B-clothing_parts O O O O O O O O
+O O O O O O O O O O O B-toloc.city_name O O O O
+O O O O O B-cardinal_numbers O O O O O O O O O O
+O O O O O O B-means-roadways-travel O O O O O O O O O
+O B-fromloc.city_name O O O O O O
+O O O O O O O B-fromloc.city_name
+O O O O B-fromloc.city_name O O O
+O O B-motion O O O O O
+O O O O O O O O O O O B-toloc.city_name
+O O B-fromloc.city_name O O O O O O O O O
+O O O B-experiencer_focus O O O O O O O O
+O O O O O O O B-architectural_part O O O O
+O O O O O O O O O B-fromloc.city_name O O
+O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O
+O O O O O O B-type O O O O O
+O O O O B-fromloc.city_name O O O
+O O O O O O O B-ent_time
+O O B-motion O O O O O
+O O O O O O B-toloc.city_name O
+O O O O O O O B-political_locales-text_creation
+O O O O O B-ent_norp-origin O O
+O O O O O O B-fromloc.city_name O
+O B-experiencer_focus O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O O O O
+O O O O B-architectural_part O O O O O O O O O O O O
+O O O O O B-architectural_part O O O O O O O O O O O
+O O O O O O O O O O O O B-assistance O O O O
+O O O O O O O O O O O O O B-public_services-rite-using O O O
+O O O O O O O O O O B-locative_relation O O O O O O
+O O O O O O O O O B-toloc.city_name O O O O O O O
+O O O O O O O O O O O O O O B-toloc.city_name O O O O
+O O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O B-motion O O O O O O
+O O O O O O B-architectural_part O O O O O O O O O O O O
+O B-experiencer_focus O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O O O
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O O O O O O
+O O O O O O O O B-calendric_unit-ent_date O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-relative_time-temporal_collocation-temporal_subregion O
+O O O O O O O O O O O B-fromloc.city_name O O O O O O O
+O B-ent_norp-origin O O O O O O O O O O O O O
+O O B-architectural_part O O O O O O O O O O O O
+O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O
+O O O B-architectural_part O O O O O O O O O O O
+O O O O O O O O O O O O B-fromloc.city_name O O
+O O O O O O B-natural_features O O O O O O O O
+O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O O
+O O O O O O O O B-toloc.city_name O O O O O O
+O O B-experiencer_focus
+O O O O O O O O O O B-fromloc.city_name O O O O
+O O O B-architectural_part O O O O O O O O O O O
+O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O B-calendric_unit-ent_date O O
+O O O O O B-toloc.city_name O O O O O O O O O
+O O O O O O B-natural_features O O O O O O O O
+O O O O O O O B-political_locales-text_creation O O O O O O O
+O O O O O O O O O O O B-relative_time-temporal_collocation-temporal_subregion O O O
+O O O O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O O O O O B-toloc.city_name
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O O O
+O O O O O B-calendric_unit-ent_date O O O O O O O O
+O O O O O O O O B-experiencer_focus O O O O O
+O O O O B-architectural_part O O O O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O B-fromloc.city_name O O
+O O O B-architectural_part O O O O
+O O O O O O O B-toloc.city_name
+O O O B-information O O O O O O O O O O
+O O O O O O O O O O B-ent_time O O O
+O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O
+O O O O O B-architectural_part O O O O O O O O
+O O O O O O B-departing-social_connection O O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O B-fromloc.city_name O O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O
+O O O O B-architectural_part O O O O O
+O O O O O O O O O B-natural_features
+O O O O O O O O B-toloc.city_name O
+B-architectural_part O O O O
+O O B-fromloc.city_name O O
+O O O O B-toloc.city_name
+O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O O O O B-experiencer_focus
+O O O O O O O O O O O B-calendric_unit-ent_date O
+O B-experiencer_focus O O O O O O O O O O O
+O O O O B-motion O O O O O O O O
+O O O O O O O O O O O B-toloc.city_name O O O O O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-fromloc.city_name O O
+O O O O B-clothing_parts O O O O O O O O O O O O O O O O O
+O O O O O O O B-vehicle O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-experiencer_focus O O O O O O O O
+O O O O O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O
+O O O O O O O O O O O O O O O O O B-type O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O B-toloc.city_name O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-architectural_part O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-assistance O
+O B-experiencer_focus O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-becoming O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-political_locales-text_creation O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-fromloc.city_name O O O O O O O O O O
+O B-architectural_part O O O O O O O O O
+O O O O O O O O B-toloc.city_name O O
+O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O O O O O B-calendric_unit-ent_date
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O O
+O O O B-fromloc.city_name O O O O O O O
+O O O O B-natural_features O O O O O O
+O O O O O B-political_locales-text_creation O O O O O
+O O O O O O B-political_locales-text_creation O O O O
+O O O O O O O O O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O
+O O O O O O O O B-fromloc.city_name O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit-ent_date O O O O O O O
+O O B-fromloc.city_name O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-toloc.city_name O O O O O
+O O O B-public_services-rite-using O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-calendric_unit-ent_date O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O B-calendric_unit-ent_date O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-cardinal_numbers O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-means-roadways-travel
+O O O O O O B-becoming O O O O O O O O O O O O O O O O
+O O O B-architectural_part O O O O O O
+O O O O O O O B-toloc.city_name O O
+O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O B-toloc.city_name O O O
+O B-architectural_part O O O O O O O O
+O O O O O O O O O B-calendric_unit-ent_date
+O O O O B-fromloc.city_name O O O O O
+O O B-departing-social_connection O O O O O O O
+O O O O O B-information O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-departing-social_connection O O O
+O O B-architectural_part O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O O O O O O O O B-toloc.city_name O O O O O O O O
+O O O O O O O O O O O O O B-natural_features O O O O O O O
+O O O O O O O O O O O O O O B-political_locales-text_creation O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O O O O O O O O B-ent_time O
+O B-fromloc.city_name O O O
+O O O O B-fromloc.city_name
+O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O O O B-calendric_unit-ent_date O O
+O O O O B-architectural_part O O O O O O O O O
+O O O O O O O O O B-toloc.city_name O O O O
+O O O O O O O O O O O O B-cardinal_numbers O
+O O O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay
+O O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O O B-architectural_part O O O O O O O O O O O O
+O B-experiencer_focus O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O
+O O O O O O O O O O O O O O O B-fromloc.city_name O
+O O O O O O O O B-natural_features O O O O O O O O
+O O O O O O O O O B-natural_features O O O O O O O
+O O O O O O O O O O B-political_locales-text_creation O O O O O O
+O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O B-fromloc.city_name O O O O O O O
+O O O O O O B-toloc.city_name O O O O O
+O O O O O O O O B-ent_time O O O
+O O B-becoming O O O O O O O O O
+O O O O O O O O O O O O O O O B-toloc.city_name
+O O O B-architectural_part O O O O O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O O O O O
+O O O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O B-departing-social_connection O O O O O O O O O O
+O O O O O O O O O O B-locative_relation O O O O O
+O O O O O O O O O O O O O B-motion O O
+O O O O O O O O O B-calendric_unit-ent_date O O O O O O
+O O O O O O O O B-ent_time O O O O O O O
+O O B-architectural_part O O O O O O O
+O O O O O O O O O B-fromloc.city_name
+O O O O O B-political_locales-text_creation O O O O
+O O O O O O B-political_locales-text_creation O O O
+O O O O B-fromloc.city_name O O O O O
+O O O O O O O O B-fromloc.city_name O
+O O O O O O O O O O B-toloc.city_name O O
+O O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O O
+O O O O O O O B-natural_features O O O O O
+O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O B-natural_features O O O O O O
+O O O O B-measure_duration O O O
+O O O B-fromloc.city_name O O O O
+O O O O O O O B-fromloc.city_name
+O B-fromloc.city_name O O
+O O O B-fromloc.city_name O O O O O
+O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O
+O O O O O B-toloc.city_name O O O
+O O O O O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O O O O O O B-fromloc.city_name O
+O O O O O O B-architectural_part O O O O O O O O O
+O O O O O O O O B-calendric_unit-ent_date O O O O O O O
+O O O O O O O O O O O O O B-natural_features O O
+O O O O O O O O O O O O B-toloc.city_name O O O
+O O B-information O O O O O O O
+O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O B-fromloc.city_name
+O O O O B-architectural_part O O O O O
+O B-experiencer_focus O O O O O O O O
+O O B-experiencer_focus O
+O O O B-fromloc.city_name
+O O O B-architectural_part O O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O B-toloc.city_name O O O O O O
+O O O O B-fromloc.city_name O O O O O O
+O O O O O O O B-toloc.city_name O O O
+O O B-architectural_part O O O O O O O O
+O O O O O B-political_locales-text_creation O O O O O
+O O O O O O O O O O B-measure_duration
+O O O O O O O O O B-calendric_unit-ent_date O
+O O O B-fromloc.city_name O O O O O
+O O O O O O B-fromloc.city_name O O
+O B-architectural_part O O O O O O O
+O O O O O O O O B-calendric_unit-ent_date
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O
+O O O O B-architectural_part O O O O O O
+O B-experiencer_focus O O O O O O O O O
+O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text
+O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O B-toloc.city_name O
+O O O O O O O B-toloc.city_name O O
+O O O O O O O O O B-calendric_unit-ent_date
+O O O B-architectural_part O O O O O O
+O O O O O B-fromloc.city_name O O O O
+O O O O O O O O B-locative_relation O
+O O O O O O O O B-toloc.city_name O O O O O O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O
+O O O O O O B-fromloc.city_name O O O O O O O O O O O
+O O O O B-architectural_part O O O O O O O O O O O O O
+O B-experiencer_focus O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-cardinal_numbers O O O O O O O
+O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O O O O O B-ent_time O
+O O O B-toloc.city_name O
+O B-motion O O O
+B-fromloc.city_name O O O O
+O B-architectural_part O O O O O
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O O B-political_locales-text_creation O O
+O O O B-fromloc.city_name O O O
+O O O O O O B-motion
+O O O O O O O O O O O O O O O B-locative_relation O O O O O
+O O O O O O O O O O O O B-toloc.city_name O O O O O O O O
+O O O O O B-architectural_part O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-departing-social_connection O O
+O O O O O O O B-becoming O O O O O O O O O O O O O
+O O O O O O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O
+O O O O O O O O O O O O O O B-locative_relation O O O O O O
+O O B-fromloc.city_name O O
+O O O O B-fromloc.city_name
+O B-cardinal_numbers O O O
+O O O O O O B-toloc.city_name O O O O O O
+O O O O O O O O O B-calendric_unit-ent_date O O O
+O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O B-political_locales-text_creation O O O O O
+O O O O O O O O O O O O B-fromloc.city_name
+B-architectural_part O O O O
+O O B-fromloc.city_name O O
+O O O O B-toloc.city_name
+O O O O O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-experiencer_focus O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O O O O B-toloc.city_name O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-architectural_part O O O O O O O O O
+B-fromloc.city_name O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-calendric_unit-ent_date O O O O O O O O O O O O O O O O O O O
+O O O O B-experiencer_focus O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-measure_duration O O O O
+O O O O O O B-toloc.city_name O
+O O O O B-fromloc.city_name O O O
+B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O
+O B-type O O O O O O
+O O B-architectural_part O O O O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O
+O O O O O O B-fromloc.city_name O O O O
+O O O O B-architectural_part O O O O O O
+O O O O O O O O B-toloc.city_name O O
+O O O O O O O O O B-natural_features O
+O O O O O O O O O O B-political_locales-text_creation
+O B-experiencer_focus O O
+O B-architectural_part O O O O O
+O O O B-fromloc.city_name O O O
+O O O O O B-toloc.city_name O
+O O O O O O B-calendric_unit-ent_date
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O O O B-fromloc.city_name O O
+O O O B-architectural_part O O O O
+O O O O O O O B-toloc.city_name
+O O O O B-fromloc.city_name O O O
+B-fromloc.city_name O O O O O O O
+O O O O O O O B-ent_time
+O B-motion O O O O O O
+O O O B-toloc.city_name O O O O
+B-architectural_part O O O O
+O O O O B-fromloc.city_name
+O O O B-fromloc.city_name O O O
+O B-fromloc.city_name O O O O O
+O O O O B-locative_relation O O
+O O O O O O O O O B-fromloc.city_name O O O O O
+O O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O
+O O O O O O O O B-toloc.city_name O O O O O O
+O O O O B-becoming O O O O O O O O O O
+O O O O O O O O B-calendric_unit-ent_date O O O O O
+O O O O O B-architectural_part O O O O O O O O
+O O O O O O O B-calendric_unit-ent_date O O O O O O
+O O O O O O O O O O O O O B-toloc.city_name
+O O O O O O O O O O O B-fromloc.city_name O O
+O O B-experiencer_focus O O O O O O O O O O O
+O O O O O O O O O B-becoming O O O O
+O O O O O O O B-toloc.city_name O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O O O B-calendric_unit-ent_date O O
+O O O B-means-roadways-travel O O O O O O O O O O
+O O O O O O O O O O O O O B-architectural_part
+O O O O O O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O
+O O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O
+O B-experiencer_focus O O O O O O O O O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O B-architectural_part O O O O O O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O B-toloc.city_name O O O O
+O O O O O O O O B-fromloc.city_name
+O O B-ent_norp-origin O O O O O O
+O O O B-architectural_part O O O O O
+O O O O O B-fromloc.city_name O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O B-architectural_part O O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O B-toloc.city_name O O O O O O
+O O O O O O O O O B-departing-social_connection O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O O O O O O B-ent_time O O
+O O O B-architectural_part O O O O O
+O O O O O O O O B-toloc.city_name
+O O O O O O B-fromloc.city_name O O
+O O O O O B-fromloc.city_name O O O
+O O O O O O B-toloc.city_name
+O O B-architectural_part O O O O
+O O O O B-fromloc.city_name O O
+O O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O O B-toloc.city_name O O
+O O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O O
+O O O O O O B-fromloc.city_name O O O O O O
+O O O B-becoming O O O O O O O O O
+O O O O O O O O O O O B-fromloc.city_name
+O O O O O O B-architectural_part O O O O O
+O O O O O O O O B-fromloc.city_name O O O
+O O O B-fromloc.city_name O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O B-toloc.city_name
+O O O B-architectural_part O O O O O
+O O O O O O B-motion O O
+O O O O O B-fromloc.city_name O O O
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O
+O O O B-grinding-ground_up O O O
+O O O O O O B-fromloc.city_name
+O O O O O B-toloc.city_name O O
+O O O O O O O B-calendric_unit-ent_date
+B-architectural_part O O O O O O O
+O O B-fromloc.city_name O O O O O
+O O O B-political_locales-text_creation O O O O
+O O O O O O B-toloc.city_name
+O O B-architectural_part O O O O
+O O O O B-fromloc.city_name O O
+O O O O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O O O O O O B-relative_time-temporal_collocation-temporal_subregion O O
+O O O O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O B-architectural_part O O O O O O O O O O O
+O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-measure_duration
+O O O O O O O B-calendric_unit-ent_date O O O O O O O O O
+O O O O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O O O O
+O O O B-fromloc.city_name O
+O O O O B-calendric_unit-ent_date
+B-fromloc.city_name O O O O
+O O O O B-departing-social_connection O O O
+O O O O O O B-fromloc.city_name O
+O O O B-grinding-ground_up O O O O
+O O O O O O O B-ent_time
+O O O B-calendric_unit-ent_date O
+O O B-locative_relation O O
+O O O O O O O O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O B-fromloc.city_name O O O O O O O O O O O O O
+O O B-fromloc.city_name O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-fromloc.city_name O O
+O O O B-architectural_part O O O O O O O O O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O O O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O
+O O O O O O O O O O O B-fromloc.city_name O O O O O O O O O
+O O O O O O O O O O O O O O B-toloc.city_name O O O O O O
+O O O O B-ent_cardinal O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O O O O B-motion O O O O O O O O
+O O O B-architectural_part O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O B-toloc.city_name O O O O
+O O O O O O O O B-natural_features O O O
+O O O O O O O O O B-political_locales-text_creation O O
+O O O O O O O B-fromloc.city_name O O
+O B-fromloc.city_name O O O O O O O O
+O O O O O B-architectural_part O O O O
+O O O O O O O O O B-toloc.city_name
+O O O O B-fromloc.city_name O O
+O B-calendric_unit-ent_date O O O O O
+O O O O O O B-toloc.city_name
+O O B-fromloc.city_name O O O O
+O O O O O B-fromloc.city_name O O
+O O O O O O O B-toloc.city_name
+O O O B-architectural_part O O O O
+O O B-information O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O
+O O O O B-architectural_part O O O O O O
+O O O O O B-departing-social_connection O O O O O
+O O O O O O O O O O B-fromloc.city_name
+O B-experiencer_focus O O O O O O O O O
+O O O O B-ent_time O O O O O O O
+O O O O O B-architectural_part O O O O O O
+O O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O O B-toloc.city_name O
+O B-experiencer_focus O O O O O O O O O O
+O O O O O O O O O O O B-political_locales-text_creation
+O O O O B-fromloc.city_name O O O
+O O O O O O O B-fromloc.city_name
+O O B-architectural_part O O O O O
+O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O O O O O O O O B-toloc.city_name
+O O O O O O B-fromloc.city_name O O O O
+O O O B-architectural_part O O O O O O O
+O O O O B-departing-social_connection O O O O O O
+O O O O O O O O B-motion O O
+O O B-fromloc.city_name O O O
+O O O B-fromloc.city_name O O
+O O O O O B-calendric_unit-ent_date
+O O O O B-experiencer_focus O
+O O O O O O O B-toloc.city_name
+O O O O O B-fromloc.city_name O O
+O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O
+O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O O B-toloc.city_name
+O O O B-architectural_part O O O O O O O
+O O O O O B-calendric_unit-ent_date O O O O O
+O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O O O O O B-fromloc.city_name O O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O O
+O O O O O O O O O O O B-ent_norp-origin O
+O O O O O O O O O O O O B-fromloc.city_name
+O O O O B-architectural_part O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O B-toloc.city_name O O O O
+O O O O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O O O O O B-toloc.city_name
+O O O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O O
+O O B-experiencer_focus O O O O O O O O O O O
+O O O B-fromloc.city_name O O
+O O O O O B-toloc.city_name
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O
+O O O O B-ammunition-shapes O O O O O O O
+O O O O O B-means-roadways-travel O O O O O O
+O O O O O O B-clothing_parts O O O O O
+O O O O O O O O O O O B-political_locales-text_creation
+O O O O O O O O B-fromloc.city_name O O O
+O O O B-experiencer_focus
+O O B-fromloc.city_name O
+O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O B-ent_norp-origin O
+O O O O O O O O O O B-fromloc.city_name
+O O O B-architectural_part O O O O O O O
+O O O O O O O B-toloc.city_name O O O
+O O O O O O O O O O O O O B-toloc.city_name
+O O O O O O O O B-architectural_part O O O O O
+O B-experiencer_focus O O O O O O O O O O O O
+O O O O O O B-ammunition-shapes O O O O O O O
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O
+O O O O O O O B-means-roadways-travel O O O O O O
+O O O O O O O O O O O B-political_locales-text_creation O O
+O B-architectural_part O O O O O O
+O O O O B-fromloc.city_name O O O
+O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text
+O O O O O O B-toloc.city_name O
+O O O O O O O O B-fromloc.city_name O O O O
+O B-fromloc.city_name O O O O O O O O O O O
+O O O O B-motion O O O O O O O O
+O O O O O O O O O B-political_locales-text_creation O O O
+O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O O O O O B-toloc.city_name O
+O O O B-fromloc.city_name O O O O O O O O O
+O O O O O O O O O O O B-toloc.city_name O
+O O O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O
+O O B-grinding-ground_up O O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text
+O O O B-ammunition-shapes O O O O O O O O O O O O
+O O O O B-means-roadways-travel O O O O O O O O O O O
+O O O O O B-architectural_part O O O O O O O O O O
+O O O O O O O O O O O O B-toloc.city_name O O O
+O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O O B-calendric_unit-ent_date
+O O O B-architectural_part O O O O O O O
+O O O O O O O O B-toloc.city_name O O
+O O O B-fromloc.city_name O O O O O O O
+O O O O B-calendric_unit-ent_date O O O O O O
+O O O O O B-calendric_unit-ent_date O O O O O
+O O O O O O O O O O B-fromloc.city_name
+O B-architectural_part O O O O O O O O O
+O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O B-fromloc.city_name O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O
+O O O B-architectural_part O O O O O O O O O O
+O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O
+O O O O O O O B-toloc.city_name O O O O O O
+O O B-calendric_unit-ent_date O O
+B-calendric_unit-ent_date O O O O
+O O O B-calendric_unit-ent_date O
+O O O O B-calendric_unit-ent_date
+O O O O O O O O O O B-fromloc.city_name O
+O O O O O O O O B-fromloc.city_name O O O
+O B-experiencer_focus O O O O O O O O O O
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O
+O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay
+O O O O B-architectural_part O O O O
+O O O O O O B-fromloc.city_name O O
+O O O O O O O O B-toloc.city_name
+O O B-architectural_part O O O O O
+O O O O B-fromloc.city_name O O O
+O O O O O O B-toloc.city_name O
+O O O O O O O O O O O O O B-fromloc.city_name O O O O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O O B-architectural_part O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-departing-social_connection O O O O O O O O O O O O
+O B-experiencer_focus O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date O O O
+O O O O O O O O O O O O O O O B-toloc.city_name O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O O O O O O O O O O B-ent_time O
+O O O O O O O O O O B-fromloc.city_name
+O O O O O O B-architectural_part O O O O
+O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O
+O O O O O O O O O O O O B-toloc.city_name
+O O O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O B-architectural_part O O O O O O O
+O O O O O O B-departing-social_connection O O O O O O
+O O O O O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O
+O O O O O O O O O B-fromloc.city_name O O
+O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O O O B-fromloc.city_name
+O O O B-architectural_part O O O O O O O O
+O O O O O O O O B-toloc.city_name O O O
+O O O O O O O O B-toloc.city_name
+O O O O B-architectural_part O O O O
+O O O O O O B-fromloc.city_name O O
+O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O
+O O O B-architectural_part O O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O B-toloc.city_name O O O O O O
+O O O O O O O O B-ammunition-shapes O O O O O
+O O O O O O O O O B-means-roadways-travel O O O O
+O O O O O O O O O O B-clothing_parts O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O O O O O O B-toloc.city_name
+O O O O O O B-architectural_part O O O O O
+O O O O O O O B-departing-social_connection O O O O
+O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O B-motion O O
+O B-experiencer_focus O O O O O O O O O O
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O
+O O O O B-architectural_part O O O O
+O O O O O O B-fromloc.city_name O O
+O O O O O O O O B-toloc.city_name
+O B-architectural_part O O O O O O O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O B-toloc.city_name O O O O O O O O O
+O O O B-fromloc.city_name O O O O O O O O O O O O O
+O O O O O O O O B-ammunition-shapes O O O O O O O O
+O O O O O O O O O B-means-roadways-travel O O O O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date O O O
+O O O O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O O O O O O B-ent_time O O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O O O B-toloc.city_name
+O O B-calendric_unit-ent_date O O O O O
+O O O B-architectural_part O O O O
+O B-relative_time-temporal_collocation-temporal_subregion O O O O O O
+O O O O O B-fromloc.city_name O O
+O O B-experiencer_focus O O O O O
+O O O O B-motion O O O
+O O O O O O O B-cardinal_numbers
+O O O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O B-architectural_part O O O O
+O O O O O O O O O O O O B-toloc.city_name
+O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O
+O O O O O O O B-type O O O O O
+O O O O B-ent_cardinal O O O O O O O O
+O O O O O B-means-roadways-travel O O O O O O O
+O O B-experiencer_focus
+O O B-architectural_part O O O O O O
+O O O O B-fromloc.city_name O O O O
+O O O O O O B-toloc.city_name O O
+O O O O O O O O B-calendric_unit-ent_date
+O O O O O B-toloc.city_name O
+O B-architectural_part O O O O O
+O O O B-fromloc.city_name O O O
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O O O O B-ent_time
+O O O B-calendric_unit-ent_date O O O O O
+O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O
+O O O O O O O O B-fromloc.city_name
+O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O O O O O B-toloc.city_name O O O O O
+O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date O O
+O O O O B-architectural_part O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O B-experiencer_focus O O O O O O O O O O O O
+O B-experiencer_focus O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-motion O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-ent_time
+O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O O O O O
+O O O O O B-architectural_part O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-toloc.city_name O O O O O O O O O O O O O O O O O
+O B-experiencer_focus O O O O O O O O O O O O O O O O O O O O O O O
+O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-calendric_unit-ent_date O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O O O
+O O O O O O O O O O O B-toloc.city_name
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O
+O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O B-architectural_part O O O O O O O
+O O O O O O O O O B-fromloc.city_name O O
+O O O O O B-fromloc.city_name O O
+O O O O O O O B-toloc.city_name
+O O O B-architectural_part O O O O
+O O B-fromloc.city_name O O O O O
+O O O O O B-fromloc.city_name O O
+O O O O O O O B-experiencer_focus
+O O O O O O B-measure_duration O
+O O O B-architectural_part O O O O O O O
+O O O O O O O O B-departing-social_connection O O
+O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O B-toloc.city_name O O O
+O O O B-ent_norp-origin O O O O O O
+O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O B-toloc.city_name
+O O O B-architectural_part O O O O
+O O O O O B-fromloc.city_name O O
+O O O O O O O B-toloc.city_name
+O O O B-fromloc.city_name O O
+O O O O O B-toloc.city_name
+O O O O O O O O O B-fromloc.city_name
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O
+O O O O B-architectural_part O O O O O
+O O O O O O B-fromloc.city_name O O O
+O B-fromloc.city_name O O O
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text
+O O O B-toloc.city_name O
+O O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O
+O O O O O B-architectural_part O O O O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O B-toloc.city_name O O O O O
+O B-experiencer_focus O O O O O O O O O O O O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O
+O O O O O O O O B-fromloc.city_name O O O
+O O O O B-ammunition-shapes O O O O O O O
+O O O O O B-means-roadways-travel O O O O O O
+O O O O O O B-architectural_part O O O O O
+O O O O O O O O O O O B-political_locales-text_creation
+O O O B-toloc.city_name O
+O B-fromloc.city_name O O O
+O O O O B-calendric_unit-ent_date
+O O O O O O O O O B-toloc.city_name
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O
+O O O O B-architectural_part O O O O O
+O O O O O O O B-fromloc.city_name O O
+O O O O O O B-fromloc.city_name O O O
+O O O O B-architectural_part O O O O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O B-architectural_part O O O O O O O O
+O O O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay
+O B-experiencer_focus O O O O O O O O O O O O
+O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O O O O B-toloc.city_name O O O O
+O O O O O B-toloc.city_name O O O
+O O O O O O O O B-calendric_unit-ent_date
+O O B-architectural_part O O O O O O
+O O O B-fromloc.city_name O O O O O
+O O O O O O B-relative_time-temporal_collocation-temporal_subregion O O
+O O O O O O O O B-fromloc.city_name
+O O O B-architectural_part O O O O O
+O O O O O B-fromloc.city_name O O O
+O O O O O O O B-toloc.city_name O
+O O O O O O O O B-fromloc.city_name O O O O O O O O O
+O O O O O O O O O O O O B-departing-social_connection O O O O O
+O O O O B-architectural_part O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O O O O O O O O O B-toloc.city_name
+O B-experiencer_focus O O O O O O O O O O O O O O O O
+O O O O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O O O O
+O O O O O O O O O O O B-calendric_unit-ent_date O O O O O O
+O O O B-architectural_part O O O O O
+O O O O O B-fromloc.city_name O O O
+O O O O O O O O B-ent_time
+O O O O O O O B-toloc.city_name O
+O O O O O O O O O O O B-fromloc.city_name O O O O O
+O O O B-vehicle O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O B-architectural_part O O O O O O O
+O O O O O O O O O O O O O B-toloc.city_name O O O
+O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O O
+O B-type O O O O O O O O O O O O O O O
+O O O O O B-public_services-rite-using O O O O O O O O O O O
+O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O B-toloc.city_name O O O O O O
+O O O O O O O O O B-calendric_unit-ent_date O O O
+O O O O O O O O O O O O B-fromloc.city_name
+O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O B-political_locales-text_creation O O O O O
+O B-architectural_part O O O O O
+O O O B-fromloc.city_name O O O
+O O O O O O B-toloc.city_name
+O O O O B-political_locales-text_creation O O
+O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling
+O O O B-grinding-ground_up O O O O O O O O
+O O O O O O O O O O B-calendric_unit-ent_date O
+O B-type O O O O O O O O O O
+O O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O O B-clothing_parts O O O O O
+O O O O O O B-ammunition-shapes O O O O O O O O O
+O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O
+O O O O O O O O O B-type O O O O O O
+O O O O O O O B-means-roadways-travel O O O O O O O O
+O O O O O O O O O O O O O O B-toloc.city_name O
+O O O O B-fromloc.city_name O O O O O O O O O
+O O B-architectural_part O O O O O O O O O O O
+O O O O O O O O B-toloc.city_name O O O O O
+O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O B-departing-social_connection O O O
+O O O O O O O O O O O O B-ent_time O
+O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O B-architectural_part O O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O O B-calendric_unit-ent_date O O O
+O O O O O O O B-toloc.city_name O O O O O O
+O O O B-fromloc.city_name O O O O O O
+O O O O O O O B-fromloc.city_name O O
+O O O O B-fromloc.city_name O O O O O
+O B-architectural_part O O O O O O O O
+O O O O O O O O O B-fromloc.city_name
+O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O O O O O O O O B-locative_relation
+O O O O B-fromloc.city_name O O O O O O O O O
+O O O O O B-clothing_parts O O O O O O O O
+O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O O B-fromloc.city_name
+O O O O O B-fromloc.city_name O O O O O O
+O O O O O O B-motion O O O O O
+O O O O O O O O B-toloc.city_name O O O
+O O O O O O O O O O O O O O B-calendric_unit-ent_date O O
+O O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O O O O O O
+O O O O O O O O O O B-ent_norp-origin O O O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O B-architectural_part O O O O O O O O O O O O
+O O O O O O O O B-toloc.city_name O O O O O O O O
+O O O O O O O O O O O O O O O O B-measure_duration
+O O O B-fromloc.city_name O O O
+O O O O O O B-toloc.city_name
+O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O
+O O O O O O O O O O B-toloc.city_name O
+O O O O O O B-calendric_unit-ent_date O O O O O
+O O O O O O O O B-fromloc.city_name O O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O
+O O O O B-architectural_part O O O O O O O
+O O O O O O O O O O O B-ent_time
+O B-architectural_part O O O O O O O
+O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text
+O O O O B-political_locales-text_creation O O O O
+O O O O O B-political_locales-text_creation O O O
+O O O B-fromloc.city_name O O O O O
+O O O O O O O B-toloc.city_name O
+O O O O O O B-fromloc.city_name O O
+O O O O B-architectural_part O O O O
+O O O O O O O O B-toloc.city_name
+O O O O O B-fromloc.city_name O O O O
+O O O O O O O B-toloc.city_name O O
+O O O O O O O O B-ammunition-shapes O
+O B-experiencer_focus O O O O O O O O
+O O O O O O O O O B-means-roadways-travel
+O O O B-motion O O O O O O
+O O O B-information O O O O O O O O O O O O O
+O O O O O O O O O O B-toloc.city_name O O O O O O
+O O O O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O B-architectural_part O O O O O O O O O O O
+O O O O O O O O O O O B-departing-social_connection O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O O O O O O O O O B-calendric_unit-ent_date O O
+O O O O O O O O O O O O O B-nights O O O
+O O O O O O O O O B-toloc.city_name O O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O O O O O O O O O O O O B-fromloc.city_name
+O B-architectural_part O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-calendric_unit-ent_date O O
+O O O O O O O O O O O O O O O B-cardinal_numbers O
+O O O O O O O O O O B-toloc.city_name
+O O O O O B-architectural_part O O O O O
+O O O O O O B-architectural_part O O O O
+O O O O O O O O B-fromloc.city_name O O
+O B-experiencer_focus O O O O O O O O O
+O O O B-motion O O O O O O O
+O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O B-fromloc.city_name
+O O O O B-departing-social_connection O O O O O
+O O O O O O B-fromloc.city_name O O O
+O B-fromloc.city_name O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O B-toloc.city_name O O O
+O B-experiencer_focus O O O O O O O O O O
+O O O O B-motion O O O O O O O
+O O O O O O O O O O B-fromloc.city_name O
+O O O O O O O B-toloc.city_name
+O B-architectural_part O O O O O O
+O O O O O B-fromloc.city_name O O
+O O O O B-toloc.city_name O O O
+O O O O O O B-calendric_unit-ent_date O
+B-architectural_part O O O O O O O
+O O B-fromloc.city_name O O O O O
+O O O O O O O B-calendric_unit-ent_date
+O O O O O B-fromloc.city_name O O O O O
+O O O B-architectural_part O O O O O O O
+O O O O O O O B-toloc.city_name O O O
+O O O O O O O O O B-cardinal_numbers O
+O O O O O O B-political_locales-text_creation
+O O O O O B-fromloc.city_name O
+O O B-architectural_part O O O O
+O O O O B-fromloc.city_name O O
+O O O O O O O O B-toloc.city_name
+O O B-architectural_part O O O O O O
+O O O O O O B-fromloc.city_name O O
+O O O O O O B-toloc.city_name O O O O
+O O O O O O O O O O B-fromloc.city_name
+O O O O B-fromloc.city_name O O O O O O
+B-ammunition-shapes O O O O O O O O O O
+O O B-architectural_part O O O O O O O O
+O B-means-roadways-travel O O O O O O O O O
+O O O O O O O B-ent_time O O O
+O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O O O O B-fromloc.city_name O O O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O O O
+O O O O B-architectural_part O O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O O B-assistance O O
+O O O O O O O O B-toloc.city_name O O O O O
+O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O O O O O O O B-ent_norp-origin O
+O O B-architectural_part O O O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O O B-calendric_unit-ent_date O O
+O O O B-architectural_part O O O
+O O O O O O B-ent_time
+O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O B-toloc.city_name O
+O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O
+O O B-grinding-ground_up O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O B-fromloc.city_name O O O O O O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O O O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O O O O O O O O O O O O B-fromloc.city_name
+O O O O B-architectural_part O O O O O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O O O O O O O B-cardinal_numbers O
+O O O O O B-fromloc.city_name O O O
+O O O B-architectural_part O O O O O
+O O O O O O O O B-toloc.city_name
+O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O
+O O O O O O B-fromloc.city_name O O O O O O O O O
+O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O O O O O O
+O O O O O O O O B-toloc.city_name O O O O O O O
+O O O B-architectural_part O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O O O O O B-fromloc.city_name O O
+O O O O O O O B-toloc.city_name
+O O O B-architectural_part O O O O
+O O O O O B-fromloc.city_name O O
+O O B-public_services-rite-using O O O O
+O B-grinding-ground_up O O O O O
+O O O O O O B-fromloc.city_name
+O B-information O O O O
+O O O B-fromloc.city_name O O
+B-architectural_part O O O O O
+O O O O O B-toloc.city_name
+O O O O O O O B-toloc.city_name O O O O O O O
+O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O B-ent_norp-origin O O O O O O O O O O O O O
+O O O B-architectural_part O O O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O O
+O O O O O O O O B-departing-social_connection O O O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O O
+O O O O O O O O O O O B-ent_time O O O
+O O O B-calendric_unit-ent_date O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-architectural_part O O
+O O O O B-cardinal_numbers O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-toloc.city_name O O O O O O O O O
+O O O O O B-measure_duration O O O O O O O O O O O O O O O O O
+O O O O O O O B-experiencer_focus O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-experiencer_focus O O O O O O
+O O O O O O O O O O O O O O O O O O B-motion O O O O
+O O O O O O O O O B-motion O O O O O O O O O O O O O
+O B-calendric_unit-ent_date O O O
+O O O O B-political_locales-text_creation
+O O O B-fromloc.city_name O
+B-calendric_unit-ent_date O
+O B-experiencer_focus
+O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O B-architectural_part O O O O O O
+O O O O O O B-cardinal_numbers O O O O O O O
+O O O O O O O O B-architectural_part O O O O O
+O O O O O O O O O O B-fromloc.city_name O O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O
+O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O O B-fromloc.city_name
+O O O O B-grinding-ground_up O O O O O O
+O O O O O O O B-fromloc.city_name O O O
+O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O O
+O O O O B-architectural_part O O O O O O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O
+O O O O O O O O O O O B-type O O
+O O B-calendric_unit-ent_date O O O O O O
+O O O B-calendric_unit-ent_date O O O O O
+O O O O B-architectural_part O O O O
+O O O O O O B-fromloc.city_name O O
+O O O O O O O O B-toloc.city_name
+O O O B-information O O O O O O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O O B-fromloc.city_name O O O
+O O O O O B-calendric_unit-ent_date O O O O O O O O O
+O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O
+O O O O O O B-departing-social_connection O O O O O O O O
+O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O B-architectural_part O O O O O O O O O O O O
+O O O O O O O B-toloc.city_name
+O O O O O B-fromloc.city_name O O
+O O O B-architectural_part O O O O
+O O O O O O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O O O B-architectural_part O O O O
+O O O O O O O O O O O O O O O B-toloc.city_name
+O B-experiencer_focus O O O O O O O O O O O O O O
+O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O O O
+O O O O O O O B-type O O O O O O O O
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O O O
+O O O O O O O O B-public_services-rite-using O O O O O O O
+O O O O B-fromloc.city_name O O O
+O O O O O O O B-fromloc.city_name
+O O O B-architectural_part O O O O O O O
+O B-ammunition-shapes O O O O O O O O O
+O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O
+O O B-means-roadways-travel O O O O O O O O
+O O O O O O B-political_locales-text_creation O O O O
+O O O O O O O O O O B-fromloc.city_name
+O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-toloc.city_name O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-motion O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-departing-social_connection O O O
+O O O O O O O O O O O O O O O O O B-experiencer_focus O O O O O O O O O O O
+O O O O O O O O O B-cardinal_numbers O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-becoming O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ent_time O
+O O O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O B-clothing_parts O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O
+O B-ammunition-shapes O O O O O O O O O O O O O O O O
+O O O O O O O O O B-toloc.city_name O O O O O O O O
+O O B-means-roadways-travel O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-locative_relation O O O O O O
+O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O O O O O B-ent_time O
+O O O O O O O B-fromloc.city_name
+O O B-motion O O O O O
+O O O O O O B-fromloc.city_name O
+O O O O O O B-toloc.city_name
+O O B-architectural_part O O O O
+O O O O B-fromloc.city_name O O
+O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O
+O O O O O O B-fromloc.city_name O
+O B-architectural_part O O O O O O
+O B-architectural_part O O O O O
+O O O B-fromloc.city_name O O O
+O O O O O O B-ent_time
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O O O B-toloc.city_name O
+O O O O O O O O B-ent_time
+O O B-means-roadways-travel O O O O O O
+O O O O O B-fromloc.city_name O O O
+O O O O B-fromloc.city_name O O O O
+O O O O O O O B-toloc.city_name O
+O O O O O O O O O O O B-toloc.city_name O O O
+O O O O O O O O O B-motion O O O O O
+O O O O O O B-architectural_part O O O O O O O O
+O B-experiencer_focus O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O B-toloc.city_name O O
+O O O O B-architectural_part O O O O O O O
+O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O O
+O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O B-fromloc.city_name O O O O O O O O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O O O O O O O
+O O O O O O B-architectural_part O O O O O O O O O O O O O
+O O O O O O O O O O B-toloc.city_name O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O
+O O O B-experiencer_focus O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-locative_relation O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O B-fromloc.city_name O O O O
+O O O O O O B-vehicle O
+O O B-locative_relation O O O O O
+O O O O O O O B-measure_duration
+O O O O O O O O O B-fromloc.city_name
+O O O O O O B-fromloc.city_name O O O
+O O O O B-becoming O O O O O
+O O O O O O O O B-fromloc.city_name O O O
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O
+O B-architectural_part O O O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O O B-ent_time O
+O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O B-toloc.city_name O
+O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O
+O B-fromloc.city_name O O O O O O O O O
+O O O O B-means-roadways-travel O O O O O O
+O B-architectural_part O O O O O O O O O
+O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O B-calendric_unit-ent_date
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O O
+O O O O O O B-toloc.city_name O O O O
+O O O O O O O B-natural_features O O O
+O O O O O O O O B-political_locales-text_creation O O
+O O O O O O O O O B-calendric_unit-ent_date O
+O O O B-ent_norp-origin O O O O O O O O O O O O
+O O O O B-architectural_part O O O O O O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O B-architectural_part O O O O O O O O O O
+O O O O O O O O O B-toloc.city_name O O O O O O
+O O O O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O O O B-ent_time O
+O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O B-fromloc.city_name O O O O O O
+O O O O B-architectural_part O O O O O O O O O O O
+O O O O O O O O O O O B-toloc.city_name O O O O
+O O O O O O B-calendric_unit-ent_date O O O O O O O O O
+O O O O O O O O O O O O B-political_locales-text_creation O O O
+O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O O O B-fromloc.city_name O O O O O O O
+O O O B-architectural_part O O O O O O O O O O O O
+O O O O O O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O
+O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O
+O O O B-architectural_part O O O O O O O O O O
+O O O O O O O B-toloc.city_name O O O O O O
+O O O O O O O O O O O B-relative_time-temporal_collocation-temporal_subregion O O
+O O O O O O O O B-toloc.city_name O O O
+O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O
+O O O O B-architectural_part O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O O O O B-fromloc.city_name O
+O O B-experiencer_focus
+O O O O O O B-toloc.city_name O O O
+O O B-architectural_part O O O O O O O
+O O O O O O O B-departing-social_connection O O
+O O O O O O O O O B-cardinal_numbers
+O O O O B-fromloc.city_name O O O O O
+O O O O O O O O B-locative_relation O
+O B-architectural_part O O O O O O O O O O
+O O O O O O O O O O O B-experiencer_focus
+O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O B-toloc.city_name O O O
+O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O O B-ent_time O
+O B-architectural_part O O O O O O O O
+O O O B-fromloc.city_name O O O O O O
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O
+O O O O O O B-toloc.city_name O O O
+O O O O O O O B-natural_features O O
+O O O O O O O O B-political_locales-text_creation O
+O O O O O O O O O B-political_locales-text_creation
+O O O B-fromloc.city_name O O O
+O B-architectural_part O O O O O
+O O O O O B-toloc.city_name O
+O O O O O O B-calendric_unit-ent_date
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O O O B-toloc.city_name O
+O O O O O B-ammunition-shapes O O O O O O O
+O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O O
+O O O O O O B-means-roadways-travel O O O O O O
+O O O O O O O O O O O O B-political_locales-text_creation
+O O O O O O O B-calendric_unit-ent_date O O O O O O
+O B-architectural_part O O O O O O O O O O O O
+O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O B-toloc.city_name O O O O O O O O
+O O O O O O O O O O B-experiencer_focus O O O
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O O O O O
+O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O O O O O O O B-measure_duration O O
+O O O O O O O O O O O O O B-experiencer_focus
+O O O O O O B-toloc.city_name
+O O O O B-fromloc.city_name O O
+O O B-architectural_part O O O O
+O O O O O B-fromloc.city_name O O O O O O O
+O O O B-architectural_part O O O O O O O O O
+O O O O O O O B-toloc.city_name O O O O O
+O O O O O O O O O B-departing-social_connection O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O B-ent_time O
+O O O O O O B-fromloc.city_name O O
+O O B-architectural_part O O O O O O
+O O O B-departing-social_connection O O O O O
+O O O O B-fromloc.city_name O O O O
+O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O B-toloc.city_name O O O O
+O O O O O O O O O O B-calendric_unit-ent_date O
+O O B-architectural_part O O O O O O O O O
+O O O O O O O O O B-fromloc.city_name O O
+O O O O O B-fromloc.city_name O O O O O O
+O O O O B-fromloc.city_name O O O O O O O
+O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O B-toloc.city_name O
+O O O O O O B-fromloc.city_name O O O O
+O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O
+O O B-grinding-ground_up O O O O O O O O
+O B-fromloc.city_name O O O
+O O B-measure_duration O O
+O O O O B-ent_time
+O O O O O O O B-architectural_part O O O O
+O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O
+O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text
+O O O O B-fromloc.city_name O O
+O O O O O O B-fromloc.city_name
+O O B-fromloc.city_name O O O O
+O O O B-grinding-ground_up O O O
+O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O
+O O O O O O B-toloc.city_name
+O O O O B-fromloc.city_name O O
+O O B-becoming O O O O
+O O O O O O O O O B-toloc.city_name
+O O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O
+O O O O O O O B-fromloc.city_name O O
+O O O O O B-architectural_part O O O O
+O O O O B-fromloc.city_name O O O O O O O
+O O O B-architectural_part O O O O O O O O
+O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O O O O O O O B-fromloc.city_name
+O O B-fromloc.city_name O O
+O O O B-fromloc.city_name O
+O O O O B-experiencer_focus
+O O O B-architectural_part O O O O O O
+O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O B-toloc.city_name O O
+O O O O O O O O B-fromloc.city_name
+O B-ent_norp-origin O O O O O O O
+O O B-fromloc.city_name O O O O O O
+O O O O O B-fromloc.city_name O O O
+O O O B-motion O O O O O
+O O O O O O O B-toloc.city_name O O O O O O O O
+O O O O O O O O O B-calendric_unit-ent_date O O O O O O
+O O O B-architectural_part O O O O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O O O O O O O O O B-departing-social_connection O O
+O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O O
+O O O O O B-architectural_part O O O O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O
+O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O O O
+O O O O O O O O O O O O O O B-measure_duration
+O O O O O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O B-clothing_parts O O O O O O O
+O O O B-fromloc.city_name O O O O O O O O O O O O
+O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O O O
+O O O O O O O B-type O O O O O O O O
+O O O O O O O O O O O O O O B-ammunition-shapes O
+O O O O O O O O O O O O O O O B-means-roadways-travel
+O B-architectural_part O O O O O O O O O O
+O O O B-fromloc.city_name O O O O O O O O
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O
+O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O B-ent_time O
+O O O O B-fromloc.city_name O O O O O
+O O O O O O B-calendric_unit-ent_date O O O
+O O O O O O O B-architectural_part O O
+O O O O O O O O O B-toloc.city_name
+O O B-fromloc.city_name O O O O O O O
+O O O B-architectural_part O O O O O O O O O
+O O O O O O O O O B-departing-social_connection O O O
+O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O B-toloc.city_name O O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O B-ent_time O
+O O O O B-fromloc.city_name
+O O B-fromloc.city_name O O
+O O O B-grinding-ground_up O
+O O B-architectural_part O O O O O O
+O O O O O O B-toloc.city_name O O
+O O O O B-fromloc.city_name O O O O
+O B-calendric_unit-ent_date O O O O O O O
+O O O O O O O B-public_services-rite-using O
+O O O O O O O O B-fromloc.city_name
+O O O O O O O O O B-toloc.city_name O
+O O O O O O O O O O B-architectural_part
+O O O O O O B-fromloc.city_name O O O O
+O O B-ammunition-shapes O O O O O O O O
+O O O B-means-roadways-travel O O O O O O O
+O O O O B-clothing_parts O O O O O O
+O O O O O O O B-political_locales-text_creation O O O
+O O O B-information O O O O O O O O O O O
+O O O O O B-architectural_part O O O O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O O B-departing-social_connection O O O
+O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O B-toloc.city_name O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O
+O O O O O O B-architectural_part O O O O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O O O
+O O O O O O O O O O O B-ent_time O O O O
+O O O O O O O O O O O O O O B-fromloc.city_name O
+O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O O B-departing-social_connection O O
+O O O O O B-architectural_part O O O O O O O
+O O O O O O O O O O O B-fromloc.city_name O
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O
+O O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay
+O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O B-calendric_unit-ent_date O O
+O O B-architectural_part O O O O O O O O O
+O O O O B-fromloc.city_name O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay
+O O O O O O O O O B-departing-social_connection O O O O O
+O O O O B-architectural_part O O O O O O O O O O
+O O O O O O O O B-toloc.city_name O O O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date O
+O B-experiencer_focus O O O O O O O O O O O O O
+O O O O O O O O O O O B-fromloc.city_name O O O
+O B-experiencer_focus O O O O
+O O B-public_services-rite-using O O O
+O O O O O B-fromloc.city_name
+O O B-ent_time O O
+O B-fromloc.city_name O O O
+O O O O B-public_services-rite-using
+O O O B-calendric_unit-ent_date O
+O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O
+O O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O B-fromloc.city_name O O O O O O
+O B-experiencer_focus O O O O O O O O O O O O O
+O O O O B-motion O O O O O O O O O O
+O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O O B-ent_time O
+O O O B-fromloc.city_name O O O O O O
+O O O O O B-calendric_unit-ent_date O O O O
+O B-architectural_part O O O O O O O O
+O O O O O O O B-fromloc.city_name O O
+O O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O
+O O O O O O O O O B-toloc.city_name
+O O O O O O B-toloc.city_name O O O
+O O O O O O O O O B-fromloc.city_name
+O O O O B-fromloc.city_name O O O O O
+B-ammunition-shapes O O O O O O O O O
+O O B-architectural_part O O O O O O O
+O B-means-roadways-travel O O O O O O O O
+O O O O O O O O B-calendric_unit-ent_date O
+B-fromloc.city_name O O O O O
+O O B-toloc.city_name O O O
+O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O
+O O O O O B-ent_time
+B-experiencer_focus O O O O O O O O O
+O O O O O O O O O B-calendric_unit-ent_date
+O O O O B-toloc.city_name O O O O O
+O O O O O O O B-political_locales-text_creation O O
+O O B-motion O O O O O O O
+O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O O O O O O O O O B-relative_time-temporal_collocation-temporal_subregion O O O
+O O O O O O O B-toloc.city_name O O O O O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-architectural_part O O
+O B-experiencer_focus O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date O O O O O O O
+O O O B-becoming O O O O O O O O O O O O O O O O O
+O O O O O O O B-toloc.city_name O
+O O O B-architectural_part O O O O O
+O O O O O B-fromloc.city_name O O O
+O O O O O O O O B-political_locales-text_creation
+O O O O O O B-fromloc.city_name O O
+O O O O B-architectural_part O O O O
+O O O O O O O O B-toloc.city_name
+O O O B-fromloc.city_name O O O O O
+O O O O B-fromloc.city_name O O O O O
+O O O O O O B-toloc.city_name O O O
+O O B-becoming O O O O O O O
+O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O B-ent_time O
+O O O O O O B-toloc.city_name
+O B-architectural_part O O O O O
+O O O B-fromloc.city_name O O O
+O O O O B-political_locales-text_creation O O
+O O O B-fromloc.city_name O O
+O O O O O B-toloc.city_name
+O O O O B-architectural_part O O O O O O
+O O O O O O B-fromloc.city_name O O O O
+O O O O O O O B-political_locales-text_creation O O O
+O O O O O O O O O O B-fromloc.city_name
+O O O O O O O O O B-toloc.city_name O
+O O O O B-experiencer_focus
+O O O B-calendric_unit-ent_date O
+O O O O O O O B-toloc.city_name O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O O
+O O O B-architectural_part O O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O B-natural_features O O O O O
+O O O O O O O O O O O B-departing-social_connection O O
+O O O O O O O O O O O O B-locative_relation O
+O O O O O O O O O B-toloc.city_name O O O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O O O
+O O O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O O B-political_locales-text_creation O O O O O
+O O O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O B-fromloc.city_name O O O O O O O O O
+O O O O B-becoming O O O O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O
+O O O O O O O O B-toloc.city_name O O O O
+O O O O B-architectural_part O O O O O O O O
+O B-fromloc.city_name O O O O O O O O O O O
+O O O O O O O O O O O B-fromloc.city_name O
+O O B-experiencer_focus
+O O O O O O O O O O B-architectural_part O O O
+O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O
+O O O O O O O O O O O B-fromloc.city_name O O
+O O O O B-architectural_part O O O O O O O O O
+O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O B-fromloc.city_name O O O O O
+O O O O B-fromloc.city_name O O O
+O O O O O O O B-fromloc.city_name
+O B-grinding-ground_up O O O O O O
+O O O O O B-fromloc.city_name O O O O
+O O O O O O O O B-toloc.city_name O
+O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O
+O O O O O B-fromloc.city_name O O
+O O O O O O O B-toloc.city_name
+O O O B-architectural_part O O O O
+O O O O O O B-fromloc.city_name O O
+O O O O B-architectural_part O O O O
+O O O O O O O O B-toloc.city_name
+O B-experiencer_focus O O O O O O O
+O O O O O O B-toloc.city_name O O O
+O O O O B-fromloc.city_name O O O O O
+O O B-means-roadways-travel O O O O O O O
+O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay
+O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O
+O O B-architectural_part O O O O O O O O O O O
+O O O B-architectural_part O O O O O O O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O B-ent_time O
+O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O
+O O B-architectural_part O O O O O O O O O O
+O O O B-departing-social_connection O O O O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O B-fromloc.city_name O O
+O B-architectural_part O O O O
+O O O O O B-toloc.city_name
+O O O O O O O B-fromloc.city_name O O O O O
+O O O O B-calendric_unit-ent_date O O O O O O O O
+O O O O O B-architectural_part O O O O O O O
+O O O O O O O O O B-toloc.city_name O O O
+O O O O O O O O O O O O B-measure_duration
+O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O
+O O O O O O O O O B-toloc.city_name O O O O O
+O O B-ent_norp-origin O O O O O O O O O O O O
+O O O O O B-architectural_part O O O O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O O O O B-cardinal_numbers O
+O O O O O O O O O O O O O O B-measure_duration
+O O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O O O
+O O O O O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O B-fromloc.city_name O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-fromloc.city_name O
+O O O O O O O O O O O O O O B-calendric_unit-ent_date O O O O O O O O O O O
+O O O O O B-architectural_part O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-departing-social_connection O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-experiencer_focus O O O O O O O O
+O O B-means-roadways-travel O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-vehicle O O O
+O O O O O O B-toloc.city_name O O O O O O O O O O O O O O O O O O O O O O
+O O O O B-fromloc.city_name O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-experiencer_focus O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-motion O O O O O O O
+O O O O O O O O O O O O B-becoming O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-calendric_unit-ent_date O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-ent_time O O O O O O O O O O O O O
+O O O O O O O O O O O B-toloc.city_name
+O O O O O B-architectural_part O O O O O O
+O O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O B-fromloc.city_name O O
+O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O O
+O O O O B-type O O O O O O O
+O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O O O O O O O
+O O O O O B-architectural_part O O O O O O O O O O O O
+O O O B-locative_relation O O O O O O O O O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O
+O O O O O O O O O O O O O O O O B-type O
+O O O O O O O O O O B-political_locales-text_creation O O O O O O O
+O O O O O O O O O O O O O O O O O B-public_services-rite-using
+O O O O O O O O O B-toloc.city_name O O O O O O O O
+O O O O O B-fromloc.city_name O O
+O O B-architectural_part O O O O O
+O O O O O O O B-fromloc.city_name
+O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O O O O O O B-fromloc.city_name
+O O O O O B-calendric_unit-ent_date O O O
+O O O O O O B-public_services-rite-using O O
+O O O B-fromloc.city_name O O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O O O
+O O O B-fromloc.city_name O O O O O O O O O O O O
+O O O O O O B-architectural_part O O O O O O O O O
+O O O O O O O O O O O B-departing-social_connection O O O O
+O O O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O B-motion O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O O O B-ent_time O
+O O O O B-means-roadways-travel O O O O
+O O O O O O B-fromloc.city_name O O
+O O O O O O O O B-toloc.city_name
+O B-experiencer_focus O O O O O O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O
+O O O O B-architectural_part O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O O B-assistance O
+O O O O O O O O O O O B-measure_duration
+O O O O O O O O B-toloc.city_name O O O
+O O O O B-political_locales-text_creation O
+O O O B-fromloc.city_name O O
+O O B-fromloc.city_name O O O
+O O O O O B-calendric_unit-ent_date
+O O O O O B-fromloc.city_name O O
+O O O B-architectural_part O O O O
+O O O O O O O B-toloc.city_name
+O O O O O O B-toloc.city_name O O
+O O B-architectural_part O O O O O O
+O O O O B-fromloc.city_name O O O O
+O O O O O O O O B-calendric_unit-ent_date
+O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay
+O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O O O O B-cardinal_numbers O O O O
+O O O O O O B-architectural_part O O O O O O O O
+O O O O O O O O O O O B-departing-social_connection O O O
+O O O O O O O O B-fromloc.city_name O O O O O O
+O O O B-vehicle O O O O O O O O O O O
+O O O O O O O O O O B-motion O O O O
+O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O O B-ent_time O
+O O O O O O O O B-calendric_unit-ent_date
+O B-architectural_part O O O O O O O
+O O O B-fromloc.city_name O O O O O
+O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O
+O O O O O B-toloc.city_name O O O
+O O O B-fromloc.city_name O O O O O O
+O O O O O B-fromloc.city_name O O O O
+O O O O O O O O B-fromloc.city_name O
+O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling
+O O O O O O O O O O B-calendric_unit-ent_date O O
+O O O B-architectural_part O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O B-toloc.city_name O O O O
+O O O O O O O O O O B-calendric_unit-ent_date O O O O O
+O O O O O O O O O O O O O O O B-fromloc.city_name
+O O B-architectural_part O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-fromloc.city_name O
+O O O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O B-fromloc.city_name O O O O O O O O O
+O O O O O O O O O O O O B-motion O O O
+O O O O O O O O O O O B-fromloc.city_name O O O O
+O O B-architectural_part O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O O B-public_services-rite-using
+O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O
+O O O O O O O O O B-type O
+O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O B-architectural_part O O O O O O O O
+O O O O O O O O O B-toloc.city_name O O O O
+O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O
+O O O O O B-toloc.city_name O O O
+O O O O O O O B-calendric_unit-ent_date O
+O B-architectural_part O O O O O O O
+O O O B-fromloc.city_name O O O O O
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O
+O O O O O O B-relative_time-temporal_collocation-temporal_subregion O O
+O O O O O O O O O O O B-fromloc.city_name O O
+O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O O
+O O O O O O O O B-fromloc.city_name O O O O O
+O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O B-type O O O O O O O
+O O O O O O O O O O B-toloc.city_name O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date
+O B-architectural_part O O O O O O O O
+O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text
+O O O O O O B-political_locales-text_creation O O O
+O O O O O B-fromloc.city_name O O O O
+O O O O O O O O B-toloc.city_name O
+O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O B-calendric_unit-ent_date O O
+O O B-architectural_part O O O O O O O O O
+O O O O O O B-toloc.city_name O O O O O
+O O O O O O O O O O O B-calendric_unit-ent_date
+O O B-calendric_unit-ent_date O O O O O
+O B-architectural_part O O O O O O
+O O O O O O O B-toloc.city_name
+O O O O O B-fromloc.city_name O O
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O
+O O O O B-fromloc.city_name O O O
+O O O O O O O O O B-toloc.city_name
+O O O B-ent_norp-origin O O O O O O
+O O O O O B-architectural_part O O O O
+O O O O O O O B-fromloc.city_name O O
+O O O B-fromloc.city_name O O O O O O O O O
+O O O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O O O B-toloc.city_name O
+O O O O O O B-architectural_part O O O O O O
+O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O
+O O O O B-ent_cardinal O O O O O O O O
+O B-architectural_part O O O O O O O
+O O O O O B-fromloc.city_name O O O
+O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text
+O O O O O O O B-toloc.city_name O
+O B-fromloc.city_name O
+O O B-buildings-capability-linguistic_meaning-range-scheduling
+O O O B-fromloc.city_name O O O O O O O
+O O O O B-calendric_unit-ent_date O O O O O O
+O O O O O B-calendric_unit-ent_date O O O O O
+O O O O O O O O O O B-fromloc.city_name
+O B-architectural_part O O O O O O O O O
+O O O O O O O B-fromloc.city_name O O O
+O O O B-architectural_part O O O O
+O O O O O O O B-ent_time
+O O O O O B-fromloc.city_name O O O
+O O B-calendric_unit-ent_date O O O O O O
+O B-architectural_part O O O O O O O
+O O O B-calendric_unit-ent_date O O O O O
+O O O O O O O B-toloc.city_name O
+O O O O O O B-fromloc.city_name O O O O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O
+O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O B-toloc.city_name O O
+O O O O O O O O O O B-natural_features O
+O O O O O O O O O O O B-political_locales-text_creation
+O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O O
+O O O O O O O O O O O B-toloc.city_name
+O O O O O O B-calendric_unit-ent_date O O O O O
+O O O O O O O B-architectural_part O O O O
+O O O O O O O O O B-fromloc.city_name O O
+O O O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O
+B-calendric_unit-ent_date O O O O O O
+O B-calendric_unit-ent_date O O O O O
+O O B-architectural_part O O O O
+O O O O O O B-fromloc.city_name
+O O O B-calendric_unit-ent_date
+O O B-locative_relation O
+O O O O B-fromloc.city_name O O O O O
+O O O O O O B-toloc.city_name O O O
+O O O O O O O O O B-calendric_unit-ent_date
+O O B-becoming O O O O O O O
+O O O O O O O B-toloc.city_name O
+O O O O O B-fromloc.city_name O O O
+O B-fromloc.city_name O O O O O O O
+O O O B-becoming O O O O O
+O O O O O O O O B-ent_time
+O B-fromloc.city_name O O O O O O O O O
+O O O O O O O O O O B-toloc.city_name
+O O O O O O O O B-fromloc.city_name O O
+O O B-type O O O O O O O O
+O O O B-public_services-rite-using O O O O O O O
+O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O O O B-fromloc.city_name
+O O O O B-fleeing O O O O O O O
+O O O O O O B-toloc.city_name O O O O O
+O O O O O O O B-natural_features O O O O
+O O O O O O O O B-political_locales-text_creation O O O
+O O O B-fromloc.city_name O O O
+O O O O O B-calendric_unit-ent_date O
+O B-architectural_part O O O O O
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O O B-architectural_part O O O O O O O O O O O O
+O O O O O O O O O O O O O B-toloc.city_name O O O
+O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O O B-becoming O O O O O
+O B-architectural_part O O O O O O O O O
+O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay
+O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O B-grinding-ground_up O O O O O
+O O O O O O O B-means-roadways-travel O O O O
+O O O O O O O O O O O B-ent_time
+O O O O O O O O O O B-fromloc.city_name O
+O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O O B-calendric_unit-ent_date O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O O O
+O O O O O O O O B-toloc.city_name O O O O O
+O O O O O O O O O B-departing-social_connection O O O O
+O O O O B-architectural_part O O O O O O O O O
+O O O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay
+O O O O O O O B-toloc.city_name
+O O O O O B-fromloc.city_name O O
+O O O B-architectural_part O O O O
+O O O O B-fromloc.city_name O O O
+B-information O O O O O O O
+O O O O O O O B-fromloc.city_name
+O O B-architectural_part O O O O O
+O O O O O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-architectural_part O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-fromloc.city_name O O O O O O O
+O O O B-experiencer_focus O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-locative_relation O O O O O O O O
+O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-becoming O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-toloc.city_name O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O B-toloc.city_name O O O
+O O O B-architectural_part O O O O O O O
+O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O
+O O O O O O O O O O B-type
+O O O O O O O O O O B-toloc.city_name
+O O O O O O O O B-fromloc.city_name O O
+O O O O O O B-architectural_part O O O O
+O B-experiencer_focus O O O O O O O O O
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O O O O O O B-fromloc.city_name O O O
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O
+O O O B-architectural_part O O O O O O O O
+O O O O O O B-toloc.city_name O O O O O
+O O O O O O O O O O O B-fromloc.city_name
+O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O B-fromloc.city_name
+O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O
+O B-fromloc.city_name O O O O O O O O
+O O O O B-grinding-ground_up O O O O O
+O O O O O O O O O O B-toloc.city_name
+O O O O O O B-architectural_part O O O O
+O O O O O O O O B-fromloc.city_name O O
+O B-experiencer_focus O O O O O O O O O
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O O O O O B-toloc.city_name O O O O O O
+O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O
+O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O B-natural_features O O O O O
+O O O B-architectural_part O O O O O O O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O O O O O O B-fromloc.city_name O O
+O O O O O O B-toloc.city_name O O O
+O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O B-fromloc.city_name
+B-ammunition-shapes O O O O O O O O O
+O O B-architectural_part O O O O O O O
+O B-means-roadways-travel O O O O O O O O
+O O O O O O O O B-calendric_unit-ent_date O
+O O O O B-measure_duration O O O
+O O O B-fromloc.city_name O O O O
+O O O O O O O B-fromloc.city_name
+O O O O O B-fromloc.city_name O O O O O
+O O O O O O O B-toloc.city_name O O O
+O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O O O O O B-calendric_unit-ent_date
+O O O B-architectural_part O O O O O O O
+O O O O O O O B-toloc.city_name O O O
+O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O B-calendric_unit-ent_date O
+O B-experiencer_focus O O O O O O O O O
+O O O B-becoming O O O O O O O
+O O O O O O O B-toloc.city_name O O O O
+O O O O O O O O O B-fromloc.city_name O O
+O O O O O B-fromloc.city_name O O O O O O
+O O O B-architectural_part O O O O O O O O
+O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O B-departing-social_connection O O O
+O O O O O O O O O O B-locative_relation O
+O O O O O B-fromloc.city_name O O
+O O O B-architectural_part O O O O
+O O O O O O O B-toloc.city_name
+O O O B-architectural_part O O O O O O O O O O
+O O O O O O O O O O B-departing-social_connection O O O
+O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O B-toloc.city_name O O O O
+O O O O O O O B-motion O O O O O O
+O O O O O O O O O O O O B-ent_time O
+O O B-fromloc.city_name O O O
+O O O B-fromloc.city_name O O
+O O O O O B-calendric_unit-ent_date
+O O O O B-fromloc.city_name O
+O O O O O O O O O O B-fromloc.city_name O O O
+O O O O O B-calendric_unit-ent_date O O O O O O O O
+O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O B-architectural_part O O O O O O O O O O O O
+O O B-departing-social_connection O O O O O O O O O O O
+O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O B-ent_time O
+O O O O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O B-architectural_part O O O O O O O O O O O O
+O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O
+O O O O O O O O O O O O O B-locative_relation O O O O O
+O O O O O O O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O O B-toloc.city_name O O O O O O O O
+O O O B-fromloc.city_name O O O O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O O O
+O B-architectural_part O O O O O O O O O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O O B-calendric_unit-ent_date O O O O O
+O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O
+O O O O O O O O O O O O B-calendric_unit-ent_date O O O
+O O B-departing-social_connection O O O O O O O O O O O O O
+O O O O B-fromloc.city_name O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O O O B-ent_time O
+O O O O O O O O O O B-toloc.city_name
+O O O O O O O O B-fromloc.city_name O O
+O O O O O O B-architectural_part O O O O
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O O B-fromloc.city_name O O O
+O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O O
+O O B-architectural_part O O O O O O O O O O O
+O O O O O O O B-calendric_unit-ent_date O O O O O O
+O O O O O O B-calendric_unit-ent_date O O O O O O O
+O O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O
+O O O O O O O O O O O O O B-type
+O O O O O O O O O B-fromloc.city_name O O O O
+O B-calendric_unit-ent_date O
+O O B-calendric_unit-ent_date
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O
+O O O O O O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O O O O O O O O O O B-toloc.city_name
+O O O O O O O O O O O O B-cardinal_numbers O O O O O O
+O O O O O O O O O O O O O B-means-roadways-travel O O O O O
+O O O B-calendric_unit-ent_date O O O
+O O O O B-architectural_part O O
+O O O O O O B-fromloc.city_name
+O O O O O O O O O B-calendric_unit-ent_date
+O B-architectural_part O O O O O O O O
+O O O O O O O B-toloc.city_name O O
+O O O O O B-fromloc.city_name O O O O
+O O O O B-architectural_part O O O O O O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O O O
+O O O O O O O B-cardinal_numbers O O O O O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O O O O O O B-motion O O O
+O O O O O O O O O O B-fromloc.city_name
+O O O O O B-architectural_part O O O O O
+O O O O O O O B-fromloc.city_name O O O
+O O B-fromloc.city_name O O O O O O O O
+O B-information O O O O O
+O O O O O O B-toloc.city_name
+O O O O B-fromloc.city_name O O
+B-architectural_part O O O O O O
+O O O O O O B-toloc.city_name
+O O O O B-fromloc.city_name O O
+O B-architectural_part O O O O O
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O O O O O B-fromloc.city_name O O
+O O O O O B-architectural_part O O O O
+O O O O O O O O O B-toloc.city_name
+O O O B-fromloc.city_name O O O O O O
+O O O O O O O O B-fromloc.city_name O O O O O O O O O O O O O
+O O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O B-architectural_part O O O O O O O O O O O O O O O
+O B-experiencer_focus O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O O
+O O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O
+O O O O O O O O O O O O B-toloc.city_name O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-fromloc.city_name O
+O O O O O O O O O O B-toloc.city_name
+O O O O O O O O B-fromloc.city_name O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O
+O O O O B-ammunition-shapes O O O O O O
+O O O O O B-means-roadways-travel O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O B-ent_norp-origin O O O O O O O O
+O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O
+O O O B-architectural_part O O O O O O O O O O
+O O O O O O O O O B-toloc.city_name O O O O
+O O O O O O O O O O O O B-ent_time O
+B-fromloc.city_name O O O O
+O O O B-fromloc.city_name O
+O O B-toloc.city_name O O
+O O O O B-architectural_part O O O O O O
+O O B-ammunition-shapes O O O O O O O O
+O O O B-means-roadways-travel O O O O O O O
+O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O O B-ent_time
+O O O O O O O O O B-toloc.city_name O
+O O O O O O O O B-toloc.city_name
+O B-buildings-capability-linguistic_meaning-range-scheduling O O O O O O O
+O O O O O O B-fromloc.city_name O O
+O O O O B-political_locales-text_creation O O O O
+O O O B-fromloc.city_name O O O O O
+O O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O B-architectural_part O O O O O O O
+O O O O O O O O O B-toloc.city_name O O
+O O O O O O O B-fromloc.city_name O O
+O O O O B-ent_norp-origin O O O O O
+O O B-architectural_part O O O O O O O
+O O O O O O O O O B-toloc.city_name
+O O O O O O O O B-fromloc.city_name O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O
+O O O O B-ammunition-shapes O O O O O O
+O O O O O B-means-roadways-travel O O O O O
+O O O O O O O O O O B-toloc.city_name
+O O B-toloc.city_name
+B-fromloc.city_name O O
+O O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O O O O B-fromloc.city_name O O O O
+O O O O O O B-fromloc.city_name O O O O O O O O
+O O B-architectural_part O O O O O O O O O O O O
+O O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O
+O O O O B-departing-social_connection O O O O O O O O O O
+O O O O B-departing-social_connection O O O O O O O O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O B-architectural_part O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O B-calendric_unit-ent_date O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O
+O O O O B-departing-social_connection O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O O O B-ent_time O
+O O O O B-fromloc.city_name O O O O O O O O O
+O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O O
+O O O B-grinding-ground_up O O O O O O O O O O
+O B-type O O O O O O O O O O O O
+O O O O O B-ent_norp-origin O O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O B-architectural_part O O O O O O O
+O O O O O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O O O O O O B-toloc.city_name
+O O O O O O O O O O O O B-motion O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O O O O
+O O O O O O O O B-ent_cardinal O O O O O O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O
+O O O O O O O O B-toloc.city_name
+O O O O B-architectural_part O O O O
+O O O O O O B-fromloc.city_name O O
+O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O O O B-fromloc.city_name
+O O O B-architectural_part O O O O O O O O O
+O O O O O O O B-toloc.city_name O O O O O
+O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O
+O O O O O B-fromloc.city_name O O
+O O O B-architectural_part O O O O
+O O O O O O O B-toloc.city_name
+O O O O O O O O B-toloc.city_name O O O O O O O
+O O O O B-architectural_part O O O O O O O O O O O
+O O O O O O O O O O O O O B-public_services-rite-using O O
+O O O O O O B-fromloc.city_name O O O O O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O B-ammunition-shapes O O O O O O O O O O O O O
+O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O
+O O O O O O O O O O O O B-type O O O
+O O O B-means-roadways-travel O O O O O O O O O O O O
+O O O O O O O B-toloc.city_name O O O O O
+O B-architectural_part O O O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O
+O O O O O O O O O O O B-ent_time O
+O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O B-architectural_part O O O O O O O O
+O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O O O O O O O B-fromloc.city_name O
+O O O O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O B-architectural_part O O O O O O O O O O
+O O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O O O O B-measure_duration O O
+O O O O O O O O O O O B-cardinal_numbers O O O
+O O B-ammunition-shapes O O O O O O O O O O O O
+O O O B-means-roadways-travel O O O O O O O O O O O
+O O O O O O O O O B-toloc.city_name
+O O O B-architectural_part O O O O O O
+O O O O O O O B-fromloc.city_name O O
+O O B-fromloc.city_name O O O O O O O O
+O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O B-fromloc.city_name O
+O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O
+O O O O O O B-fromloc.city_name O O O O
+O B-grinding-ground_up O O O O O O O O O
+O O O O O B-toloc.city_name O O
+O O O O O O O B-fromloc.city_name
+O B-experiencer_focus O O O O O O
+O O O B-motion O O O O
+O O B-toloc.city_name
+B-fromloc.city_name O O
+O O O O B-departing-social_connection O O O O O O O
+O O O O O O O O O O O B-toloc.city_name
+O O O O O O O O O B-fromloc.city_name O O
+O B-type O O O O O O O O O O
+O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O O B-ent_time O O O O O
+O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O
+O O B-architectural_part O O O O O O
+O O O O O O O O B-ent_time
+O O O O O O O B-toloc.city_name O
+B-calendric_unit-ent_date O O O O O O O O
+O B-calendric_unit-ent_date O O O O O O O
+O O B-architectural_part O O O O O O
+O O O O O O B-fromloc.city_name O O
+O O O O O O O O B-political_locales-text_creation
+O O O O O O O B-fromloc.city_name O
+O O O O B-fromloc.city_name O O O O O
+O O O O O O B-calendric_unit-ent_date O O O
+O O O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling
+O O O B-grinding-ground_up O O O O O O
+O O O O O O O O B-fromloc.city_name O
+O B-type O O O O O O O O
+O O O B-fromloc.city_name O O O O
+O O O O O B-toloc.city_name O O
+O B-architectural_part O O O O O O
+O O O O O O O B-calendric_unit-ent_date
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O
+O O O B-fromloc.city_name O O O O O O O
+O O O O B-architectural_part O O O O O O
+O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O B-toloc.city_name O O
+O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O B-fromloc.city_name O O O
+O O O O O O O O B-calendric_unit-ent_date
+O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O
+B-calendric_unit-ent_date O O O O O O O O
+O B-architectural_part O O O O O O O
+O O O O O O O B-fromloc.city_name O
+O O O O O B-toloc.city_name
+B-architectural_part O O O O O
+O O B-fromloc.city_name O O O
+O O O B-political_locales-text_creation O O
+O O O O O B-toloc.city_name
+O O O B-fromloc.city_name O O
+O B-architectural_part O O O O
+O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O
+O B-fromloc.city_name O O O O
+O O O O O B-architectural_part
+O O O O B-type O
+O O O O O O O B-toloc.city_name
+O O O B-architectural_part O O O O
+O O O O O B-fromloc.city_name O O
+O O O O O O O O O B-fromloc.city_name O O O O
+O O O B-information O O O O O O O O O O
+O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O O O B-calendric_unit-ent_date O O O O O O O O
+O O O O O O O O O O O B-toloc.city_name O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O B-type O
+O O B-public_services-rite-using O O
+O O O O B-public_services-rite-using
+O O O O O O O O O O B-fromloc.city_name O O
+O B-calendric_unit-ent_date O O O O O O O O O O O
+O O B-calendric_unit-ent_date O O O O O O O O O O
+O O O O O O O B-architectural_part O O O O O
+O O O O O O O O O O O O B-toloc.city_name
+O O O O O O O O B-architectural_part O O O O
+O O O O B-experiencer_focus O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O B-architectural_part O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-departing-social_connection O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O
+O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O
+O O O B-architectural_part O O O O O O O O O O O O
+O O O O O O O O B-calendric_unit-ent_date O O O O O O O
+O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O
+O O O O O O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O O O O O B-toloc.city_name O O
+O O O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O B-cardinal_numbers O O O O O O O O O O
+O O O O B-fromloc.city_name O O O O O
+O O O O O O B-toloc.city_name O O O
+O O B-becoming O O O O O O O
+O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O B-ent_time O
+O O O O O O O O B-toloc.city_name O O
+O O O O O O O O O B-calendric_unit-ent_date O
+O O O B-vehicle O O O O O O O
+O O O O O O B-motion O O O O
+O O O O O O B-fromloc.city_name
+O B-architectural_part O O O O O
+O O O B-fromloc.city_name O O O
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O O O O O O O B-toloc.city_name O O O O O O
+O O O O B-fromloc.city_name O O O O O O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O O O
+O O O B-architectural_part O O O O O O O O O O O O
+O O O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O
+O O O O O O O O O B-fromloc.city_name O O O O O O
+O O O B-vehicle O O O O O O O O O O O O
+O O O O O O O B-architectural_part O O O O O O O O
+O O O O O O O O O O O B-toloc.city_name O O O O
+O O O O O O O O O O O O O B-departing-social_connection O O
+O B-type O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O B-toloc.city_name O O O
+O O O O O O B-architectural_part O O O O O O O O
+O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O B-fromloc.city_name O O
+O O O O O O B-architectural_part O O O O
+O O O O O O O O O O B-toloc.city_name
+O O O O B-cardinal_numbers O O O O O O
+O O O O O B-means-roadways-travel O O O O O
+O O O O O O O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date O O O
+O O O O O O O O O O B-departing-social_connection O O O O O O
+O O O O B-architectural_part O O O O O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O O O O O O O O O O B-measure_duration O
+O O O O O O O O B-toloc.city_name O O O O O O O O
+O O O O O O O O O O O O B-fromloc.city_name
+O O O B-architectural_part O O O O O O O O O
+O O O O O B-calendric_unit-ent_date O O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O
+O O O O O O O O O B-fromloc.city_name O O O O O O O
+O O O B-fromloc.city_name O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date O O O
+O O O O O O O O O O O B-toloc.city_name O O O O O
+O O O O O O O O O O O O O O B-cardinal_numbers O O
+O O O O O O O O O O O O O O O B-measure_duration O
+O O O O O O O O O O O O O O O O B-fromloc.city_name
+O O O O B-cardinal_numbers O O O O O O O O O O O O
+O O O O O B-means-roadways-travel O O O O O O O O O O O
+O O O B-architectural_part O O O O O
+O O O O O B-fromloc.city_name O O O
+O O O O O O O B-toloc.city_name O
+O B-ammunition-shapes O O O O O O O
+O O B-means-roadways-travel O O O O O O
+O O O O O O O O B-political_locales-text_creation
+O O O B-fromloc.city_name O O O O O O O
+O O O O O B-architectural_part O O O O O
+O O O O O O O O O O B-ent_time
+O O O O O O O O O B-fromloc.city_name O
+O O O O O O O O O B-toloc.city_name O O O
+O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O B-architectural_part O O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O
+O O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay
+O B-fromloc.city_name O O O O O
+O O O O O O B-toloc.city_name
+O O O O B-fromloc.city_name O O
+O O B-motion O O O O
+O O O O B-fromloc.city_name O O O
+O O O B-architectural_part O O O O
+O O O O O O B-fromloc.city_name O
+O O O O O O O O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O B-toloc.city_name O O O O O O O O O
+O O O O O O O O O O O B-toloc.city_name O O O O O O
+O O O O O O O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O B-motion O O O O O O O O
+O B-experiencer_focus O O O O O O O O O O O O O O O O
+O O O B-toloc.city_name O O O O O O O O O O O O O O
+O O O O O B-means-roadways-travel O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-fromloc.city_name O O
+O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O B-toloc.city_name O O O O O O
+O O O O O O O O O B-measure_duration O O
+O O O O O O O O B-cardinal_numbers O O O
+O O O O O O O O O O O O O B-fromloc.city_name
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O
+O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O O O
+O O O O O O O O O O O O B-fromloc.city_name O
+O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O O O O O O B-toloc.city_name O O
+O O O B-architectural_part O O O O O O O
+O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O B-fromloc.city_name O
+O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay
+O O O O B-fromloc.city_name O O O O O
+O O O O O O O O B-ent_norp-origin O
+O O O O O O O O O B-fromloc.city_name
+O O B-architectural_part O O O O O O O
+O O O O O O B-toloc.city_name O O O
+O O O O B-fromloc.city_name O O O
+O O O O O O O B-fromloc.city_name
+O O B-becoming O O O O O
+O O O O O O O O O B-toloc.city_name
+O O O B-architectural_part O O O O O O
+O O O O O O O B-fromloc.city_name O O
+O O O O O B-fromloc.city_name O O O O
+O O B-fromloc.city_name O O O O
+O O O O O O B-fromloc.city_name
+O B-grinding-ground_up O O O O O
+O O O O O O B-toloc.city_name O O O O
+O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O O B-experiencer_focus
+O O B-becoming O O O O O O O O
+O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O O O B-public_services-rite-using O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O O O O
+O O O O O O O O O O O O O B-locative_relation O O O
+O O O O O O O O O O O O O O O B-cardinal_numbers O
+O O O O O O O O O O O O O O O O B-means-roadways-travel
+O O O O O B-fromloc.city_name O O
+O O O O O O O B-toloc.city_name
+O O O B-architectural_part O O O O
+O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O O O B-toloc.city_name
+O O O O O O B-architectural_part O O O O
+O O O O O O O O B-fromloc.city_name O O
+O O O O B-ammunition-shapes O O O O O O
+O O O O O B-means-roadways-travel O O O O O
+O O O O O O B-fromloc.city_name O O O O O
+O O O O B-fromloc.city_name O O O O O O O
+O O O B-architectural_part O O O O O O O O
+O O O O O O O O B-toloc.city_name O O O
+O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay
+O O O O O O B-experiencer_focus O O O O O O O
+O O O O O O O O O O B-fromloc.city_name O O O
+B-fromloc.city_name O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-ent_time
+O O O B-experiencer_focus O O O O O O O O O O
+O O O O O O O O B-becoming O O O O O
+O O O O O O O O O O O O B-toloc.city_name O
+O O B-architectural_part O O O O O
+O O O O O O O B-fromloc.city_name
+O O O O O O B-fromloc.city_name O
+O O O O O O O B-fromloc.city_name O O O O O O O O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-grinding-ground_up O O
+O O O O O O O O O B-fromloc.city_name O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date O O O O O O O O O O
+O O O O O O O B-toloc.city_name
+O O O B-architectural_part O O O O
+O O O O O B-fromloc.city_name O O
+O O O O B-fromloc.city_name O O O
+O O O O O O O B-fromloc.city_name
+O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O
+O O O B-grinding-ground_up O O O O
+O O B-information O O O O O O O
+O O O O B-architectural_part O O O O O
+O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O B-ent_time
+O B-experiencer_focus O O O O O O O O
+O O O O O O O O B-toloc.city_name O
+O O O O B-fromloc.city_name O O O O O O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date
+O B-calendric_unit-ent_date O O O O O O O O O O O O
+O O B-architectural_part O O O O O O O O O O O
+O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O O O O O
+O O O O O O O O B-toloc.city_name O O O O O
+O O O O O O O O O O B-departing-social_connection O O O
+O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O B-toloc.city_name O O
+O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O O
+O O O B-means-roadways-travel O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O
+O O O O B-fromloc.city_name O O
+O O O B-departing-social_connection O O O
+O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O
+O O B-architectural_part O O O O
+O O O O O O B-fromloc.city_name
+B-fromloc.city_name O O O O O
+O O B-toloc.city_name O O O
+O O O O O B-calendric_unit-ent_date
+O O O B-architectural_part O O
+O O O O B-calendric_unit-ent_date O
+O O O O O O B-fromloc.city_name
+O B-architectural_part O O O O O
+O O O B-fromloc.city_name O O O
+O O O B-architectural_part O O O O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O O O O O O O O O B-departing-social_connection O O O O
+O O O O O O O B-natural_features O O O O O O O O
+O O O O O O O O B-natural_features O O O O O O O
+O O O O O O O O O B-political_locales-text_creation O O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O O O B-ent_time O
+O O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O
+O O O O B-architectural_part O O O O O O O
+O O O O O O O O O O O B-fromloc.city_name
+O B-fromloc.city_name O O O O O O O O O
+O O B-fromloc.city_name O O O O O O O O
+O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O O O
+O O O O O O O O O B-political_locales-text_creation O
+O O O O O O O O O O B-political_locales-text_creation
+O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O B-political_locales-text_creation O O
+O O O B-becoming O O O O O O O
+O O O O O O O O O O B-toloc.city_name
+O O O O O O B-clothing_parts O O O O
+O O O O O O O O B-fromloc.city_name O O
+O O O O B-cardinal_numbers O O O O O O
+O O O O O B-means-roadways-travel O O O O O
+O O O O B-information O O O O O O O O O O
+O O O O O O O O O O O O B-toloc.city_name O O
+O O O O O O O O O O B-fromloc.city_name O O O O
+O O O B-architectural_part O O O O O O O O O O O
+O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O O O O O B-architectural_part O O
+O O O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O O O O O O B-architectural_part O
+O O O B-fromloc.city_name O O O O O O O O O O O O
+O O O O O B-motion O O O O O O O O O O
+O O O O O O O O O B-toloc.city_name O O O O O O
+B-architectural_part O O O O O
+O O O O O B-toloc.city_name
+O O O B-political_locales-text_creation O O
+O O B-fromloc.city_name O O O
+O O O O O B-fromloc.city_name O O
+O O O O B-grinding-ground_up O O O
+O O O O O O O B-fromloc.city_name
+O O O O O O O B-fromloc.city_name
+O B-experiencer_focus O O O O O O
+O O O B-motion O O O O
+O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O
+O O O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O O O O O O O O B-departing-social_connection O O O
+O O O O O B-fromloc.city_name O O O O O O O O O O
+O O O B-architectural_part O O O O O O O O O O O O
+O O O O O O O B-natural_features O O O O O O O O
+O O O O O O O O B-natural_features O O O O O O O
+O O O O O O O O O B-political_locales-text_creation O O O O O O
+O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O O O O O O O O O B-ent_time O
+O O O O O O O O O O O B-fromloc.city_name O O O
+O O O O B-fleeing O O O O O O O O O O
+O O O O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay
+O O O O O O B-toloc.city_name O O O O O O O O
+O O O O O O O B-natural_features O O O O O O O
+O O O O O O O O B-political_locales-text_creation O O O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date O
+O B-architectural_part O O O O O
+O O O B-fromloc.city_name O O O
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O O O O B-ent_time
+O O O O O B-toloc.city_name O
+O O O O O O O O O B-fromloc.city_name O O O
+O O O O B-vehicle O O O O O O O O
+O O O O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O
+O O O O O O B-fromloc.city_name O O O O O O
+O O O B-vehicle O O O O O O O
+O O O O O O B-architectural_part O O O O
+O O O O O O O O O O B-toloc.city_name
+O O O O O O O O B-fromloc.city_name O O
+O O O O B-cardinal_numbers O O O O O O
+O O O O O B-means-roadways-travel O O O O O
+O B-calendric_unit-ent_date O O O O O O O O O O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O O O O O O O
+O O B-architectural_part O O O O O O O O O O O O O O O O O
+O O O O O O O B-toloc.city_name O O O O O O O O O O O O
+O O O O O O O O O O B-experiencer_focus O O O O O O O O O
+O O O O O O O O O O O O O B-type O O O O O O
+O O O O O O O O O O O O O O O O B-public_services-rite-using O O O
+O O O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O O O B-becoming O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-ent_time O
+O O O O O O O O O B-toloc.city_name
+O O O O O O O B-fromloc.city_name O O
+O B-fromloc.city_name O O O O O O O O
+O O O O O B-architectural_part O O O O
+O O O O O B-fromloc.city_name O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+O B-architectural_part O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-cardinal_numbers O O O O O
+O O O O O O O O O O B-calendric_unit-ent_date O O O O O O
+O O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O
+O O O O O O O O O O O O O O O B-relative_time-temporal_collocation-temporal_subregion O
+O O O O O O O B-toloc.city_name O O O O O O O O O
+B-fromloc.city_name O O O O
+O O B-calendric_unit-ent_date O O
+O B-fromloc.city_name O O O
+O O O B-calendric_unit-ent_date O
+O O O O O O O B-toloc.city_name O O O O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O O O O O O O
+O O B-fromloc.city_name O O O O O O O O O O O O O O O O O
+B-architectural_part O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O O O O B-ammunition-shapes O O O O O O O O O
+O O O O O O O O O O O B-means-roadways-travel O O O O O O O O
+O O O O O O O O O O O O B-clothing_parts O O O O O O O
+O O O O O O O O O O O O O O O O B-calendric_unit-ent_date O O O
+O O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O O B-fromloc.city_name O O
+O O B-architectural_part O O O O
+O O O O O O B-toloc.city_name
+O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O
+O O O B-fromloc.city_name O O O
+O O O O O O B-toloc.city_name
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O
+O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O
+O O O O B-fromloc.city_name O O O O
+O O O B-grinding-ground_up O O O O O
+O O O O O O O O B-fromloc.city_name
+O O O O B-measure_duration O O O
+O O O B-fromloc.city_name O O O O
+O O O O O O O B-fromloc.city_name
+O O O O O O O O O B-toloc.city_name
+O O O B-fromloc.city_name O O O O O O
+O O O O B-calendric_unit-ent_date O O O O O
+O O O O O O O B-fromloc.city_name O O
+O O O O O B-architectural_part O O O O
+O O O O B-motion O O O
+O O O B-grinding-ground_up O O O O
+O O O O O O O B-ent_time
+O O O O O O B-fromloc.city_name O
+O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O O O B-buildings-capability-linguistic_meaning-range-scheduling O O
+O O O O B-fromloc.city_name O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O
+O O O O O O O B-toloc.city_name O O
+O O O O O O O O O B-calendric_unit-ent_date
+O B-experiencer_focus O O O O O O O O
+O O O B-motion O O O O O O
+O O O O O O O O O O B-fromloc.city_name
+O O O O O O B-fleeing O O O O
+O O O O O B-toloc.city_name
+O B-architectural_part O O O O
+O O O B-fromloc.city_name O O
+B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O
+B-information O O O O O O O O O O
+O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O O B-fromloc.city_name
+O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O O
+O O O B-type O O O O O O O
+O O O O B-ammunition-shapes O O O O O O
+O O O O O B-means-roadways-travel O O O O O
+O B-architectural_part O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O
+O O O O O O O B-toloc.city_name O O O
+O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O O B-calendric_unit-ent_date O O
+O O O O O O O O B-toloc.city_name O O O O
+O O O O O O O O O O O B-cardinal_numbers O
+O B-ammunition-shapes O O O O O O O O O O O
+O O O O O O O O O O O O B-measure_duration
+O O B-means-roadways-travel O O O O O O O O O O
+O O O B-architectural_part O O O O O O O O O
+O O B-fromloc.city_name O O
+B-architectural_part O O O O
+O O O O B-toloc.city_name
+O O O O O O O O O B-toloc.city_name O O O O O O
+O O O O O O O B-fromloc.city_name O O O O O O O O
+O O O O B-ent_norp-origin O O O O O O O O O O O
+O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O O O O O O O O
+O O O B-type O O O O O O O O O O O O
+O O O O O O O O O O O B-calendric_unit-ent_date O O O O
+O O O O O O O O B-calendric_unit-ent_date O O O O O O O
+O O O O O O O O O O B-calendric_unit-ent_date O O O O O
+O O O O O O O O O O O O O O O B-fromloc.city_name
+O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O
+O O O B-architectural_part O O O O O O O O O O O O
+O O O O B-departing-social_connection O O O O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O O O
+O O B-experiencer_focus O O O O O O O O O O O O O
+O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O B-calendric_unit-ent_date O O
+O O O O O O O O O O B-calendric_unit-ent_date
+O B-architectural_part O O O O O O O O O
+O O O O O O B-toloc.city_name O O O O
+O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O O O B-experiencer_focus
+O O O B-architectural_part O O O O O O O O
+O O O O O B-fromloc.city_name O O O O O O
+O O O O O O O O O O B-fromloc.city_name O
+O O O O O O O B-toloc.city_name O O O O
+O O O O O O O O O B-fromloc.city_name
+O O O O O O O B-calendric_unit-ent_date O O
+O O O O B-political_locales-text_creation O O O O O
+O B-fromloc.city_name O O O O O O O O
+O O O B-political_locales-text_creation O O O O O O
+O O O O O O B-grinding-ground_up O O O
+O O O O O O O O O B-fromloc.city_name
+O O O O B-architectural_part O O O O O
+O O O O O O B-fromloc.city_name O O O
+O O O B-fromloc.city_name O O O O O O
+O O O O O B-ent_norp-origin O O
+O O O O O O B-assistance O
+O O O B-fromloc.city_name O O O O
+O O O O O O O B-calendric_unit-ent_date
+O O O O O O B-architectural_part O O O O
+O O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O O B-toloc.city_name
+O O O O B-ammunition-shapes O O O O O O
+O O O O O B-means-roadways-travel O O O O O
+O O B-experiencer_focus
+O O O O O O B-fromloc.city_name O O
+O O O B-calendric_unit-ent_date O O O O O
+O O O O B-architectural_part O O O O
+O O O O O O O O B-toloc.city_name
+O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O O B-calendric_unit-ent_date
+O B-architectural_part O O O O O O O O O
+O O O O O O O B-toloc.city_name O O O
+O O O B-fromloc.city_name O O O O O O O
+O O O O O O O O B-motion O O
+O O B-relative_time-temporal_collocation-temporal_subregion O O O O O O O O
+O O O B-fromloc.city_name O O O O O O O O O O O O
+O O O O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O B-fromloc.city_name O O O O O O
+O B-vehicle O O O O O O O O O O O O O O
+O O O O O O B-calendric_unit-ent_date O O O O O O O O O
+O O O O O O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O O O O O O B-fromloc.city_name O
+O O O O O B-calendric_unit-ent_date O O O O O O O O O O
+O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O
+O O O O O B-fromloc.city_name O O O O O
+O O O O O O O B-toloc.city_name O O O
+O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay
+O O O O O O O O O B-calendric_unit-ent_date O
+O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O O O O O O O
+O O O B-architectural_part O O O O O O O
+O B-experiencer_focus O O O O O O O O O
+O O O B-calendric_unit-ent_date O O O O
+O B-calendric_unit-ent_date O O O O O O
+O O B-architectural_part O O O O O
+O O O O O B-fromloc.city_name O O
+O O O O O O O B-toloc.city_name
+O O O O O O O O O O O O O B-toloc.city_name O
+O O O O O O O B-calendric_unit-ent_date O O O O O O O
+O O O B-architectural_part O O O O O O O O O O O
+O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O
+O O O O O O O O O O O B-fromloc.city_name O O O
+O O O O O O O O O O O O O O B-natural_features
+O O O O O O O O B-cardinal_numbers O O O O O O
+O O O O O B-fromloc.city_name O O O O O O O O O
+O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O B-toloc.city_name O O
+O O O O B-architectural_part O O O O O O
+O O O O O O O O O O B-calendric_unit-ent_date
+O O O O O O B-fromloc.city_name O O
+O O O O B-architectural_part O O O O
+O O O O O O O O B-toloc.city_name
+O O B-cardinal_numbers O O O O O O
+O O O B-means-roadways-travel O O O O O
+O O O O O O O O O B-fromloc.city_name O O O O O
+O O O O O O O O O O O O O B-calendric_unit-ent_date O
+O O O O O O B-fromloc.city_name O O O O O O O O
+O O O O O O O O O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay
+O O O O B-architectural_part O O O O O O O O O O
+O B-fromloc.city_name O O O O O O O O O O O O O
+O O O O O O O O O O O B-calendric_unit-ent_date O O O
+B-fromloc.city_name O O O
+O O B-toloc.city_name O
+O O O B-calendric_unit-ent_date
+O O B-fromloc.city_name O O O
+O O O O O B-fromloc.city_name
+O O O B-calendric_unit-ent_date O O
+O O O O B-calendric_unit-ent_date O
+O O O O O B-fromloc.city_name O O O O
+O O O B-architectural_part O O O O O O
+O O O O O O O B-toloc.city_name O O
+O O O O O O O O B-cardinal_numbers O
+O O O O O O O O O B-means-roadways-travel
+O O O O O O O B-fromloc.city_name O O
+O O O O O O O O O B-toloc.city_name
+O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay O O O O O O
+O O O O B-type O O O O O
+O O O O O B-architectural_part O O O O
+O O O O O B-fromloc.city_name O O O O O O O O O O O O
+O O O B-architectural_part O O O O O O O O O O O O O O
+O O O O O O O B-toloc.city_name O O O O O O O O O O
+O O O O O O O O O B-calendric_unit-ent_date O O O O O O O O
+O O O O O O O O O O O O O O O B-activity_stop-arriving-body_parts-education_teaching-fluidic_motion-halt-observable_body_parts-preventing-process_stop-text O O
+O O O O O O O O O O O O O B-fromloc.city_name O O O O
+O O O O O O O O O O O O O O O O O B-calendric_unit-ent_date
+B-fromloc.city_name O O O O
+O O O O B-fromloc.city_name
+O O B-toloc.city_name O O
+O O O B-political_locales-text_creation O
+O O O O O B-fromloc.city_name O O
+O O O B-architectural_part O O O O
+O O O O O O O B-toloc.city_name
+O O B-fromloc.city_name O O O O
+O O O O O O B-aiming-color-ent_ordinal-expensiveness-frequency-identicality-ordinal_numbers-part_whole-temporary_stay

@@ -1,0 +1,8 @@
+easydict
+pandas
+pytorch-pretrained-bert
+prettytable
+tensorflow==2.10.0
+scipy
+scikit-learn
+nltk
