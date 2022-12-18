@@ -61,7 +61,7 @@ Then, train the model with different active learning strategies:
 CUDA_VISIBLE_DEVICES=0 bash run_script_slot/run_ours_load_pretrain_XX.sh  # XX:["random","bald","entropy","margin","mmr_margin","hybrid"]
 ```
 
-The saved model and the results will be saved in `./outputs` and `./results` respectively.
+The models and the results will be saved in `./outputs` and `./results` respectively.
 
 To train the model on different datasets with different parameters, change the parameters to any combination of the following, and rerun the above two commands:
 >dataset = ["woz-attr", "woz-hotel", "atis"] \
